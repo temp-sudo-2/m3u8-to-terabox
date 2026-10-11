@@ -1,0 +1,33 @@
+◇ injected env (5) from .env
+TERABOX_NDUS { present: true, length: 40, hasOuterWhitespace: false }
+TERABOX_JSTOKEN { present: true, length: 128, hasOuterWhitespace: false }
+TERABOX_APP_ID { present: true, length: 6, hasOuterWhitespace: false }
+[sricharan@sricachyos terabox]$ npm list terabox-upload-tool
+terabox@1.0.0 /home/sricharan/Desktop/scraping/apna/terabox
+`-- terabox-upload-tool@1.4.1
+
+[sricharan@sricachyos terabox]$ grep -nE 'ndus|jsToken|bdstoken|precreate|uploadFile' \
+  node_modules/terabox-upload-tool/lib/index.js
+19:    if (!credentials || !credentials.ndus || !credentials.appId || !credentials.jsToken) {
+20:      throw new Error('Credentials are required (ndus, appId, jsToken).');
+24:      ndus: credentials.ndus,
+25:      cookies: `lang=en; ndus=${credentials.ndus};`,
+27:      jsToken: credentials.jsToken,
+28:      bdstoken: credentials.bdstoken || '',
+38:  async uploadFile(filePath, progressCallback, directory = '/') {
+51:      const precreateUrl = buildPrecreateUrl(this.credentials.appId, this.credentials.jsToken, this.credentials.dpLogId);
+52:      const precreateResponse = await axios.post(
+53:        precreateUrl,
+65:      if (precreateResponse.data.errno !== 0) {
+66:        throw new Error(`Precreate failed: ${precreateResponse.data.errmsg || 'Unknown error'}`);
+69:      const uploadId = precreateResponse.data.uploadid;
+79:      const createUrl = buildCreateUrl(this.credentials.appId, this.credentials.jsToken, this.credentials.dpLogId);
+90:      if (this.credentials.bdstoken) createParams.append('bdstoken', this.credentials.bdstoken);
+104:      const createUrl = buildCreateUrl(this.credentials.appId, this.credentials.jsToken, this.credentials.dpLogId);
+112:      if (this.credentials.bdstoken) createParams.append('bdstoken', this.credentials.bdstoken);
+125:      const listUrl = buildListUrl(this.credentials.appId, directory, this.credentials.jsToken, this.credentials.dpLogId);
+135:      const { ndus, appId, jsToken, dpLogId } = this.credentials;
+136:      return await getDownloadLink(ndus, fileId, appId, jsToken, dpLogId);
+164:      const { ndus, appId, jsToken, dpLogId } = this.credentials;
+165:      const res = await getShortUrl(ndus, filePath, fileId, appId, jsToken, dpLogId);
+[sricharan@sricachyos
