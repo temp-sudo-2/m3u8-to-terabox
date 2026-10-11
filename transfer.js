@@ -3,7 +3,58 @@ require("dotenv").config();
 const fs = require("node:fs");
 const path = require("node:path");
 const { spawn } = require("node:child_process");
+const axios = require("axios");
 const TeraboxUploader = require("terabox-upload-tool");
+
+axios.interceptors.request.use((config) => {
+  const requestUrl = new URL(config.url, config.baseURL);
+
+  if (requestUrl.hostname === "www.1024terabox.com") {
+    requestUrl.hostname = "dm.1024terabox.com";
+  }
+
+  if (requestUrl.pathname === "/rest/2.0/pcs/superfile2") {
+    requestUrl.hostname =
+      process.env.TERABOX_UPLOAD_HOST || "kul-cdata.1024terabox.com";
+    requestUrl.searchParams.delete("dp-logid");
+    requestUrl.searchParams.set(
+      "logid",
+      Buffer.from(`${Date.now() * 10}.${Math.random()}`).toString("base64"),
+    );
+  }
+
+  config.url = requestUrl.toString();
+
+  return config;
+});
+
+axios.interceptors.response.use(undefined, (error) => {
+  const response = error.response;
+
+  if (response && error.config?.url) {
+    const requestUrl = new URL(error.config.url, error.config.baseURL);
+    const code = response.data?.error_code ?? response.data?.errno;
+    const codeLabel = Number.isInteger(code) ? code : "unknown";
+    const headers = response.config?.headers;
+    const cookieHeader =
+      headers?.get?.("Cookie") ?? headers?.Cookie ?? headers?.cookie ?? "";
+    const cookieNames = String(cookieHeader)
+      .split(";")
+      .map((cookie) => cookie.split("=", 1)[0].trim())
+      .filter(Boolean)
+      .join(",") || "none";
+    const uploadId = requestUrl.searchParams.get("uploadid");
+    const uploadIdPresent = Boolean(uploadId && uploadId !== "undefined");
+
+    console.error(
+      `TeraBox request failed: ${requestUrl.hostname}${requestUrl.pathname} ` +
+        `(HTTP ${response.status}, code ${codeLabel}, cookies ${cookieNames}, ` +
+        `uploadId ${uploadIdPresent ? "present" : "missing"})`,
+    );
+  }
+
+  return Promise.reject(error);
+});
 
 const INPUT_FILE = path.resolve("video-prime.json");
 const OUTPUT_FILE = path.resolve("output.json");
@@ -28,6 +79,16 @@ const uploader = new TeraboxUploader({
   bdstoken: process.env.TERABOX_BDSTOKEN || undefined,
   browserId: process.env.TERABOX_BROWSER_ID || undefined,
 });
+
+const browserCookie = process.env.TERABOX_COOKIE?.trim();
+
+if (browserCookie) {
+  uploader.credentials.cookies = browserCookie;
+} else if (process.env.TERABOX_BROWSER_ID) {
+  uploader.credentials.cookies =
+    `browserid=${process.env.TERABOX_BROWSER_ID}; ` +
+    `ndus=${process.env.TERABOX_NDUS};`;
+}
 
 function atomicWrite(file, data) {
   const temporary = `${file}.tmp`;
@@ -86,6 +147,9 @@ function downloadVideo(url, destination) {
       "3",
       "--concurrent-fragments",
       "1",
+      "--format",
+      "bestvideo[height<=1080][format_id!*=original]+bestaudio/" +
+        "best[height<=1080][format_id!*=original]/best[height<=1080]",
       "--merge-output-format",
       "mp4",
       "--output",
@@ -165,29 +229,50 @@ async function uploadAndVerify(localPath, remotePath) {
     throw new Error("Upload response did not contain a confirmed file ID");
   }
 
-  // Verify the uploaded file appears in the remote directory.
-  const listing = await uploader.fetchFileList(remoteDirectory);
+  const localSize = fs.statSync(localPath).size;
+  let listing;
+  let remoteFile;
 
-  if (
-    !listing ||
-    listing.success !== true ||
-    !Array.isArray(listing.data?.list)
-  ) {
+  for (let attempt = 0; attempt < 6; attempt++) {
+    listing = await uploader.fetchFileList(remoteDirectory);
+
+    if (
+      listing?.success === true &&
+      Array.isArray(listing.data?.list)
+    ) {
+      remoteFile = listing.data.list.find(
+        (file) =>
+          file.server_filename === filename &&
+          Number(file.size) === localSize,
+      );
+
+      if (remoteFile) {
+        break;
+      }
+    }
+
+    if (attempt < 5) {
+      await new Promise((resolve) => setTimeout(resolve, (attempt + 1) * 1000));
+    }
+  }
+
+  if (!listing?.success || !Array.isArray(listing.data?.list)) {
     throw new Error("Could not verify the uploaded file in TeraBox");
   }
 
-  const localSize = fs.statSync(localPath).size;
-
-  const remoteFile = listing.data.list.find(
-    (file) =>
-      file.server_filename === filename &&
-      Number(file.size) === localSize &&
-      String(file.fs_id) === String(details.fs_id),
-  );
-
   if (!remoteFile) {
+    const sameName = listing.data.list.filter(
+      (file) => file.server_filename === filename,
+    );
+    const sizeMatches = sameName.some((file) => Number(file.size) === localSize);
+    const idMatches = sameName.some(
+      (file) => String(file.fs_id) === String(details.fs_id),
+    );
+
     throw new Error(
-      "Uploaded file was not found with the expected name, size and ID",
+      `Uploaded file verification failed after 6 checks ` +
+        `(listed=${listing.data.list.length}, name=${sameName.length > 0}, ` +
+        `size=${sizeMatches}, id=${idMatches})`,
     );
   }
 
@@ -250,7 +335,7 @@ async function main() {
     const filename =
       `${safeName(category)}_` +
       `${safeName(item.name || item.sourceId)}_` +
-      `${safeName(item.sourceId || "video")}.mp4`;
+      `${safeName(item.sourceId || "video")}_1080p.mp4`;
 
     const localPath = path.join(TEMP_DIR, filename);
 

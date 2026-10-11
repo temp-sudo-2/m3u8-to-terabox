@@ -1,0 +1,945 @@
+[
+  {
+    "category": "Course Introduction",
+    "learningPath": [
+      {
+        "id": "69184ab4e48c0ef59f06f8e5",
+        "name": "Course Objective",
+        "type": "ivideo",
+        "sourceId": "wkujeejs3a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wkujeejs3a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Course_Objective_wkujeejs3a.mp4",
+          "fs_id": "948681603893592",
+          "size": 391518357,
+          "shareUrl": "https://1024terabox.com/s/1qnqV6zBwsm2LNSP02V61zA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69184abe903c96608707ad45",
+        "name": "What will we Learn?",
+        "type": "ivideo",
+        "sourceId": "rsniy0riw6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rsniy0riw6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_What_will_we_Learn__rsniy0riw6.mp4",
+          "fs_id": "550100632067051",
+          "size": 189411271,
+          "shareUrl": "https://1024terabox.com/s/1frE1li9hFcXDomHulbJf_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69184ac5f0591b38ef0dac25",
+        "name": "Schedule",
+        "type": "ivideo",
+        "sourceId": "4i3oxtsq3k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4i3oxtsq3k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Schedule_4i3oxtsq3k.mp4",
+          "fs_id": "149784304145557",
+          "size": 331882386,
+          "shareUrl": "https://1024terabox.com/s/1xGyfr1XHsE2rYGrcQz-bYw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69184ad385d4f5049a052209",
+        "name": "Why did we choose Python?",
+        "type": "ivideo",
+        "sourceId": "855fmh02ab",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/855fmh02ab.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Why_did_we_choose_Python__855fmh02ab.mp4",
+          "fs_id": "1049532480476256",
+          "size": 178177729,
+          "shareUrl": "https://1024terabox.com/s/1GLjo75Y-dszVmCj644KcLw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69184ade3b6210b3090a364c",
+        "name": "Tools to Install",
+        "type": "ivideo",
+        "sourceId": "cz0f5pamfs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cz0f5pamfs.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Tools_to_Install_cz0f5pamfs.mp4",
+          "fs_id": "788386064620904",
+          "size": 148926842,
+          "shareUrl": "https://1024terabox.com/s/1qAaeH7YTVtaKFB1oxELatA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69184af587e5447ee6038323",
+        "name": "Using Visual Studio Code",
+        "type": "ivideo",
+        "sourceId": "bq8e34txli",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bq8e34txli.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Using_Visual_Studio_Code_bq8e34txli.mp4",
+          "fs_id": "687733709669582",
+          "size": 125768535,
+          "shareUrl": "https://1024terabox.com/s/1ZSQfH3uu8bV1aRpM2vmFng",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Python Fundamentals (Part 1)",
+    "learningPath": [
+      {
+        "id": "69186b8147117c10c50be6b6",
+        "name": "Our First Program",
+        "type": "ivideo",
+        "sourceId": "fpa8hfpqqg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fpa8hfpqqg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Our_First_Program_fpa8hfpqqg.mp4",
+          "fs_id": "554836824313392",
+          "size": 745616088,
+          "shareUrl": "https://1024terabox.com/s/10ViYyVG0-NuA2CI1yVsNuw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186ba1b228800dcf0b5545",
+        "name": "Variables in Python",
+        "type": "ivideo",
+        "sourceId": "n8gqwiclkc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n8gqwiclkc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Variables_in_Python_n8gqwiclkc_1080p.mp4",
+          "fs_id": "1115619137849861",
+          "size": 99041383,
+          "shareUrl": "https://1024terabox.com/s/1lFha9i2falMQnJaSTtS3TQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186bb301d83e2d8f095e88",
+        "name": "Data Types in Python",
+        "type": "ivideo",
+        "sourceId": "hlf54dd4xw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hlf54dd4xw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Data_Types_in_Python_hlf54dd4xw_1080p.mp4",
+          "fs_id": "368919519882708",
+          "size": 34028153,
+          "shareUrl": "https://1024terabox.com/s/1MDAFN69hN8F3MB68ZEoyyQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186bc24d834440490456a5",
+        "name": "Keywords & Comments",
+        "type": "ivideo",
+        "sourceId": "v1gbqf2yeg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v1gbqf2yeg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Keywords_&_Comments_v1gbqf2yeg_1080p.mp4",
+          "fs_id": "51832798745136",
+          "size": 30968652,
+          "shareUrl": "https://1024terabox.com/s/1ydeMeCieTdSIqN-9WsOrNQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186bd17c724506130090c3",
+        "name": "Style Guide",
+        "type": "ivideo",
+        "sourceId": "6nm3mlt9s8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6nm3mlt9s8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Style_Guide_6nm3mlt9s8_1080p.mp4",
+          "fs_id": "773308292055322",
+          "size": 39196154,
+          "shareUrl": "https://1024terabox.com/s/13OuL3JZnLIrz7h3BZ_XLLQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186beb75c4e292da092727",
+        "name": "Arithmetic Operators",
+        "type": "ivideo",
+        "sourceId": "ovgnnzfio4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ovgnnzfio4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Arithmetic_Operators_ovgnnzfio4_1080p.mp4",
+          "fs_id": "357918573010814",
+          "size": 44515563,
+          "shareUrl": "https://1024terabox.com/s/1EjEIL_iVmNxYFqBXCwxNZA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186bf9a85e517184048405",
+        "name": "Relational Operators",
+        "type": "ivideo",
+        "sourceId": "o1w2wu8se3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o1w2wu8se3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Relational_Operators_o1w2wu8se3_1080p.mp4",
+          "fs_id": "505705247728031",
+          "size": 32662934,
+          "shareUrl": "https://1024terabox.com/s/1wKn6r5ia0xV6lq2mnr0LEw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186c0eae7b8c30890daa44",
+        "name": "Assignment Operators",
+        "type": "ivideo",
+        "sourceId": "ioqw0jzmf3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ioqw0jzmf3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Assignment_Operators_ioqw0jzmf3_1080p.mp4",
+          "fs_id": "738163572330948",
+          "size": 29661261,
+          "shareUrl": "https://1024terabox.com/s/1Nd9GZOFAmQmIUy9IY4A77g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186c1cbd57cb171f08a5e6",
+        "name": "Logical Operators",
+        "type": "ivideo",
+        "sourceId": "t994m2lbt5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t994m2lbt5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Logical_Operators_t994m2lbt5_1080p.mp4",
+          "fs_id": "1007830816432213",
+          "size": 49037396,
+          "shareUrl": "https://1024terabox.com/s/1HS4HYEzpS89EGoABj0ZFqg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186c2ba39a053d3706d437",
+        "name": "Operator Precedence",
+        "type": "ivideo",
+        "sourceId": "vwuhakkgkb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vwuhakkgkb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Operator_Precedence_vwuhakkgkb_1080p.mp4",
+          "fs_id": "995854560609818",
+          "size": 32626948,
+          "shareUrl": "https://1024terabox.com/s/1UiKAK9zGlliJ2_7RPWvznw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186c3916948e54b00a657a",
+        "name": "Type Conversion & Casting",
+        "type": "ivideo",
+        "sourceId": "f6coq9ckzz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f6coq9ckzz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Type_Conversion_&_Casting_f6coq9ckzz_1080p.mp4",
+          "fs_id": "735773662452359",
+          "size": 63935622,
+          "shareUrl": "https://1024terabox.com/s/12V1g6_X61O4DhWsj7HdA1A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186c4883525de1cc02d53b",
+        "name": "Taking User Input",
+        "type": "ivideo",
+        "sourceId": "v2k8lnbh2k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v2k8lnbh2k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Taking_User_Input_v2k8lnbh2k_1080p.mp4",
+          "fs_id": "401962176399951",
+          "size": 47572946,
+          "shareUrl": "https://1024terabox.com/s/1YzUHmYEsG_Mtcid92Zwi-A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69186cfe4a52d4f0fe02c805",
+        "name": "Average of 2 Nums",
+        "type": "ivideo",
+        "sourceId": "rfqo3lea0c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rfqo3lea0c.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_1)/Python_Fundamentals_(Part_1)_Average_of_2_Nums_rfqo3lea0c_1080p.mp4",
+          "fs_id": "750021644654611",
+          "size": 25980033,
+          "shareUrl": "https://1024terabox.com/s/1sgTREX2P44BDMx4T25BWIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Python Fundamentals (Part 2)",
+    "learningPath": [
+      {
+        "id": "6919cd44bfa0cd380d013a18",
+        "name": "Conditional Statements in Python",
+        "type": "ivideo",
+        "sourceId": "o6scziys0t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o6scziys0t.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Conditional_Statements_in_Python_o6scziys0t_1080p.mp4",
+          "fs_id": "12909834643831",
+          "size": 73140846,
+          "shareUrl": "https://1024terabox.com/s/16f1fSM7ule39WU77cpk13A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cd5bff8ec2a91500a36a",
+        "name": "Practice Examples (Conditionals)",
+        "type": "ivideo",
+        "sourceId": "pz71ifiv96",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pz71ifiv96.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Practice_Examples_(Conditionals)_pz71ifiv96_1080p.mp4",
+          "fs_id": "399244265027809",
+          "size": 81871822,
+          "shareUrl": "https://1024terabox.com/s/1xP8-doxlJuwIcyt7qAh-0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cd69a3b79a62ca053045",
+        "name": "Odd or Even",
+        "type": "ivideo",
+        "sourceId": "8f6i81islo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8f6i81islo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Odd_or_Even_8f6i81islo_1080p.mp4",
+          "fs_id": "755193407001561",
+          "size": 23656616,
+          "shareUrl": "https://1024terabox.com/s/1uXzB8bQMLCQgy3CKgwUQ3Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cd790492b2758c0b2a55",
+        "name": "Nesting",
+        "type": "ivideo",
+        "sourceId": "reulhpja6h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/reulhpja6h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Nesting_reulhpja6h_1080p.mp4",
+          "fs_id": "930227746355513",
+          "size": 37547395,
+          "shareUrl": "https://1024terabox.com/s/1ANaTkkt5PEpBMMO4qlHSFQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919ce4f4bacc644330eaea3",
+        "name": "Match case in Python",
+        "type": "ivideo",
+        "sourceId": "vn35pnfpve",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vn35pnfpve.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Match_case_in_Python_vn35pnfpve_1080p.mp4",
+          "fs_id": "770303107184538",
+          "size": 31557793,
+          "shareUrl": "https://1024terabox.com/s/1B8bKUkrVbgqMM3RIvxq62A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cd8bfd9ace4d5c08c3a8",
+        "name": "Loops using while",
+        "type": "ivideo",
+        "sourceId": "nf1j03perk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nf1j03perk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Loops_using_while_nf1j03perk_1080p.mp4",
+          "fs_id": "595149265358611",
+          "size": 109326965,
+          "shareUrl": "https://1024terabox.com/s/1y-rmQxkere_74dTcjiWImQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cd95ff8ec2a91500a36b",
+        "name": "Practice Examples (Loops)",
+        "type": "ivideo",
+        "sourceId": "h5mm71ua4s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h5mm71ua4s.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Practice_Examples_(Loops)_h5mm71ua4s_1080p.mp4",
+          "fs_id": "64975403827742",
+          "size": 54790176,
+          "shareUrl": "https://1024terabox.com/s/1XtdZuHpAV8bxGs_o5bKrWQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cda2959abfd16e0877b3",
+        "name": "Multiplication Table of N",
+        "type": "ivideo",
+        "sourceId": "fbbn2l8qrp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fbbn2l8qrp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Multiplication_Table_of_N_fbbn2l8qrp_1080p.mp4",
+          "fs_id": "332828549921174",
+          "size": 46964259,
+          "shareUrl": "https://1024terabox.com/s/19g7McN11cNFi_Dd2FO-MSg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cdb9eadf722ec2015cf5",
+        "name": "Break & Continue",
+        "type": "ivideo",
+        "sourceId": "0lygufiv5g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0lygufiv5g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Break_&_Continue_0lygufiv5g_1080p.mp4",
+          "fs_id": "372407914472773",
+          "size": 64631356,
+          "shareUrl": "https://1024terabox.com/s/1IKr9f3PxDEDnUCGiNuv1xQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cdc516d34dd1e604d715",
+        "name": "Loops using for",
+        "type": "ivideo",
+        "sourceId": "6vbr73fwz0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6vbr73fwz0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Loops_using_for_6vbr73fwz0_1080p.mp4",
+          "fs_id": "296778991487115",
+          "size": 79470185,
+          "shareUrl": "https://1024terabox.com/s/1NIkeK7rBRnC3YY-_Ia7WEQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cdd69eafcde0ff0b336c",
+        "name": "Vowel Count",
+        "type": "ivideo",
+        "sourceId": "9rmrts6ezs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9rmrts6ezs.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Vowel_Count_9rmrts6ezs_1080p.mp4",
+          "fs_id": "5003579470183",
+          "size": 24857961,
+          "shareUrl": "https://1024terabox.com/s/1AaDtYJjd0sHwkPvkIEUHIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cde4581b2756f80b19a7",
+        "name": "range( ) Function",
+        "type": "ivideo",
+        "sourceId": "h88w7q8wx6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h88w7q8wx6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_range(_)_Function_h88w7q8wx6_1080p.mp4",
+          "fs_id": "690301956829664",
+          "size": 43433372,
+          "shareUrl": "https://1024terabox.com/s/1hT8JzVVyT9-uNaNVUSzIug",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cdf3ec69d7812d04bb15",
+        "name": "Sum of N numbers",
+        "type": "ivideo",
+        "sourceId": "a78py3keyr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a78py3keyr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Sum_of_N_numbers_a78py3keyr_1080p.mp4",
+          "fs_id": "742413425119394",
+          "size": 46067499,
+          "shareUrl": "https://1024terabox.com/s/1I5aTX_Lr9QPGmmnx9_cnFw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919cdfc3931202f56007d76",
+        "name": "Functions in Python",
+        "type": "ivideo",
+        "sourceId": "7vxm4oef15",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7vxm4oef15.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Functions_in_Python_7vxm4oef15_1080p.mp4",
+          "fs_id": "775087708862553",
+          "size": 91042812,
+          "shareUrl": "https://1024terabox.com/s/1AASx0pxcyMcB8Rv70FYuAA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919ce25c343e607c002cdb5",
+        "name": "Practice Examples (Functions)",
+        "type": "ivideo",
+        "sourceId": "e2405u9l4v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e2405u9l4v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Practice_Examples_(Functions)_e2405u9l4v_1080p.mp4",
+          "fs_id": "389380078815609",
+          "size": 40023036,
+          "shareUrl": "https://1024terabox.com/s/12GEGHhyzQ1FOJVslRnJgJw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919ce3355e9ee0f230dba33",
+        "name": "Types of Functions",
+        "type": "ivideo",
+        "sourceId": "0cb63612ru",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0cb63612ru.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Types_of_Functions_0cb63612ru_1080p.mp4",
+          "fs_id": "733770583779945",
+          "size": 26608687,
+          "shareUrl": "https://1024terabox.com/s/18x11OkKOmGK6xWbbEOeQ0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919ce5e6ef2437b8a0f9305",
+        "name": "Lambda Functions",
+        "type": "ivideo",
+        "sourceId": "7t6crrtwod",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7t6crrtwod.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Lambda_Functions_7t6crrtwod_1080p.mp4",
+          "fs_id": "934014824262313",
+          "size": 38462996,
+          "shareUrl": "https://1024terabox.com/s/1Jw0r56s-TOGbXPPrIYiG5w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919ce3fa5727c2a54053fb5",
+        "name": "Factorial of N",
+        "type": "ivideo",
+        "sourceId": "01eegarow9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/01eegarow9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_2)/Python_Fundamentals_(Part_2)_Factorial_of_N_01eegarow9_1080p.mp4",
+          "fs_id": "97088675425490",
+          "size": 54090235,
+          "shareUrl": "https://1024terabox.com/s/135dHboruxQ0XoQxe4850mg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Python Fundamentals (Part 3)",
+    "learningPath": [
+      {
+        "id": "69202b1c2060c2e93f05e079",
+        "name": "Strings in Python",
+        "type": "ivideo",
+        "sourceId": "6l88u1h9za",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6l88u1h9za.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Strings_in_Python_6l88u1h9za_1080p.mp4",
+          "fs_id": "1070238532028660",
+          "size": 45312526,
+          "shareUrl": "https://1024terabox.com/s/1op_sfBH_Ue6k3REzuqV2_A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202b2342d5b0b7df04a9e6",
+        "name": "Slicing in Strings",
+        "type": "ivideo",
+        "sourceId": "4tk7gwi3at",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4tk7gwi3at.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Slicing_in_Strings_4tk7gwi3at_1080p.mp4",
+          "fs_id": "491838475607551",
+          "size": 50636615,
+          "shareUrl": "https://1024terabox.com/s/1rtUx7dNxCrNVAykvlDAETw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202be5da7517fcf906e1d5",
+        "name": "String Formatting - f-string & format( )",
+        "type": "ivideo",
+        "sourceId": "8xfu1615xl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8xfu1615xl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_String_Formatting_-_f-string_&_format(_)_8xfu1615xl_1080p.mp4",
+          "fs_id": "76877107574664",
+          "size": 53721328,
+          "shareUrl": "https://1024terabox.com/s/1v8BlmiAIjmOAVMRfA5DAIQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202d4f3915210105009037",
+        "name": "Lists in Python",
+        "type": "ivideo",
+        "sourceId": "lu1ewbnygw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lu1ewbnygw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Lists_in_Python_lu1ewbnygw_1080p.mp4",
+          "fs_id": "687687074899207",
+          "size": 57302334,
+          "shareUrl": "https://1024terabox.com/s/1pHC4jwfGBxW5piAtdzddxA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202e355e2774271b036555",
+        "name": "List Methods",
+        "type": "ivideo",
+        "sourceId": "xg4s5p42x4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xg4s5p42x4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_List_Methods_xg4s5p42x4_1080p.mp4",
+          "fs_id": "231804243893750",
+          "size": 44459097,
+          "shareUrl": "https://1024terabox.com/s/19BOUHeL-XpYgKpN6wbNtFA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202edbb413b45ec00ea0f5",
+        "name": "Using Loops with Lists",
+        "type": "ivideo",
+        "sourceId": "dqx8qp1vxn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dqx8qp1vxn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Using_Loops_with_Lists_dqx8qp1vxn_1080p.mp4",
+          "fs_id": "230794594411266",
+          "size": 40155560,
+          "shareUrl": "https://1024terabox.com/s/1k3Oo8YwnHHiQiVV6C3fT3w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202f55f223d0774503b655",
+        "name": "Tuples in Python",
+        "type": "ivideo",
+        "sourceId": "lgigl82p06",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lgigl82p06.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Tuples_in_Python_lgigl82p06_1080p.mp4",
+          "fs_id": "951101788160320",
+          "size": 18466258,
+          "shareUrl": "https://1024terabox.com/s/1XNv7evumZwFyQPSd97LFmg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69202fec1f4030770a0e1a16",
+        "name": "Tuple Methods",
+        "type": "ivideo",
+        "sourceId": "r01vaql6er",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r01vaql6er.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Tuple_Methods_r01vaql6er_1080p.mp4",
+          "fs_id": "444098281843748",
+          "size": 18864851,
+          "shareUrl": "https://1024terabox.com/s/17J5ugniMSopPSfjsZgxBhw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69203104ef03c14adc08bd45",
+        "name": "Dictionary in Python",
+        "type": "ivideo",
+        "sourceId": "9kujh99adj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9kujh99adj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Dictionary_in_Python_9kujh99adj_1080p.mp4",
+          "fs_id": "344559773127263",
+          "size": 42550141,
+          "shareUrl": "https://1024terabox.com/s/168it8vQKETiJ9copCx2jcA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6920310b5fefe45c1508bd68",
+        "name": "Dictionary Methods",
+        "type": "ivideo",
+        "sourceId": "54emumh5yf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/54emumh5yf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Dictionary_Methods_54emumh5yf_1080p.mp4",
+          "fs_id": "816138650801293",
+          "size": 36932302,
+          "shareUrl": "https://1024terabox.com/s/1S5I6-NZS52MgZXJjdlp_0Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692031d721932f5b080cf8c5",
+        "name": "Sets in Python",
+        "type": "ivideo",
+        "sourceId": "v0xrrkefuz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v0xrrkefuz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Sets_in_Python_v0xrrkefuz_1080p.mp4",
+          "fs_id": "756200395618513",
+          "size": 33215472,
+          "shareUrl": "https://1024terabox.com/s/1cXvd3-4ITkfF3KRVImBFSA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6920325328dbc93c250cd497",
+        "name": "Set Methods",
+        "type": "ivideo",
+        "sourceId": "mpsi6e41su",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mpsi6e41su.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Set_Methods_mpsi6e41su_1080p.mp4",
+          "fs_id": "1083663521146404",
+          "size": 26792872,
+          "shareUrl": "https://1024terabox.com/s/1WpdE6fZryCtHniXrEEmvYA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692032ca63aff98ce2065186",
+        "name": "Practice Problem (Part a & b)",
+        "type": "ivideo",
+        "sourceId": "vce9s2rns9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vce9s2rns9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Practice_Problem_(Part_a_&_b)_vce9s2rns9_1080p.mp4",
+          "fs_id": "499082365101873",
+          "size": 47787599,
+          "shareUrl": "https://1024terabox.com/s/1ljVS5FB12PvCvd_2hPI06w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692034eff76547eb560f2d55",
+        "name": "Practice Problem (Part c)",
+        "type": "ivideo",
+        "sourceId": "m4qmhpnm1u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m4qmhpnm1u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_3)/Python_Fundamentals_(Part_3)_Practice_Problem_(Part_c)_m4qmhpnm1u_1080p.mp4",
+          "fs_id": "890247573614986",
+          "size": 84074599,
+          "shareUrl": "https://1024terabox.com/s/1ccJr7uFcNClNqY0tPexchw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Python Fundamentals (Part 4)",
+    "learningPath": [
+      {
+        "id": "692177ff33a692d4f20832a5",
+        "name": "What is Object Oriented Programming?",
+        "type": "ivideo",
+        "sourceId": "k39rkw3xp1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k39rkw3xp1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_What_is_Object_Oriented_Programming__k39rkw3xp1_1080p.mp4",
+          "fs_id": "716526275593534",
+          "size": 94083605,
+          "shareUrl": "https://1024terabox.com/s/1ePJlWRUSUSaftMyPKLYCxA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921790d14b1e1ee45073717",
+        "name": "Classes & Objects",
+        "type": "ivideo",
+        "sourceId": "vw3b286wyw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vw3b286wyw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Classes_&_Objects_vw3b286wyw_1080p.mp4",
+          "fs_id": "475374354633954",
+          "size": 61726963,
+          "shareUrl": "https://1024terabox.com/s/1DmEyXC_7Xn9bTv2GQq5bbA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69217a9e0b10d1b14101ec25",
+        "name": "Attributes & Methods",
+        "type": "ivideo",
+        "sourceId": "pjap31z8gw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pjap31z8gw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Attributes_&_Methods_pjap31z8gw_1080p.mp4",
+          "fs_id": "88125485817496",
+          "size": 32041783,
+          "shareUrl": "https://1024terabox.com/s/1wnl_LyD9V45z6tKC8LEBqQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  }
+]
