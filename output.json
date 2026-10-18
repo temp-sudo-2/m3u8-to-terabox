@@ -939,6 +939,4110 @@
           "embedUrl": null,
           "shareLinkError": null
         }
+      },
+      {
+        "id": "69217bc0191e7ce1d906bed5",
+        "name": "Constructor - init( ) Method",
+        "type": "ivideo",
+        "sourceId": "df6tlth3mb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/df6tlth3mb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Constructor_-_init(_)_Method_df6tlth3mb_1080p.mp4",
+          "fs_id": "857796573767862",
+          "size": 51315050,
+          "shareUrl": "https://1024terabox.com/s/1ZeR-Q2CegkGiBJo4Sko5MQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69217d039f6b59cbea032a75",
+        "name": "Types of Constructors",
+        "type": "ivideo",
+        "sourceId": "hxaqlsq524",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hxaqlsq524.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Types_of_Constructors_hxaqlsq524_1080p.mp4",
+          "fs_id": "389659775331427",
+          "size": 25323960,
+          "shareUrl": "https://1024terabox.com/s/1nd6FFjZOmm3xurZAmbSihQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69217d5817cca5b9fb024856",
+        "name": "Attributes - class & instance",
+        "type": "ivideo",
+        "sourceId": "72osru30vz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/72osru30vz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Attributes_-_class_&_instance_72osru30vz_1080p.mp4",
+          "fs_id": "1122412139196711",
+          "size": 41292957,
+          "shareUrl": "https://1024terabox.com/s/1P-DTmPa_zo2N9mAbAQBmbg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69217e37423da3b64d08de56",
+        "name": "Instance Methods",
+        "type": "ivideo",
+        "sourceId": "18a8djxwyo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/18a8djxwyo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Instance_Methods_18a8djxwyo_1080p.mp4",
+          "fs_id": "329021394039144",
+          "size": 36179130,
+          "shareUrl": "https://1024terabox.com/s/1EOr6AJa1yHD61h_QEOr2qA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692182322aa5775a490e35d6",
+        "name": "Class Methods",
+        "type": "ivideo",
+        "sourceId": "5b3g65164h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5b3g65164h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Class_Methods_5b3g65164h_1080p.mp4",
+          "fs_id": "770512979899373",
+          "size": 26411097,
+          "shareUrl": "https://1024terabox.com/s/1eGDiHAjm3HfmGAPJ35Ah4Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69218239f90c8d98f9096967",
+        "name": "Static Methods",
+        "type": "ivideo",
+        "sourceId": "8yrqih9g4h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8yrqih9g4h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Static_Methods_8yrqih9g4h_1080p.mp4",
+          "fs_id": "442688431856580",
+          "size": 38975130,
+          "shareUrl": "https://1024terabox.com/s/12uMZGpySfPCj_Kmbfxj-OQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692180a9fccd7001720a7353",
+        "name": "Practice Problem",
+        "type": "ivideo",
+        "sourceId": "elrj0yduvu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/elrj0yduvu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Practice_Problem_elrj0yduvu_1080p.mp4",
+          "fs_id": "173557103162815",
+          "size": 57378343,
+          "shareUrl": "https://1024terabox.com/s/1amVVywfCfHifS71rSaxA-w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692182ad4a262dfe3b02a449",
+        "name": "Encapsulation in OOPs",
+        "type": "ivideo",
+        "sourceId": "jpyim7eo4j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jpyim7eo4j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Encapsulation_in_OOPs_jpyim7eo4j_1080p.mp4",
+          "fs_id": "43196407241571",
+          "size": 110984563,
+          "shareUrl": "https://1024terabox.com/s/1eVOjK5uvdVceYwiyUXQRvQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692183e42c039234ef052fb6",
+        "name": "Inheritance in OOPs",
+        "type": "ivideo",
+        "sourceId": "1bt77o9ytp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1bt77o9ytp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Inheritance_in_OOPs_1bt77o9ytp_1080p.mp4",
+          "fs_id": "665825310963774",
+          "size": 55960160,
+          "shareUrl": "https://1024terabox.com/s/1dEdsS6uU7ETFOKJGdobKKw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692184e80f76c5988e04aac8",
+        "name": "Types of Inheritance",
+        "type": "ivideo",
+        "sourceId": "ezer7luj9u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ezer7luj9u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Types_of_Inheritance_ezer7luj9u_1080p.mp4",
+          "fs_id": "638088037366561",
+          "size": 57395748,
+          "shareUrl": "https://1024terabox.com/s/1IWkVGi75WNjZJBKSE3ZFvQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692185e1fa0b57e2650abfc5",
+        "name": "Abstraction",
+        "type": "ivideo",
+        "sourceId": "5nydgy6buu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5nydgy6buu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Abstraction_5nydgy6buu_1080p.mp4",
+          "fs_id": "948416801535982",
+          "size": 68305699,
+          "shareUrl": "https://1024terabox.com/s/1n-bXQZWsmfmefDpkhcCSmg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692186f7ab4c1528bf08f67c",
+        "name": "Polymorphism (Function Overriding)",
+        "type": "ivideo",
+        "sourceId": "5sj6a5f3cv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5sj6a5f3cv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Polymorphism_(Function_Overriding)_5sj6a5f3cv_1080p.mp4",
+          "fs_id": "666354389155998",
+          "size": 33701115,
+          "shareUrl": "https://1024terabox.com/s/1HHOuRzRuXPpJIc_jGNqZoA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692187bbcb4e085e740b8fba",
+        "name": "Polymorphism (Duck Typing)",
+        "type": "ivideo",
+        "sourceId": "8tl255uzkj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8tl255uzkj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_4)/Python_Fundamentals_(Part_4)_Polymorphism_(Duck_Typing)_8tl255uzkj_1080p.mp4",
+          "fs_id": "97558858279884",
+          "size": 27209056,
+          "shareUrl": "https://1024terabox.com/s/1alMsiUInKM0i-sUFRjtxgg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Python Fundamentals (Part 5)",
+    "learningPath": [
+      {
+        "id": "69219093c50a4a49300ebac5",
+        "name": "File I/O",
+        "type": "ivideo",
+        "sourceId": "33dnbl5iei",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/33dnbl5iei.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_File_I_O_33dnbl5iei_1080p.mp4",
+          "fs_id": "943356845429903",
+          "size": 27185585,
+          "shareUrl": "https://1024terabox.com/s/1Q4wgpFmbV0bA_CvbAawPRw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692190a2037313b84603f506",
+        "name": "Operations on Files",
+        "type": "ivideo",
+        "sourceId": "biq4liy3et",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/biq4liy3et.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Operations_on_Files_biq4liy3et_1080p.mp4",
+          "fs_id": "436214271449240",
+          "size": 75138854,
+          "shareUrl": "https://1024terabox.com/s/1YDkeatqlIK3lsSWMtsme2g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921af93c1bdca32030a5765",
+        "name": "Modes in File Operations",
+        "type": "ivideo",
+        "sourceId": "cyc8b3byc3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cyc8b3byc3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Modes_in_File_Operations_cyc8b3byc3_1080p.mp4",
+          "fs_id": "356931768931822",
+          "size": 127603554,
+          "shareUrl": "https://1024terabox.com/s/1E6XFVfNgoOH98_5C-cRKfA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921afa531ceda255a01d765",
+        "name": "\"with\" Keyword",
+        "type": "ivideo",
+        "sourceId": "h12ektwve8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h12ektwve8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)__with__Keyword_h12ektwve8_1080p.mp4",
+          "fs_id": "189708303291549",
+          "size": 16795662,
+          "shareUrl": "https://1024terabox.com/s/1rK7SeUCNo7DsY3grz83jig",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921afbab08f268beb0a0147",
+        "name": "Delete Files",
+        "type": "ivideo",
+        "sourceId": "njkyy5q7av",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/njkyy5q7av.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Delete_Files_njkyy5q7av_1080p.mp4",
+          "fs_id": "1046632605778453",
+          "size": 19319521,
+          "shareUrl": "https://1024terabox.com/s/1u-6oU1g88IBHTAcCNtucig",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921afd7def5ea513c0c9557",
+        "name": "Practice Problem",
+        "type": "ivideo",
+        "sourceId": "cidy5sphq3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cidy5sphq3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Practice_Problem_cidy5sphq3_1080p.mp4",
+          "fs_id": "313563891472536",
+          "size": 43774721,
+          "shareUrl": "https://1024terabox.com/s/1L3HyOhXXc5ln63GaTpK1ww",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921aff02512f963150a0d2b",
+        "name": "Exception Handling",
+        "type": "ivideo",
+        "sourceId": "9ecaznp59j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9ecaznp59j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Exception_Handling_9ecaznp59j_1080p.mp4",
+          "fs_id": "312248988141272",
+          "size": 90061701,
+          "shareUrl": "https://1024terabox.com/s/1C6y2hLnHS0PN6OvrMeVP-w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921b01e9946f89d6d0f00a6",
+        "name": "\"finally\" Keyword",
+        "type": "ivideo",
+        "sourceId": "ik5xvv8xnb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ik5xvv8xnb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)__finally__Keyword_ik5xvv8xnb_1080p.mp4",
+          "fs_id": "48504732296326",
+          "size": 8963536,
+          "shareUrl": "https://1024terabox.com/s/1L-W1atqVDaWZEJbZwWB6Bw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921b04e16b263cdbc0faa76",
+        "name": "List Comprehensions",
+        "type": "ivideo",
+        "sourceId": "1soiyhqh3o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1soiyhqh3o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_List_Comprehensions_1soiyhqh3o_1080p.mp4",
+          "fs_id": "712225986195965",
+          "size": 94520026,
+          "shareUrl": "https://1024terabox.com/s/1phsLfpa67m49q7W9sd1gUw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6921b074b1ee72b48b0c7635",
+        "name": "Working with JSON Module",
+        "type": "ivideo",
+        "sourceId": "94cfnqn6cl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/94cfnqn6cl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Python_Fundamentals_(Part_5)/Python_Fundamentals_(Part_5)_Working_with_JSON_Module_94cfnqn6cl_1080p.mp4",
+          "fs_id": "131606510774408",
+          "size": 135660866,
+          "shareUrl": "https://1024terabox.com/s/1L1AkOtMFA6ssOETiYbBkXw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Installation",
+    "learningPath": [
+      {
+        "id": "6929958778ab4323fb058903",
+        "name": "Installing Anaconda",
+        "type": "ivideo",
+        "sourceId": "kgvtfjnsxq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kgvtfjnsxq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation/Installation_Installing_Anaconda_kgvtfjnsxq_1080p.mp4",
+          "fs_id": "193084150398543",
+          "size": 56934023,
+          "shareUrl": "https://1024terabox.com/s/1_nLpQJuWEFVS8m2J9_s3BA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929959154e358855b0f1c86",
+        "name": "Conda Prompt",
+        "type": "ivideo",
+        "sourceId": "hiuxe2bdoh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hiuxe2bdoh.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation/Installation_Conda_Prompt_hiuxe2bdoh_1080p.mp4",
+          "fs_id": "945788024127423",
+          "size": 94092130,
+          "shareUrl": "https://1024terabox.com/s/1JJSUt5mnwt_kURmK6JEhAw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692995a26530fb1e0e0ca5f6",
+        "name": "Installing Jupyter Notebook",
+        "type": "ivideo",
+        "sourceId": "zmt8jvss6a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zmt8jvss6a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation/Installation_Installing_Jupyter_Notebook_zmt8jvss6a_1080p.mp4",
+          "fs_id": "674787168213369",
+          "size": 67188003,
+          "shareUrl": "https://1024terabox.com/s/1p0SXWyLxbWgmL83xsvFn0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692995aa5f90cbc57e020755",
+        "name": "Installing Jupyter Lab",
+        "type": "ivideo",
+        "sourceId": "io4jfpg4t2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/io4jfpg4t2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation/Installation_Installing_Jupyter_Lab_io4jfpg4t2_1080p.mp4",
+          "fs_id": "953524907689971",
+          "size": 32822896,
+          "shareUrl": "https://1024terabox.com/s/1cU7s2_EgP0DbocD13w0Jtw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Phase 2 : Data",
+    "learningPath": [
+      {
+        "id": "6925ac7074fcdc08f7043fd5",
+        "name": "Thinking in Terms of Data",
+        "type": "ivideo",
+        "sourceId": "3dmcy5ib1g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3dmcy5ib1g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Thinking_in_Terms_of_Data_3dmcy5ib1g_1080p.mp4",
+          "fs_id": "191523033803947",
+          "size": 40879816,
+          "shareUrl": "https://1024terabox.com/s/1Dpdq_yS4FMKFu49LGZbeEw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ac77f32a63878b03cc83",
+        "name": "Getting started",
+        "type": "ivideo",
+        "sourceId": "2jsshhyuf4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2jsshhyuf4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Getting_started_2jsshhyuf4_1080p.mp4",
+          "fs_id": "1006497704990772",
+          "size": 46185274,
+          "shareUrl": "https://1024terabox.com/s/1gS2FVbNqpC-S0KLfn75Plg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ac886aeaa79a36030456",
+        "name": "Set up JSON data",
+        "type": "ivideo",
+        "sourceId": "rcvltjfx8g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rcvltjfx8g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Set_up_JSON_data_rcvltjfx8g_1080p.mp4",
+          "fs_id": "691241479814983",
+          "size": 58481811,
+          "shareUrl": "https://1024terabox.com/s/1hJ2wuDG5t33jidvGds-uog",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ac8ffd399556300ffb05",
+        "name": "Amazon Store : Clean & Structure Data",
+        "type": "ivideo",
+        "sourceId": "814hbm1xx2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/814hbm1xx2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Amazon_Store___Clean_&_Structure_Data_814hbm1xx2_1080p.mp4",
+          "fs_id": "958566819623427",
+          "size": 134044514,
+          "shareUrl": "https://1024terabox.com/s/1u216Kp03bB8e0jrHgK4Xgg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ac9679de91e4b1028f15",
+        "name": "Amazon Store : Meaningful Insights",
+        "type": "ivideo",
+        "sourceId": "zm95r9gk2s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zm95r9gk2s.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Amazon_Store___Meaningful_Insights_zm95r9gk2s_1080p.mp4",
+          "fs_id": "1111463060546311",
+          "size": 49097805,
+          "shareUrl": "https://1024terabox.com/s/1FzoZiv0i8YWxLpc48Xq-xw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ac9d53e6b2299000cfe7",
+        "name": "Amazon Store : Recommendation Feature",
+        "type": "ivideo",
+        "sourceId": "apdtleee5m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/apdtleee5m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Phase_2___Data/Phase_2___Data_Amazon_Store___Recommendation_Feature_apdtleee5m_1080p.mp4",
+          "fs_id": "66762507212050",
+          "size": 78077049,
+          "shareUrl": "https://1024terabox.com/s/1MB7_Qx9i4G1HJCv6JAGh1g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "NumPy (Numerical Python)",
+    "learningPath": [
+      {
+        "id": "6925acbde80b7abb810ac245",
+        "name": "Introduction to NumPy",
+        "type": "ivideo",
+        "sourceId": "69ke3d9r5b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/69ke3d9r5b.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Introduction_to_NumPy_69ke3d9r5b_1080p.mp4",
+          "fs_id": "1087315353077063",
+          "size": 96055542,
+          "shareUrl": "https://1024terabox.com/s/19ff998Rj2UeIfN7g_jYoUA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acc3f1bfcc5239079675",
+        "name": "Installation & Usage",
+        "type": "ivideo",
+        "sourceId": "0menrb8d5d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0menrb8d5d.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Installation_&_Usage_0menrb8d5d_1080p.mp4",
+          "fs_id": "695371174456718",
+          "size": 14091580,
+          "shareUrl": "https://1024terabox.com/s/1d3Ocl2GAXvhrfUwxtYLZmw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acca7223b15bcc010465",
+        "name": "Python List vs NumPy Array",
+        "type": "ivideo",
+        "sourceId": "t9b19y4v48",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t9b19y4v48.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Python_List_vs_NumPy_Array_t9b19y4v48_1080p.mp4",
+          "fs_id": "492071777185558",
+          "size": 81396550,
+          "shareUrl": "https://1024terabox.com/s/1VU4p9jiIdmk-J18WTR_DHA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acd03a090434a7093ce4",
+        "name": "Creating Arrays from Lists",
+        "type": "ivideo",
+        "sourceId": "ju2ddr2nv8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ju2ddr2nv8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Creating_Arrays_from_Lists_ju2ddr2nv8_1080p.mp4",
+          "fs_id": "699242984618029",
+          "size": 40597969,
+          "shareUrl": "https://1024terabox.com/s/1gKf9Ndg-J74oB_LA8IZCoQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acd662f741e03409dec6",
+        "name": "Creating Arrays (using built-in methods)",
+        "type": "ivideo",
+        "sourceId": "5iplmxxil7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5iplmxxil7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Creating_Arrays_(using_built-in_methods)_5iplmxxil7_1080p.mp4",
+          "fs_id": "925764427760097",
+          "size": 44763818,
+          "shareUrl": "https://1024terabox.com/s/1x2hm4MGTyz4Tg61-KhUQHA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acdd9fc034451a04eff6",
+        "name": "Array Properties",
+        "type": "ivideo",
+        "sourceId": "ztadlc3ksd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ztadlc3ksd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Array_Properties_ztadlc3ksd_1080p.mp4",
+          "fs_id": "740593512425325",
+          "size": 17407193,
+          "shareUrl": "https://1024terabox.com/s/11hb4nhYmXtbS8ZG0lSozgQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ace3ce8c72cce701f9d7",
+        "name": "Reshaping Arrays",
+        "type": "ivideo",
+        "sourceId": "g43xyemepf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g43xyemepf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Reshaping_Arrays_g43xyemepf_1080p.mp4",
+          "fs_id": "405415510830312",
+          "size": 21803187,
+          "shareUrl": "https://1024terabox.com/s/19gYZgnmLh1sPLD3NIKNrdQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ace9c5b5546ede0cba47",
+        "name": "Indexing on Arrays",
+        "type": "ivideo",
+        "sourceId": "dtkfnodj4o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dtkfnodj4o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Indexing_on_Arrays_dtkfnodj4o_1080p.mp4",
+          "fs_id": "360353338738373",
+          "size": 39346733,
+          "shareUrl": "https://1024terabox.com/s/1SsGc9QH3EsFhSMXRUSdjNA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acf05647d379bd0aef36",
+        "name": "Slicing Arrays",
+        "type": "ivideo",
+        "sourceId": "pwy2sg1iqc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pwy2sg1iqc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Slicing_Arrays_pwy2sg1iqc_1080p.mp4",
+          "fs_id": "645217327194300",
+          "size": 7996462,
+          "shareUrl": "https://1024terabox.com/s/18qLiv6LRhXvj4iMZA9-buA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acf81ccee6962d08c955",
+        "name": "Copy v/s View in Slice",
+        "type": "ivideo",
+        "sourceId": "k6ce5wn9m2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k6ce5wn9m2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Copy_v_s_View_in_Slice_k6ce5wn9m2_1080p.mp4",
+          "fs_id": "291142715155607",
+          "size": 40595616,
+          "shareUrl": "https://1024terabox.com/s/1bw5PfKxSG7ZeXOnPSHB2Gg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69280829275a9a57210c05b8",
+        "name": "Common NumPy Data Types",
+        "type": "ivideo",
+        "sourceId": "a1ps6mwmr6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a1ps6mwmr6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Common_NumPy_Data_Types_a1ps6mwmr6_1080p.mp4",
+          "fs_id": "864191259806640",
+          "size": 111947207,
+          "shareUrl": "https://1024terabox.com/s/1cMDSDEmvY8Dc7EfQnN_EFA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69280831aba55368760f7a66",
+        "name": "Multi-dimensional Arrays & Axes",
+        "type": "ivideo",
+        "sourceId": "rg5p1u4tgt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rg5p1u4tgt.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Multi-dimensional_Arrays_&_Axes_rg5p1u4tgt_1080p.mp4",
+          "fs_id": "292733526107869",
+          "size": 136408813,
+          "shareUrl": "https://1024terabox.com/s/1XUgvSxpyYnSwX3r4wIN8uA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6928083a97fc61db6e0211d3",
+        "name": "3D Arrays",
+        "type": "ivideo",
+        "sourceId": "ci3dcxj6xf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ci3dcxj6xf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_3D_Arrays_ci3dcxj6xf_1080p.mp4",
+          "fs_id": "457511923172468",
+          "size": 37860026,
+          "shareUrl": "https://1024terabox.com/s/1UnyaBxbeJUGIchV3gJxZPQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925acfd0a02484b93091896",
+        "name": "Vectorization & Broadcasting",
+        "type": "ivideo",
+        "sourceId": "ucepob2tq7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ucepob2tq7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Vectorization_&_Broadcasting_ucepob2tq7_1080p.mp4",
+          "fs_id": "1088245588127469",
+          "size": 87005828,
+          "shareUrl": "https://1024terabox.com/s/1LB-mJU8Kzx0enJBwSzTIcA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ad047ca88a0579050e96",
+        "name": "Vector Normalization",
+        "type": "ivideo",
+        "sourceId": "r2i7jhccv9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r2i7jhccv9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Vector_Normalization_r2i7jhccv9_1080p.mp4",
+          "fs_id": "885696187917014",
+          "size": 57822186,
+          "shareUrl": "https://1024terabox.com/s/1s8QbFCuefa74ooiq_m5oiQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ad09afe822d5080451b5",
+        "name": "Math -  Mean & Standard Deviation",
+        "type": "ivideo",
+        "sourceId": "0aediq7ff3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0aediq7ff3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Math_-_Mean_&_Standard_Deviation_0aediq7ff3_1080p.mp4",
+          "fs_id": "1050229630549354",
+          "size": 43294907,
+          "shareUrl": "https://1024terabox.com/s/1BSJhZVvZ_djE7WYmSMM7vg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ad0fda982f6fc00cfe55",
+        "name": "Mathematical Functions (Aggregate)",
+        "type": "ivideo",
+        "sourceId": "jt3b28xt4c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jt3b28xt4c.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Mathematical_Functions_(Aggregate)_jt3b28xt4c_1080p.mp4",
+          "fs_id": "273837706030952",
+          "size": 36547301,
+          "shareUrl": "https://1024terabox.com/s/10EY9JKdakqToz1yAX7MVwg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6925ad15dfe6610e2005e2f9",
+        "name": "Other Math functions",
+        "type": "ivideo",
+        "sourceId": "xjpk2xy5gu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xjpk2xy5gu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/NumPy_(Numerical_Python)/NumPy_(Numerical_Python)_Other_Math_functions_xjpk2xy5gu_1080p.mp4",
+          "fs_id": "807411455368326",
+          "size": 35640024,
+          "shareUrl": "https://1024terabox.com/s/1q1R9wjB4JCT3XCr8-3HTIQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Pandas (Part 1)",
+    "learningPath": [
+      {
+        "id": "6929f719c92238dce10a4875",
+        "name": "Data Science Process",
+        "type": "ivideo",
+        "sourceId": "1z0ficbm8j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1z0ficbm8j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Data_Science_Process_1z0ficbm8j_1080p.mp4",
+          "fs_id": "690164271641171",
+          "size": 101781517,
+          "shareUrl": "https://1024terabox.com/s/1thtmldonUk0iOF9NcOnUqg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929f721022c782c0d001a05",
+        "name": "What is EDA?",
+        "type": "ivideo",
+        "sourceId": "qhkv6bi8my",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qhkv6bi8my.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_What_is_EDA__qhkv6bi8my_1080p.mp4",
+          "fs_id": "1067736395872217",
+          "size": 37312437,
+          "shareUrl": "https://1024terabox.com/s/1yU4Tw0hBvy8-t580MxX21A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929f7825c56d5309c0dc7a6",
+        "name": "Introduction to Pandas",
+        "type": "ivideo",
+        "sourceId": "l64bki74v7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l64bki74v7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Introduction_to_Pandas_l64bki74v7_1080p.mp4",
+          "fs_id": "500696332161819",
+          "size": 74626379,
+          "shareUrl": "https://1024terabox.com/s/1qT1m_NM2ADuAK4565cm7cw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929f8f6e0c329ed800b9545",
+        "name": "Series in Pandas",
+        "type": "ivideo",
+        "sourceId": "2qdc3hm8a2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2qdc3hm8a2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Series_in_Pandas_2qdc3hm8a2_1080p.mp4",
+          "fs_id": "773477637398622",
+          "size": 56443174,
+          "shareUrl": "https://1024terabox.com/s/1S0pbUdknC7tro8JvNvLdpw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929f9ffafca19157c061555",
+        "name": "Series Properties",
+        "type": "ivideo",
+        "sourceId": "4l1adodv9j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4l1adodv9j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Series_Properties_4l1adodv9j_1080p.mp4",
+          "fs_id": "636663736657842",
+          "size": 24135918,
+          "shareUrl": "https://1024terabox.com/s/1yh_liajZ5_HLBwdl-quwTA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929f8fe804a5e20ef069c86",
+        "name": "DataFrame in Pandas",
+        "type": "ivideo",
+        "sourceId": "1q0o36kt6e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1q0o36kt6e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_DataFrame_in_Pandas_1q0o36kt6e_1080p.mp4",
+          "fs_id": "690120216697608",
+          "size": 42367599,
+          "shareUrl": "https://1024terabox.com/s/1BnSrBqw7ry_2G8-_rMRuvg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929fb7bbd09081a5c08dff5",
+        "name": "Pandas with csv & json data - give file",
+        "type": "ivideo",
+        "sourceId": "6qgp6l51mo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6qgp6l51mo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Pandas_with_csv_&_json_data_-_give_file_6qgp6l51mo_1080p.mp4",
+          "fs_id": "927463878059344",
+          "size": 29418166,
+          "shareUrl": "https://1024terabox.com/s/1VOjrpEGbXJQCBCuAOGAJCg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929fc088468b1313c0632e5",
+        "name": "DataFrame Methods",
+        "type": "ivideo",
+        "sourceId": "3encmmjkep",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3encmmjkep.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_DataFrame_Methods_3encmmjkep_1080p.mp4",
+          "fs_id": "46328618692848",
+          "size": 54243396,
+          "shareUrl": "https://1024terabox.com/s/120rucm1GJReEVgO7uMuRZg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929fd3855fd35625f0d4785",
+        "name": "Using Kaggle DataSet",
+        "type": "ivideo",
+        "sourceId": "820htqg30a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/820htqg30a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Using_Kaggle_DataSet_820htqg30a_1080p.mp4",
+          "fs_id": "328493196556482",
+          "size": 36015278,
+          "shareUrl": "https://1024terabox.com/s/1bWiZauEKTyq5s9Y9WiEDQA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929fe050f306943f60d8ee5",
+        "name": "Indexing & Selecting Data",
+        "type": "ivideo",
+        "sourceId": "3cvhes7ek1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3cvhes7ek1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Indexing_&_Selecting_Data_3cvhes7ek1_1080p.mp4",
+          "fs_id": "301935527626428",
+          "size": 118124927,
+          "shareUrl": "https://1024terabox.com/s/1OvAwSx8mcuDCrgd-CKuFew",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6929ffd24eed9a97860786b5",
+        "name": "Filtering Data",
+        "type": "ivideo",
+        "sourceId": "vb6u2xyoxq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vb6u2xyoxq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Filtering_Data_vb6u2xyoxq_1080p.mp4",
+          "fs_id": "1010820414425580",
+          "size": 62698976,
+          "shareUrl": "https://1024terabox.com/s/1SImkGBrWMEoFX8OSdD07ug",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a29d0e387c8110f026646",
+        "name": "Filtering Data using Query",
+        "type": "ivideo",
+        "sourceId": "6uz8fq9j2m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6uz8fq9j2m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Filtering_Data_using_Query_6uz8fq9j2m_1080p.mp4",
+          "fs_id": "1039112461424159",
+          "size": 34459489,
+          "shareUrl": "https://1024terabox.com/s/1afRi_F-YIrsFXEYrPYWRfw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2a2849c4312db10c45c5",
+        "name": "Data Cleaning (Handle Missing Values) - give file",
+        "type": "ivideo",
+        "sourceId": "goujt5w5sk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/goujt5w5sk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Data_Cleaning_(Handle_Missing_Values)_-_give_file_goujt5w5sk_1080p.mp4",
+          "fs_id": "410443753806214",
+          "size": 118680014,
+          "shareUrl": "https://1024terabox.com/s/106QxC1nEccaCuTkm0PzmeA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2b7823910037ed03ca76",
+        "name": "Data Cleaning (Handle Duplicates)",
+        "type": "ivideo",
+        "sourceId": "73fb5w9b4v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/73fb5w9b4v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Data_Cleaning_(Handle_Duplicates)_73fb5w9b4v_1080p.mp4",
+          "fs_id": "121955465306965",
+          "size": 27868630,
+          "shareUrl": "https://1024terabox.com/s/1qNR_xfbyG14P9gOmlW3lIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2c761600c6e54f035cb6",
+        "name": "Data Cleaning (Handle Data Types)",
+        "type": "ivideo",
+        "sourceId": "64dmeq7zwy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/64dmeq7zwy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Data_Cleaning_(Handle_Data_Types)_64dmeq7zwy_1080p.mp4",
+          "fs_id": "78865308716897",
+          "size": 58695727,
+          "shareUrl": "https://1024terabox.com/s/1A-WCAixAO8W132mIQ6wEIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2c80f62d674fcd0f2fb6",
+        "name": "Data Cleaning (Handle Strings)",
+        "type": "ivideo",
+        "sourceId": "7jipbe29ri",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7jipbe29ri.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_1)/Pandas_(Part_1)_Data_Cleaning_(Handle_Strings)_7jipbe29ri_1080p.mp4",
+          "fs_id": "519634069258243",
+          "size": 30133478,
+          "shareUrl": "https://1024terabox.com/s/1Fa9KNobGuKNT_ApZQVSnsg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Pandas (Part 2)",
+    "learningPath": [
+      {
+        "id": "692a2d6839c56366bf060e35",
+        "name": "Data Transformation",
+        "type": "ivideo",
+        "sourceId": "vhcexlqmj3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vhcexlqmj3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Data_Transformation_vhcexlqmj3_1080p.mp4",
+          "fs_id": "604090180413050",
+          "size": 76222462,
+          "shareUrl": "https://1024terabox.com/s/1P2gFTF9wSwqMPqd1eO-2LQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2d80d9abe0ccd20b7ab6",
+        "name": "Data Transformation (other Methods)",
+        "type": "ivideo",
+        "sourceId": "3ybev5ysir",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3ybev5ysir.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Data_Transformation_(other_Methods)_3ybev5ysir_1080p.mp4",
+          "fs_id": "1111388223888588",
+          "size": 92722467,
+          "shareUrl": "https://1024terabox.com/s/1GvLogAiaxXlARIWmS2jgIQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2dbf07be7dac0100fc76",
+        "name": "Practice Task",
+        "type": "ivideo",
+        "sourceId": "6xzs5e3qfy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6xzs5e3qfy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Practice_Task_6xzs5e3qfy_1080p.mp4",
+          "fs_id": "211038067562028",
+          "size": 41186047,
+          "shareUrl": "https://1024terabox.com/s/1J_XEMu5aKZZYu-sSqhomYQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2df1d9babd5c790b85c5",
+        "name": "Writing data to csv & json files",
+        "type": "ivideo",
+        "sourceId": "zebkuoje73",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zebkuoje73.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Writing_data_to_csv_&_json_files_zebkuoje73_1080p.mp4",
+          "fs_id": "1004420793310409",
+          "size": 26894898,
+          "shareUrl": "https://1024terabox.com/s/1HopELaiDlfP6Yw7dKSYxgA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2e6f90435528b10a4a56",
+        "name": "Group by & Aggregation",
+        "type": "ivideo",
+        "sourceId": "nfq4x38bsv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nfq4x38bsv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Group_by_&_Aggregation_nfq4x38bsv_1080p.mp4",
+          "fs_id": "733374089734037",
+          "size": 62509000,
+          "shareUrl": "https://1024terabox.com/s/1CkFyqndiVkER00acdDMh_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2e7f1af37d41730ec896",
+        "name": "Melt & Pivot for Reshaping",
+        "type": "ivideo",
+        "sourceId": "5vj659ivt2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5vj659ivt2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Melt_&_Pivot_for_Reshaping_5vj659ivt2_1080p.mp4",
+          "fs_id": "1046516281908740",
+          "size": 67204131,
+          "shareUrl": "https://1024terabox.com/s/1A-86nAuQNPBC1n__SSyJHg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2ee48f01661dfb04de96",
+        "name": "Basic Visualization with Pandas",
+        "type": "ivideo",
+        "sourceId": "8dpl7ms1f0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8dpl7ms1f0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Basic_Visualization_with_Pandas_8dpl7ms1f0_1080p.mp4",
+          "fs_id": "733842556152954",
+          "size": 41450165,
+          "shareUrl": "https://1024terabox.com/s/1TsfgqBZMERUzu7GFH9z3Rw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2f21e6ae502d9f002c76",
+        "name": "Merge & Join Data",
+        "type": "ivideo",
+        "sourceId": "jr7v7mkovw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jr7v7mkovw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Merge_&_Join_Data_jr7v7mkovw_1080p.mp4",
+          "fs_id": "369081388818800",
+          "size": 48379256,
+          "shareUrl": "https://1024terabox.com/s/1XOvnRqN4TGSZNl5PiLqm0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "692a2f4a50dbc1175f0dc226",
+        "name": "Data Concatenation with Pandas",
+        "type": "ivideo",
+        "sourceId": "xr85srv6ay",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xr85srv6ay.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Pandas_(Part_2)/Pandas_(Part_2)_Data_Concatenation_with_Pandas_xr85srv6ay_1080p.mp4",
+          "fs_id": "401559469581127",
+          "size": 85007760,
+          "shareUrl": "https://1024terabox.com/s/1zAF-O6w_oIkle3xkiIZotA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Data Collection",
+    "learningPath": [
+      {
+        "id": "69336afacd56ddd3b00200d6",
+        "name": "What is Data Collection?",
+        "type": "ivideo",
+        "sourceId": "o0m4sw46g6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o0m4sw46g6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection/Data_Collection_What_is_Data_Collection__o0m4sw46g6_1080p.mp4",
+          "fs_id": "1044860745763797",
+          "size": 69009338,
+          "shareUrl": "https://1024terabox.com/s/1IqmF2auTR73yQkwIorXmbQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336b0e093113ece60fe9db",
+        "name": "Multiple Sources for Data Science",
+        "type": "ivideo",
+        "sourceId": "8gbtdvgtid",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8gbtdvgtid.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection/Data_Collection_Multiple_Sources_for_Data_Science_8gbtdvgtid_1080p.mp4",
+          "fs_id": "838267080071212",
+          "size": 109260119,
+          "shareUrl": "https://1024terabox.com/s/1MVa1sk0X9OoEI6Ac3lot5w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6934407638c7a5f41c0b0d95",
+        "name": "Starting with SQL",
+        "type": "ivideo",
+        "sourceId": "9ebyzzrrqw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9ebyzzrrqw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection/Data_Collection_Starting_with_SQL_9ebyzzrrqw_1080p.mp4",
+          "fs_id": "922527321321930",
+          "size": 30719110,
+          "shareUrl": "https://1024terabox.com/s/1SuUDBCu4O3j7NDlOA_nixA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SQL (Part 1)",
+    "learningPath": [
+      {
+        "id": "69336a6f1ed5a096950f88b6",
+        "name": "What is a Database?",
+        "type": "ivideo",
+        "sourceId": "3xucxtgby3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3xucxtgby3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_What_is_a_Database__3xucxtgby3_1080p.mp4",
+          "fs_id": "789925200569511",
+          "size": 26316631,
+          "shareUrl": "https://1024terabox.com/s/1PQXNOKySh9NKI4fnO3xiyw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88b7",
+        "name": "SQL v/s NoSQL",
+        "type": "ivideo",
+        "sourceId": "s9a8u673mw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s9a8u673mw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_SQL_v_s_NoSQL_s9a8u673mw_1080p.mp4",
+          "fs_id": "193084118833690",
+          "size": 20557583,
+          "shareUrl": "https://1024terabox.com/s/1LjXFZBMQa7oJrhtzdrb6tQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88b8",
+        "name": "What is SQL?",
+        "type": "ivideo",
+        "sourceId": "793ipq2iuw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/793ipq2iuw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_What_is_SQL__793ipq2iuw_1080p.mp4",
+          "fs_id": "781876750267068",
+          "size": 29352826,
+          "shareUrl": "https://1024terabox.com/s/16F8vCDdKO_y5loynxJWFGg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88b9",
+        "name": "What is a Table?",
+        "type": "ivideo",
+        "sourceId": "lxeejarp76",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lxeejarp76.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_What_is_a_Table__lxeejarp76_1080p.mp4",
+          "fs_id": "970284602228981",
+          "size": 22087760,
+          "shareUrl": "https://1024terabox.com/s/1tWMCgICQt9ly_NYs06xaNg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88ba",
+        "name": "(For Windows) Installation",
+        "type": "ivideo",
+        "sourceId": "2nh1p6u7jz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2nh1p6u7jz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_(For_Windows)_Installation_2nh1p6u7jz_1080p.mp4",
+          "fs_id": "638075727123093",
+          "size": 26048391,
+          "shareUrl": "https://1024terabox.com/s/14hxhCadlrioofCquKF8w0Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88bb",
+        "name": "(For Mac) Installation",
+        "type": "ivideo",
+        "sourceId": "ethzgmrbq0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ethzgmrbq0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_(For_Mac)_Installation_ethzgmrbq0_1080p.mp4",
+          "fs_id": "229748848823376",
+          "size": 33566971,
+          "shareUrl": "https://1024terabox.com/s/1DEjKB11Rc0eAtzfwOgDaog",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88bc",
+        "name": "Our First Database",
+        "type": "ivideo",
+        "sourceId": "5dn6hvuoxl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5dn6hvuoxl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Our_First_Database_5dn6hvuoxl_1080p.mp4",
+          "fs_id": "276063498544092",
+          "size": 39541832,
+          "shareUrl": "https://1024terabox.com/s/1GtvZqhO6mtKg00yzyBDJxQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88bd",
+        "name": "Our First Table",
+        "type": "ivideo",
+        "sourceId": "c2gdr7hbfr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c2gdr7hbfr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Our_First_Table_c2gdr7hbfr_1080p.mp4",
+          "fs_id": "472470170764899",
+          "size": 26798442,
+          "shareUrl": "https://1024terabox.com/s/11LkZvcA15GMeQBzdNoMHzw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88be",
+        "name": "Database Queries",
+        "type": "ivideo",
+        "sourceId": "cqa217c5am",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cqa217c5am.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Database_Queries_cqa217c5am_1080p.mp4",
+          "fs_id": "414211683321739",
+          "size": 19278786,
+          "shareUrl": "https://1024terabox.com/s/1J9YXP2WgnZAgnR-hQnnWdQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88bf",
+        "name": "CREATE Table",
+        "type": "ivideo",
+        "sourceId": "3bunslv7hc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3bunslv7hc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_CREATE_Table_3bunslv7hc_1080p.mp4",
+          "fs_id": "528644445916183",
+          "size": 55144926,
+          "shareUrl": "https://1024terabox.com/s/14X5Oz1udjQ3ygSZny6a4Uw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c0",
+        "name": "What are Constraints?",
+        "type": "ivideo",
+        "sourceId": "dl3kh32y7w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dl3kh32y7w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_What_are_Constraints__dl3kh32y7w_1080p.mp4",
+          "fs_id": "1115202680689921",
+          "size": 35751951,
+          "shareUrl": "https://1024terabox.com/s/1jtAvhv9kFvlIrgzHyzO7_A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c1",
+        "name": "Key Constraints",
+        "type": "ivideo",
+        "sourceId": "6zmwtojttd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6zmwtojttd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Key_Constraints_6zmwtojttd_1080p.mp4",
+          "fs_id": "753376156612475",
+          "size": 67025352,
+          "shareUrl": "https://1024terabox.com/s/1TeqekSal6D59lzNVB3Oz2A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c2",
+        "name": "Primary & Foreign Keys",
+        "type": "ivideo",
+        "sourceId": "yiun5r13e9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yiun5r13e9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Primary_&_Foreign_Keys_yiun5r13e9_1080p.mp4",
+          "fs_id": "445804883018657",
+          "size": 20213446,
+          "shareUrl": "https://1024terabox.com/s/1lishXqOBWNDU1-VvBANTlg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c3",
+        "name": "INSERT into Table",
+        "type": "ivideo",
+        "sourceId": "7b0k1806m5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7b0k1806m5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_INSERT_into_Table_7b0k1806m5_1080p.mp4",
+          "fs_id": "39420256477970",
+          "size": 35380836,
+          "shareUrl": "https://1024terabox.com/s/1DjkjMR0cUsOu4xDEhxncQA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c4",
+        "name": "SELECT Command",
+        "type": "ivideo",
+        "sourceId": "4ay8nusd4e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4ay8nusd4e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_SELECT_Command_4ay8nusd4e_1080p.mp4",
+          "fs_id": "1094530826686112",
+          "size": 17160585,
+          "shareUrl": "https://1024terabox.com/s/1nUb_MtsHe4Pxu1m0WsVOIg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c5",
+        "name": "Where Clause",
+        "type": "ivideo",
+        "sourceId": "g6u80y1d0g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g6u80y1d0g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Where_Clause_g6u80y1d0g_1080p.mp4",
+          "fs_id": "13144248821109",
+          "size": 18097716,
+          "shareUrl": "https://1024terabox.com/s/1_qEmI-IswDuObllV0a9MFg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c6",
+        "name": "Operators in Where",
+        "type": "ivideo",
+        "sourceId": "hz5dwqmzds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hz5dwqmzds.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Operators_in_Where_hz5dwqmzds_1080p.mp4",
+          "fs_id": "1029543720614459",
+          "size": 30818830,
+          "shareUrl": "https://1024terabox.com/s/1dKbXU5U4NVXh7WXmsns6uw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c7",
+        "name": "Frequently Used Operators",
+        "type": "ivideo",
+        "sourceId": "jagv8ip4q9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jagv8ip4q9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Frequently_Used_Operators_jagv8ip4q9_1080p.mp4",
+          "fs_id": "760471425038309",
+          "size": 45796249,
+          "shareUrl": "https://1024terabox.com/s/1V6GJhMDZmQpjV_2CzKsxwg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c8",
+        "name": "Limit Clause",
+        "type": "ivideo",
+        "sourceId": "u4oxxgb6ee",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u4oxxgb6ee.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Limit_Clause_u4oxxgb6ee_1080p.mp4",
+          "fs_id": "19679146511480",
+          "size": 10886012,
+          "shareUrl": "https://1024terabox.com/s/1ZdNGJqN2oUX9qUq-yLp7ug",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a6f1ed5a096950f88c9",
+        "name": "Order By Clause",
+        "type": "ivideo",
+        "sourceId": "3pv6q0wp45",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3pv6q0wp45.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Order_By_Clause_3pv6q0wp45_1080p.mp4",
+          "fs_id": "287296028241261",
+          "size": 14683999,
+          "shareUrl": "https://1024terabox.com/s/1nskPuur26eg9ih_GkkWcYw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88ca",
+        "name": "Aggregate Functions",
+        "type": "ivideo",
+        "sourceId": "i11istkr7l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i11istkr7l.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Aggregate_Functions_i11istkr7l_1080p.mp4",
+          "fs_id": "876853127071962",
+          "size": 25584091,
+          "shareUrl": "https://1024terabox.com/s/1mghzAnMX7ZdlWi_lByNa5Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88cb",
+        "name": "Group By Clause",
+        "type": "ivideo",
+        "sourceId": "4p4jplamxc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4p4jplamxc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Group_By_Clause_4p4jplamxc_1080p.mp4",
+          "fs_id": "436975604542499",
+          "size": 34318164,
+          "shareUrl": "https://1024terabox.com/s/1V0LBRcNWtnqByQv4z25z3Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88cc",
+        "name": "Having Clause",
+        "type": "ivideo",
+        "sourceId": "223x6qmada",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/223x6qmada.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Having_Clause_223x6qmada_1080p.mp4",
+          "fs_id": "635935721724940",
+          "size": 17227696,
+          "shareUrl": "https://1024terabox.com/s/1B-JreLPiMBdnos6WuaVLZA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88cd",
+        "name": "General Order",
+        "type": "ivideo",
+        "sourceId": "03cqd2c9px",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/03cqd2c9px.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_General_Order_03cqd2c9px_1080p.mp4",
+          "fs_id": "689353384497068",
+          "size": 9009896,
+          "shareUrl": "https://1024terabox.com/s/126uJwnlOuIiRDx4PrmKxhw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88ce",
+        "name": "UPDATE Table",
+        "type": "ivideo",
+        "sourceId": "osofyniutv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/osofyniutv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_UPDATE_Table_osofyniutv_1080p.mp4",
+          "fs_id": "63729497764910",
+          "size": 20022420,
+          "shareUrl": "https://1024terabox.com/s/1frhoZKYGDMJ2naxRmS-8hQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88cf",
+        "name": "DELETE Table",
+        "type": "ivideo",
+        "sourceId": "dwb8vohf8n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dwb8vohf8n.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_DELETE_Table_dwb8vohf8n_1080p.mp4",
+          "fs_id": "768097553630453",
+          "size": 7511431,
+          "shareUrl": "https://1024terabox.com/s/1bc7PKV7eQzfsqTB1PkRyyQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88d0",
+        "name": "ALTER Table",
+        "type": "ivideo",
+        "sourceId": "1ku8gmpxoq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1ku8gmpxoq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_ALTER_Table_1ku8gmpxoq_1080p.mp4",
+          "fs_id": "47375134488868",
+          "size": 47561313,
+          "shareUrl": "https://1024terabox.com/s/10QtDgOiFJDr37GhNAFv15Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88d1",
+        "name": "TRUNCATE Table",
+        "type": "ivideo",
+        "sourceId": "386dryn9cl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/386dryn9cl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_TRUNCATE_Table_386dryn9cl_1080p.mp4",
+          "fs_id": "1054856944343493",
+          "size": 22892016,
+          "shareUrl": "https://1024terabox.com/s/18TxWythhtL8gu-_GxyD6HQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88d2",
+        "name": "Practice Set 1",
+        "type": "ivideo",
+        "sourceId": "qwlsckm81d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qwlsckm81d.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Practice_Set_1_qwlsckm81d_1080p.mp4",
+          "fs_id": "889784422116447",
+          "size": 52977852,
+          "shareUrl": "https://1024terabox.com/s/1d1yWmOPwsCXdbunH8dGjbA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69336a701ed5a096950f88d3",
+        "name": "Practice Set 2",
+        "type": "ivideo",
+        "sourceId": "i5clyb95v6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i5clyb95v6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_1)/SQL_(Part_1)_Practice_Set_2_i5clyb95v6_1080p.mp4",
+          "fs_id": "1030511082631748",
+          "size": 44859757,
+          "shareUrl": "https://1024terabox.com/s/1Fm-oM72fArAdSZmtGOLYig",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "SQL (Part 2)",
+    "learningPath": [
+      {
+        "id": "693bf4cc7d9b673b600bee15",
+        "name": "Transactions & ACID Properties",
+        "type": "ivideo",
+        "sourceId": "bh8b4ti9xf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bh8b4ti9xf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Transactions_&_ACID_Properties_bh8b4ti9xf_1080p.mp4",
+          "fs_id": "862993062907050",
+          "size": 32287270,
+          "shareUrl": "https://1024terabox.com/s/1FYg-HTnLGEUTO9BZ5ZGVUg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf505186c6a2a4f0b1865",
+        "name": "Commit in Transactions",
+        "type": "ivideo",
+        "sourceId": "7iqpgquce6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7iqpgquce6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Commit_in_Transactions_7iqpgquce6_1080p.mp4",
+          "fs_id": "279558937333384",
+          "size": 27834430,
+          "shareUrl": "https://1024terabox.com/s/1gHuMUGesSt9R7k-rCoSSYQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf529c58d57cede03d9f5",
+        "name": "Rollbacks & Savepoints",
+        "type": "ivideo",
+        "sourceId": "bsq75tl16o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bsq75tl16o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Rollbacks_&_Savepoints_bsq75tl16o_1080p.mp4",
+          "fs_id": "1016218214575635",
+          "size": 44726525,
+          "shareUrl": "https://1024terabox.com/s/1wWCh3QVcVbR40RPVhSWKIA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf5c8ce55ec069002a533",
+        "name": "JOINs in SQL (Inner Join)",
+        "type": "ivideo",
+        "sourceId": "1auo175nsj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1auo175nsj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_JOINs_in_SQL_(Inner_Join)_1auo175nsj_1080p.mp4",
+          "fs_id": "468534945713418",
+          "size": 23596951,
+          "shareUrl": "https://1024terabox.com/s/1DYdqVb_JodpYbqulsj0edw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf5f82e6c5375460b6b63",
+        "name": "Left Join & Right Join",
+        "type": "ivideo",
+        "sourceId": "bkxa0cylk4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bkxa0cylk4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Left_Join_&_Right_Join_bkxa0cylk4_1080p.mp4",
+          "fs_id": "701859048401709",
+          "size": 11782326,
+          "shareUrl": "https://1024terabox.com/s/1adil7OLgPAtjQcX1eA7sfA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf64a871939019003ece8",
+        "name": "Outer Join & Cross Join",
+        "type": "ivideo",
+        "sourceId": "7c49y8yy9z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7c49y8yy9z.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Outer_Join_&_Cross_Join_7c49y8yy9z_1080p.mp4",
+          "fs_id": "759919417445258",
+          "size": 17668667,
+          "shareUrl": "https://1024terabox.com/s/15LotssrW5qX9GSNukhBc2g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf667d767ddb4a9070c47",
+        "name": "Self Join",
+        "type": "ivideo",
+        "sourceId": "fbxp2449n5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fbxp2449n5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Self_Join_fbxp2449n5_1080p.mp4",
+          "fs_id": "893299513857968",
+          "size": 10391059,
+          "shareUrl": "https://1024terabox.com/s/1IiQ_9XCi9HErSYrAUricMw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf68add2d0991340f4f35",
+        "name": "Practice Problem - Exclusive Joins",
+        "type": "ivideo",
+        "sourceId": "eql4qg21im",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eql4qg21im.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Practice_Problem_-_Exclusive_Joins_eql4qg21im_1080p.mp4",
+          "fs_id": "99397701883808",
+          "size": 26226341,
+          "shareUrl": "https://1024terabox.com/s/1J8s33tzdPfvQc0zjEBs7OQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf74fc2649504b7076ce9",
+        "name": "Sub-Queries in SQL",
+        "type": "ivideo",
+        "sourceId": "2wz2imjy0g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2wz2imjy0g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Sub-Queries_in_SQL_2wz2imjy0g_1080p.mp4",
+          "fs_id": "548667156654839",
+          "size": 40404567,
+          "shareUrl": "https://1024terabox.com/s/1Y5xd4W7w0r1fDbB63halEA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf778e8bee8b4b609ab45",
+        "name": "Views in SQL",
+        "type": "ivideo",
+        "sourceId": "ce89u977jm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ce89u977jm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Views_in_SQL_ce89u977jm_1080p.mp4",
+          "fs_id": "429989798811687",
+          "size": 31934106,
+          "shareUrl": "https://1024terabox.com/s/1dIY8eg-Oxkw0Fj0m10L9PA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf7b3ccc7ec8e4a043565",
+        "name": "Index in SQL",
+        "type": "ivideo",
+        "sourceId": "k5qbyrvgf1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k5qbyrvgf1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Index_in_SQL_k5qbyrvgf1_1080p.mp4",
+          "fs_id": "427515499798334",
+          "size": 23809067,
+          "shareUrl": "https://1024terabox.com/s/1-rKtb7IE7HqsiwP0K8E9PA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf82760012d9aaa02b7c5",
+        "name": "Composite Index",
+        "type": "ivideo",
+        "sourceId": "wbwrmub0dj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wbwrmub0dj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Composite_Index_wbwrmub0dj_1080p.mp4",
+          "fs_id": "657894895051310",
+          "size": 19236753,
+          "shareUrl": "https://1024terabox.com/s/1WwPBukyfX664gHvMTEy_4A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf866f5707bb91f0c28c7",
+        "name": "Stored Procedures",
+        "type": "ivideo",
+        "sourceId": "5hrqbfl6up",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5hrqbfl6up.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Stored_Procedures_5hrqbfl6up_1080p.mp4",
+          "fs_id": "7843290125119",
+          "size": 27975198,
+          "shareUrl": "https://1024terabox.com/s/1oZnoIz3qz76xTBsIbL21Ww",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1a0f746038ca7602df26",
+        "name": "Call & Drop Procedures",
+        "type": "ivideo",
+        "sourceId": "7p9zu3vvk3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7p9zu3vvk3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/SQL_(Part_2)/SQL_(Part_2)_Call_&_Drop_Procedures_7p9zu3vvk3_1080p.mp4",
+          "fs_id": "257658662122700",
+          "size": 32182208,
+          "shareUrl": "https://1024terabox.com/s/16uwH_NjnS7p55zwHPLL7ZA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Data Collection (continuation)",
+    "learningPath": [
+      {
+        "id": "693bf98d6e1cc22fd90f8937",
+        "name": "Population Techniques (Recap)",
+        "type": "ivideo",
+        "sourceId": "8ummo0chxk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8ummo0chxk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Population_Techniques_(Recap)_8ummo0chxk_1080p.mp4",
+          "fs_id": "31225062120618",
+          "size": 53363153,
+          "shareUrl": "https://1024terabox.com/s/1VXF2nbRRELYWcNLG24i_PQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bf9d6c2649504b7076cea",
+        "name": "Working with APIs",
+        "type": "ivideo",
+        "sourceId": "qcs8cinsza",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qcs8cinsza.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Working_with_APIs_qcs8cinsza_1080p.mp4",
+          "fs_id": "84942251575485",
+          "size": 124296384,
+          "shareUrl": "https://1024terabox.com/s/1gz8og4PFF7CZ5ObprmStnA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bfa22ccd14c36690112d3",
+        "name": "Homework Problem",
+        "type": "ivideo",
+        "sourceId": "zkhqhpwbw6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zkhqhpwbw6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Homework_Problem_zkhqhpwbw6_1080p.mp4",
+          "fs_id": "389690670730586",
+          "size": 15393627,
+          "shareUrl": "https://1024terabox.com/s/1uLKRNTwM2QXXaKvEHFzepQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bfa3cbc02cb2bd0069d96",
+        "name": "Starting with Web Scraping",
+        "type": "ivideo",
+        "sourceId": "nrghkg1pwb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nrghkg1pwb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Starting_with_Web_Scraping_nrghkg1pwb_1080p.mp4",
+          "fs_id": "657375835437674",
+          "size": 135455534,
+          "shareUrl": "https://1024terabox.com/s/1kq_QgkwBDEEnjVX7sS74sQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bfef380e360d1f20cc9d7",
+        "name": "HTML Overview",
+        "type": "ivideo",
+        "sourceId": "ct8shy7y5q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ct8shy7y5q.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_HTML_Overview_ct8shy7y5q_1080p.mp4",
+          "fs_id": "449637726177929",
+          "size": 37248761,
+          "shareUrl": "https://1024terabox.com/s/1_B3LL6_u-feeQ_1ydWNkVQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bfefc5ba8d5d49006ac05",
+        "name": "Important Tags in HTML",
+        "type": "ivideo",
+        "sourceId": "r577zytuwo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r577zytuwo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Important_Tags_in_HTML_r577zytuwo_1080p.mp4",
+          "fs_id": "1078682628262596",
+          "size": 59536194,
+          "shareUrl": "https://1024terabox.com/s/15qC6H70u6SZkXPZ-IQ4xew",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bff0385cb7e40e70db795",
+        "name": "Attributes in HTML",
+        "type": "ivideo",
+        "sourceId": "5us1301qjp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5us1301qjp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Attributes_in_HTML_5us1301qjp_1080p.mp4",
+          "fs_id": "416502153916756",
+          "size": 30136936,
+          "shareUrl": "https://1024terabox.com/s/1-eUYwPtEgK5aDYcy0Z0_uw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bff77723cdc2c9b0d45b5",
+        "name": "Web Scraping (requests Library)",
+        "type": "ivideo",
+        "sourceId": "mh739mvdds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mh739mvdds.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Web_Scraping_(requests_Library)_mh739mvdds_1080p.mp4",
+          "fs_id": "623196729549999",
+          "size": 78762275,
+          "shareUrl": "https://1024terabox.com/s/1Ezr2UcVKQSX6xedeqr3Mzg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693bffb32f43b7354a0d6a56",
+        "name": "Additional Techniques",
+        "type": "ivideo",
+        "sourceId": "pqquortnku",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pqquortnku.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Additional_Techniques_pqquortnku_1080p.mp4",
+          "fs_id": "583740216567100",
+          "size": 21174936,
+          "shareUrl": "https://1024terabox.com/s/1iUNmuMu-1W71c5xHKt5C5Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c001b2c294810580b4b45",
+        "name": "Web Scraping (using BeautifulSoup)",
+        "type": "ivideo",
+        "sourceId": "uyeq1zbo34",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uyeq1zbo34.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Web_Scraping_(using_BeautifulSoup)_uyeq1zbo34_1080p.mp4",
+          "fs_id": "393999646353040",
+          "size": 37361402,
+          "shareUrl": "https://1024terabox.com/s/1Xqy-1M5kWbdxJsgHK9YbiQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c00bf452abadd0800a6e5",
+        "name": "BeautifulSoup Methods & Attributes",
+        "type": "ivideo",
+        "sourceId": "e9qy6amxw7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e9qy6amxw7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_BeautifulSoup_Methods_&_Attributes_e9qy6amxw7_1080p.mp4",
+          "fs_id": "322764590291116",
+          "size": 140627215,
+          "shareUrl": "https://1024terabox.com/s/1CCTKmIZv4ImuGnpgM-fFtA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c010fed5e451f51010f53",
+        "name": "Storing Collected Data",
+        "type": "ivideo",
+        "sourceId": "bcllvvjhux",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bcllvvjhux.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Collection_(continuation)/Data_Collection_(continuation)_Storing_Collected_Data_bcllvvjhux_1080p.mp4",
+          "fs_id": "343446379420526",
+          "size": 32273479,
+          "shareUrl": "https://1024terabox.com/s/1ei1vdPu-rd551aj6v26WCQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "[OPTIONAL] Complete HTML Tutorial",
+    "learningPath": [
+      {
+        "id": "693c1e739c7c631ff104c7f5",
+        "name": "Introduction to HTML",
+        "type": "ivideo",
+        "sourceId": "qxbvokwmqj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qxbvokwmqj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Introduction_to_HTML_qxbvokwmqj_1080p.mp4",
+          "fs_id": "289260737703404",
+          "size": 32270405,
+          "shareUrl": "https://1024terabox.com/s/1skw158BkD326cqbxijkHAg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7f6",
+        "name": "HTML Elements & Tags",
+        "type": "ivideo",
+        "sourceId": "9ifsi19vbr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9ifsi19vbr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_HTML_Elements_&_Tags_9ifsi19vbr_1080p.mp4",
+          "fs_id": "374194470110280",
+          "size": 26209414,
+          "shareUrl": "https://1024terabox.com/s/1M98w05sygL2-DMXYkfIYtw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7f7",
+        "name": "Hello World",
+        "type": "ivideo",
+        "sourceId": "fp2h3r3nvu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fp2h3r3nvu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Hello_World_fp2h3r3nvu_1080p.mp4",
+          "fs_id": "312618258834735",
+          "size": 43662737,
+          "shareUrl": "https://1024terabox.com/s/17p2tXubB5bkQZ1bIuIJLKQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7f8",
+        "name": "Paragraph Element",
+        "type": "ivideo",
+        "sourceId": "g9na6rypsh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g9na6rypsh.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Paragraph_Element_g9na6rypsh_1080p.mp4",
+          "fs_id": "668414754220373",
+          "size": 26855954,
+          "shareUrl": "https://1024terabox.com/s/1olh06IlBxNNZCVOKSfte0A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7f9",
+        "name": "Heading Elements",
+        "type": "ivideo",
+        "sourceId": "sobe72tnxk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sobe72tnxk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Heading_Elements_sobe72tnxk_1080p.mp4",
+          "fs_id": "585003705911387",
+          "size": 33211426,
+          "shareUrl": "https://1024terabox.com/s/1E-cUfgQx-NeGVLvROKkXyw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7fa",
+        "name": "Practice Qs (Level1A)",
+        "type": "ivideo",
+        "sourceId": "cfoqf4a3hc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cfoqf4a3hc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_(Level1A)_cfoqf4a3hc_1080p.mp4",
+          "fs_id": "288195559183130",
+          "size": 49030357,
+          "shareUrl": "https://1024terabox.com/s/1Mezo8Kk3jeBFPF4J9to7cg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1e739c7c631ff104c7fb",
+        "name": "Boilerplate Code",
+        "type": "ivideo",
+        "sourceId": "t51tsv4qzq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t51tsv4qzq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Boilerplate_Code_t51tsv4qzq_1080p.mp4",
+          "fs_id": "312795688934469",
+          "size": 66959948,
+          "shareUrl": "https://1024terabox.com/s/1-UeJJNrFpCz0uuHj9Luf7A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fe5",
+        "name": "Lists in HTML",
+        "type": "ivideo",
+        "sourceId": "vw5us5aovy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vw5us5aovy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Lists_in_HTML_vw5us5aovy_1080p.mp4",
+          "fs_id": "311895288055236",
+          "size": 31132698,
+          "shareUrl": "https://1024terabox.com/s/15KjwxydvSQtGQIiQzsCKUw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fe6",
+        "name": "Attributes in HTML",
+        "type": "ivideo",
+        "sourceId": "bpffcphcpm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bpffcphcpm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Attributes_in_HTML_bpffcphcpm_1080p.mp4",
+          "fs_id": "656988717674327",
+          "size": 13350941,
+          "shareUrl": "https://1024terabox.com/s/1GFWEnQNygn4Kf73K0fiu5A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fe7",
+        "name": "Anchor Element",
+        "type": "ivideo",
+        "sourceId": "bp0yxwp6ec",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bp0yxwp6ec.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Anchor_Element_bp0yxwp6ec_1080p.mp4",
+          "fs_id": "763523220987447",
+          "size": 44991292,
+          "shareUrl": "https://1024terabox.com/s/17iql7wv59l433_Lin_VkEg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fe8",
+        "name": "Image Element",
+        "type": "ivideo",
+        "sourceId": "6huct4z3gr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6huct4z3gr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Image_Element_6huct4z3gr_1080p.mp4",
+          "fs_id": "280736090711621",
+          "size": 81112028,
+          "shareUrl": "https://1024terabox.com/s/1dTo_Rad4Vuv7u66slgFTYA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fe9",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "9t250om9ez",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9t250om9ez.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_9t250om9ez_1080p.mp4",
+          "fs_id": "572068332042017",
+          "size": 24902097,
+          "shareUrl": "https://1024terabox.com/s/1hPqppDMYi8jNQdTUD61mIA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fea",
+        "name": "More HTML Tags",
+        "type": "ivideo",
+        "sourceId": "cdy348g59o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cdy348g59o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_More_HTML_Tags_cdy348g59o_1080p.mp4",
+          "fs_id": "947363107894804",
+          "size": 22952836,
+          "shareUrl": "https://1024terabox.com/s/19ZwjnCCyWIdpG3Kfwdn0zw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4feb",
+        "name": "Comments in HTML",
+        "type": "ivideo",
+        "sourceId": "3pi93h105v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3pi93h105v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Comments_in_HTML_3pi93h105v_1080p.mp4",
+          "fs_id": "761127493281588",
+          "size": 57962479,
+          "shareUrl": "https://1024terabox.com/s/1Vyj2QrJXrqCkYFaweFJtEw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fec",
+        "name": "Is HTML Case Sensitive?",
+        "type": "ivideo",
+        "sourceId": "g5mlw0qcsu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g5mlw0qcsu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Is_HTML_Case_Sensitive__g5mlw0qcsu_1080p.mp4",
+          "fs_id": "678818773340054",
+          "size": 16191875,
+          "shareUrl": "https://1024terabox.com/s/1SUt4-5cOVN8A9qchW1lhew",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4fed",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "danqem6ygu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/danqem6ygu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_danqem6ygu_1080p.mp4",
+          "fs_id": "376770403733440",
+          "size": 71076538,
+          "shareUrl": "https://1024terabox.com/s/1jaAiBgGFDyb2vfWWoTOkeA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff0",
+        "name": "Inline v/s Block",
+        "type": "ivideo",
+        "sourceId": "7oowvmgcal",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7oowvmgcal.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Inline_v_s_Block_7oowvmgcal_1080p.mp4",
+          "fs_id": "719671164172938",
+          "size": 53960062,
+          "shareUrl": "https://1024terabox.com/s/1DBDktdtwI6k-zrpiq-QTNg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff1",
+        "name": "Div Element",
+        "type": "ivideo",
+        "sourceId": "d8z01byr2y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d8z01byr2y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Div_Element_d8z01byr2y_1080p.mp4",
+          "fs_id": "553830038520665",
+          "size": 25715676,
+          "shareUrl": "https://1024terabox.com/s/1hIN0M39nm-VGGZZ-FQPeoA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff2",
+        "name": "Span Element",
+        "type": "ivideo",
+        "sourceId": "3iel3ki50u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3iel3ki50u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Span_Element_3iel3ki50u_1080p.mp4",
+          "fs_id": "681390928834485",
+          "size": 17441138,
+          "shareUrl": "https://1024terabox.com/s/1UUrLO8YfLDRzvsXm7gaEMw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff3",
+        "name": "Hr Tag",
+        "type": "ivideo",
+        "sourceId": "irg61p1y6j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/irg61p1y6j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Hr_Tag_irg61p1y6j_1080p.mp4",
+          "fs_id": "341583625178360",
+          "size": 17141106,
+          "shareUrl": "https://1024terabox.com/s/1U97pa-OgnWs7qowqNAF_MA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff4",
+        "name": "Sup & Sub Tags",
+        "type": "ivideo",
+        "sourceId": "3q1oq3tkzi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3q1oq3tkzi.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Sup_&_Sub_Tags_3q1oq3tkzi_1080p.mp4",
+          "fs_id": "144179279920776",
+          "size": 22104777,
+          "shareUrl": "https://1024terabox.com/s/1_ys6rE5ihUiEajR_uscGcQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff5",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "in3zq099r2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/in3zq099r2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_in3zq099r2_1080p.mp4",
+          "fs_id": "431235492117723",
+          "size": 9127178,
+          "shareUrl": "https://1024terabox.com/s/19ZXULsl3Lx089vFdEfjR6g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff6",
+        "name": "Semantic Markup",
+        "type": "ivideo",
+        "sourceId": "u4f772478e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u4f772478e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Semantic_Markup_u4f772478e_1080p.mp4",
+          "fs_id": "153981111502725",
+          "size": 48281104,
+          "shareUrl": "https://1024terabox.com/s/1IccsMExAivEe-KCXSrQpuA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff7",
+        "name": "Semantic Tags",
+        "type": "ivideo",
+        "sourceId": "1aubc783az",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1aubc783az.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Semantic_Tags_1aubc783az_1080p.mp4",
+          "fs_id": "158495066045807",
+          "size": 70154836,
+          "shareUrl": "https://1024terabox.com/s/1xmjjewOs4FETerYAiN_X2w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff8",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "lnmjqscmau",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lnmjqscmau.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_lnmjqscmau_1080p.mp4",
+          "fs_id": "1104991653729922",
+          "size": 23718481,
+          "shareUrl": "https://1024terabox.com/s/10A8Hh8SPPniRBAlwi5-7Qw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ff9",
+        "name": "HTML Entities",
+        "type": "ivideo",
+        "sourceId": "6x68liv18j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6x68liv18j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_HTML_Entities_6x68liv18j_1080p.mp4",
+          "fs_id": "993922359545184",
+          "size": 66323316,
+          "shareUrl": "https://1024terabox.com/s/1REXWl25RIFaO121HjgN40w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ffa",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "panzbsb5d6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/panzbsb5d6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_panzbsb5d6_1080p.mp4",
+          "fs_id": "684167606488956",
+          "size": 14483348,
+          "shareUrl": "https://1024terabox.com/s/1ABL8N4ByQwzOqiReE6nxvA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ffb",
+        "name": "Emmets",
+        "type": "ivideo",
+        "sourceId": "oeylvd5qgx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oeylvd5qgx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Emmets_oeylvd5qgx_1080p.mp4",
+          "fs_id": "862594755010507",
+          "size": 60486419,
+          "shareUrl": "https://1024terabox.com/s/1u3ZAJg-HTdvxlUJTM1CF7Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1ecb1c5cfafd7f0a4ffc",
+        "name": "Further Understanding HTML",
+        "type": "ivideo",
+        "sourceId": "0df8zr5u37",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0df8zr5u37.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Further_Understanding_HTML_0df8zr5u37_1080p.mp4",
+          "fs_id": "1024953076453062",
+          "size": 27433631,
+          "shareUrl": "https://1024terabox.com/s/1FJXfuH_u2vYkHchEcAkxuw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098286",
+        "name": "Tables in HTML",
+        "type": "ivideo",
+        "sourceId": "3hvrosdm8f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3hvrosdm8f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Tables_in_HTML_3hvrosdm8f_1080p.mp4",
+          "fs_id": "693626551471756",
+          "size": 87772239,
+          "shareUrl": "https://1024terabox.com/s/1FtwhN0LevbeHTGDH9AFH5A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098287",
+        "name": "Semantics in Tables",
+        "type": "ivideo",
+        "sourceId": "9hj8qvduqg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9hj8qvduqg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Semantics_in_Tables_9hj8qvduqg_1080p.mp4",
+          "fs_id": "1054760982078942",
+          "size": 19694399,
+          "shareUrl": "https://1024terabox.com/s/1-7gxQycwmLoXDemxcQpUMw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098288",
+        "name": "Colspan & Rowspan Attributes",
+        "type": "ivideo",
+        "sourceId": "y3fba8sjfj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y3fba8sjfj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Colspan_&_Rowspan_Attributes_y3fba8sjfj_1080p.mp4",
+          "fs_id": "4235126931363",
+          "size": 63729420,
+          "shareUrl": "https://1024terabox.com/s/1fTq_vZR-sLBQgiBsxLxb_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098289",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "v5xwozhqwu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v5xwozhqwu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_v5xwozhqwu_1080p.mp4",
+          "fs_id": "205721056519639",
+          "size": 48273312,
+          "shareUrl": "https://1024terabox.com/s/1RV-KFt1p3ZPcssbt_oCRxA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828a",
+        "name": "Forms in HTML",
+        "type": "ivideo",
+        "sourceId": "wqzoijwsmu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wqzoijwsmu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Forms_in_HTML_wqzoijwsmu_1080p.mp4",
+          "fs_id": "652903607977993",
+          "size": 32573827,
+          "shareUrl": "https://1024terabox.com/s/1ePSlATjrO7VpHZtmkHVPOA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828b",
+        "name": "Input - Form Element",
+        "type": "ivideo",
+        "sourceId": "9t4nndd5hn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9t4nndd5hn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Input_-_Form_Element_9t4nndd5hn_1080p.mp4",
+          "fs_id": "590167930101025",
+          "size": 53239252,
+          "shareUrl": "https://1024terabox.com/s/1NKEtg1InxI94rOBVZH34uw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828c",
+        "name": "Placeholders & Labels",
+        "type": "ivideo",
+        "sourceId": "x9fphbckn0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x9fphbckn0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Placeholders_&_Labels_x9fphbckn0_1080p.mp4",
+          "fs_id": "679101681286664",
+          "size": 62171079,
+          "shareUrl": "https://1024terabox.com/s/1xB-qTIyandeIX-90N5WtTA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828d",
+        "name": "Button Element",
+        "type": "ivideo",
+        "sourceId": "wtl2o0wcx0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wtl2o0wcx0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Button_Element_wtl2o0wcx0_1080p.mp4",
+          "fs_id": "1039584965794715",
+          "size": 70459924,
+          "shareUrl": "https://1024terabox.com/s/1JYNacwY10K2isASTWenQLQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828e",
+        "name": "Name Attribute",
+        "type": "ivideo",
+        "sourceId": "n5jeloaqqb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n5jeloaqqb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Name_Attribute_n5jeloaqqb_1080p.mp4",
+          "fs_id": "623352817639758",
+          "size": 71681507,
+          "shareUrl": "https://1024terabox.com/s/137F8ibk97jfYHOkGLNRo4A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e80509828f",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "ld7h6159vx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ld7h6159vx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_ld7h6159vx_1080p.mp4",
+          "fs_id": "88653147141758",
+          "size": 16450933,
+          "shareUrl": "https://1024terabox.com/s/1_kkupwVkkphwtHLtXRQNtw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098290",
+        "name": "Checkbox - Input Element",
+        "type": "ivideo",
+        "sourceId": "34d4owbgi6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/34d4owbgi6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Checkbox_-_Input_Element_34d4owbgi6_1080p.mp4",
+          "fs_id": "323228084657914",
+          "size": 24249410,
+          "shareUrl": "https://1024terabox.com/s/1DeIIiAOg2JWLiwkbHGeoMQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098291",
+        "name": "Radio - Input Element",
+        "type": "ivideo",
+        "sourceId": "1wh0t07j78",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1wh0t07j78.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Radio_-_Input_Element_1wh0t07j78_1080p.mp4",
+          "fs_id": "374657366546354",
+          "size": 57085567,
+          "shareUrl": "https://1024terabox.com/s/1COd7TUpB0VBmltVr-Lwq8A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098292",
+        "name": "Select - Input Element",
+        "type": "ivideo",
+        "sourceId": "kz09bpvkds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kz09bpvkds.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Select_-_Input_Element_kz09bpvkds_1080p.mp4",
+          "fs_id": "104220658344721",
+          "size": 28802311,
+          "shareUrl": "https://1024terabox.com/s/1FMwxkyG82Zx74j7blmdFzA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098293",
+        "name": "Range - Input Element",
+        "type": "ivideo",
+        "sourceId": "l7ei4jbh8a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l7ei4jbh8a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Range_-_Input_Element_l7ei4jbh8a_1080p.mp4",
+          "fs_id": "766796767902274",
+          "size": 33534980,
+          "shareUrl": "https://1024terabox.com/s/1J27JqLpsoW42gk-ofXHg7Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098294",
+        "name": "Text Area",
+        "type": "ivideo",
+        "sourceId": "d5zkf46pzf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d5zkf46pzf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Text_Area_d5zkf46pzf_1080p.mp4",
+          "fs_id": "199402730588928",
+          "size": 20430892,
+          "shareUrl": "https://1024terabox.com/s/1lUVQbeeqnUjod78rDaJDeQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693c1f2a65aed5e805098295",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "4kxssr644i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4kxssr644i.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/[OPTIONAL]_Complete_HTML_Tutorial/[OPTIONAL]_Complete_HTML_Tutorial_Practice_Qs_4kxssr644i_1080p.mp4",
+          "fs_id": "71933643154958",
+          "size": 42257319,
+          "shareUrl": "https://1024terabox.com/s/1FnPe9BaYQUyzce4NXuzKHA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Web Scraping (Activity)",
+    "learningPath": [
+      {
+        "id": "693d4b6ba5c101bd820f8503",
+        "name": "Solution - Part 1",
+        "type": "ivideo",
+        "sourceId": "kqljvfc65h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kqljvfc65h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Web_Scraping_(Activity)/Web_Scraping_(Activity)_Solution_-_Part_1_kqljvfc65h_1080p.mp4",
+          "fs_id": "420988783566937",
+          "size": 140055236,
+          "shareUrl": "https://1024terabox.com/s/1mASyfBCI83fJCj9zh7A8rQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4b70f4765f5455002956",
+        "name": "Solution - Part 2",
+        "type": "ivideo",
+        "sourceId": "5xrfqzdiiy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5xrfqzdiiy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Web_Scraping_(Activity)/Web_Scraping_(Activity)_Solution_-_Part_2_5xrfqzdiiy_1080p.mp4",
+          "fs_id": "410701734342889",
+          "size": 90274804,
+          "shareUrl": "https://1024terabox.com/s/1YiovNYi4EuPctuocJ9II4w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Data Visualization (Part 1)",
+    "learningPath": [
+      {
+        "id": "693d4c101173b12d07047f87",
+        "name": "What is Data Visualization?",
+        "type": "ivideo",
+        "sourceId": "fsgb33n371",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fsgb33n371.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_What_is_Data_Visualization__fsgb33n371_1080p.mp4",
+          "fs_id": "759676546918286",
+          "size": 65719229,
+          "shareUrl": "https://1024terabox.com/s/1qgr5rEOFYa9IAlRRTU-LGA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4c1960556cfd9c050f03",
+        "name": "How to Plot data?",
+        "type": "ivideo",
+        "sourceId": "1cb6l0dkfo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1cb6l0dkfo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_How_to_Plot_data__1cb6l0dkfo_1080p.mp4",
+          "fs_id": "169300600906049",
+          "size": 72969528,
+          "shareUrl": "https://1024terabox.com/s/1Wg6ZG3D3gKF_VJkFtbjW_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4c261cc6842735017786",
+        "name": "Introduction to Matplotlib",
+        "type": "ivideo",
+        "sourceId": "s6wkhkyr85",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s6wkhkyr85.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Introduction_to_Matplotlib_s6wkhkyr85_1080p.mp4",
+          "fs_id": "985670281280110",
+          "size": 74909769,
+          "shareUrl": "https://1024terabox.com/s/1zaHLXu-TA_pGp8E409ebXA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4c78980bbc79cc074305",
+        "name": "Important Plot Methods",
+        "type": "ivideo",
+        "sourceId": "6lvuyhlwn9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6lvuyhlwn9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Important_Plot_Methods_6lvuyhlwn9_1080p.mp4",
+          "fs_id": "934958023666059",
+          "size": 29353594,
+          "shareUrl": "https://1024terabox.com/s/1XI_-mwdwEBrREFl8tx68bw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4cf243414f3f95007f05",
+        "name": "Multiple datasets on Line Plot",
+        "type": "ivideo",
+        "sourceId": "wons0ygx7u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wons0ygx7u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Multiple_datasets_on_Line_Plot_wons0ygx7u_1080p.mp4",
+          "fs_id": "1099797954827023",
+          "size": 34202252,
+          "shareUrl": "https://1024terabox.com/s/11yMZxGsqFGYwkKjSdC3pVQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4d218b4996926f009e56",
+        "name": "Format Strings",
+        "type": "ivideo",
+        "sourceId": "50mcx3772c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/50mcx3772c.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Format_Strings_50mcx3772c_1080p.mp4",
+          "fs_id": "126379949904497",
+          "size": 47104926,
+          "shareUrl": "https://1024terabox.com/s/1xEKPJ9E57ow7n0H9iqkylQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4d5d4893b4f7f00de767",
+        "name": "Styling & Saving Plots",
+        "type": "ivideo",
+        "sourceId": "xu2b5sgkq2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xu2b5sgkq2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Styling_&_Saving_Plots_xu2b5sgkq2_1080p.mp4",
+          "fs_id": "864373129518637",
+          "size": 50227429,
+          "shareUrl": "https://1024terabox.com/s/1aNcz5i4twN7R64QX6E1Kng",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4da99fb61c217b06e5b7",
+        "name": "Common Plots & Charts",
+        "type": "ivideo",
+        "sourceId": "80urc4ufqp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/80urc4ufqp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Common_Plots_&_Charts_80urc4ufqp_1080p.mp4",
+          "fs_id": "233333123905705",
+          "size": 17933018,
+          "shareUrl": "https://1024terabox.com/s/1tRPn8uFYmhiwdIlU6rZBSw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4dc36b526c0e5207d247",
+        "name": "Bar Charts (Vertical)",
+        "type": "ivideo",
+        "sourceId": "lkgestw0gk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lkgestw0gk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Bar_Charts_(Vertical)_lkgestw0gk_1080p.mp4",
+          "fs_id": "527438471858844",
+          "size": 34709786,
+          "shareUrl": "https://1024terabox.com/s/1iUtsnIo1r2GBegfajz6jTw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4e5fc729ca42830e56e6",
+        "name": "Add Bar labels",
+        "type": "ivideo",
+        "sourceId": "zmy5z3z0hn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zmy5z3z0hn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Add_Bar_labels_zmy5z3z0hn_1080p.mp4",
+          "fs_id": "65977574267996",
+          "size": 40085639,
+          "shareUrl": "https://1024terabox.com/s/1ct_DqFwtWr1eK5CArJtAbQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4e9633dc95786b041315",
+        "name": "Multiple datasets on Bar Chart",
+        "type": "ivideo",
+        "sourceId": "stkwa1obt6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/stkwa1obt6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Multiple_datasets_on_Bar_Chart_stkwa1obt6_1080p.mp4",
+          "fs_id": "118495172919270",
+          "size": 148195718,
+          "shareUrl": "https://1024terabox.com/s/1JwdWcIlNqroWvxg2kSi5Sg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4ec7006768fed80b03ca",
+        "name": "Bar Charts (Horizontal)",
+        "type": "ivideo",
+        "sourceId": "0n9y2k1d8p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0n9y2k1d8p.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Bar_Charts_(Horizontal)_0n9y2k1d8p_1080p.mp4",
+          "fs_id": "204709191916351",
+          "size": 14070741,
+          "shareUrl": "https://1024terabox.com/s/1rbxGKbbrtjQ2Njw_WH0yqg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4edd234cfe1b970143bc",
+        "name": "Scatter Plots",
+        "type": "ivideo",
+        "sourceId": "otbqe2atra",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/otbqe2atra.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Scatter_Plots_otbqe2atra_1080p.mp4",
+          "fs_id": "305657159223726",
+          "size": 25766840,
+          "shareUrl": "https://1024terabox.com/s/1GIk7TOo4mf_yosb3ggvXSA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4ef87bfde5075d0abdb5",
+        "name": "Customizations on Scatter Plots",
+        "type": "ivideo",
+        "sourceId": "7jfdpfi452",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7jfdpfi452.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Customizations_on_Scatter_Plots_7jfdpfi452_1080p.mp4",
+          "fs_id": "59095296713865",
+          "size": 66018643,
+          "shareUrl": "https://1024terabox.com/s/1uxM17mfGDdpm0ehi-AledA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4f182a4f579da709b923",
+        "name": "Add Annotations",
+        "type": "ivideo",
+        "sourceId": "p30tfvnzzm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p30tfvnzzm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Add_Annotations_p30tfvnzzm_1080p.mp4",
+          "fs_id": "521843820074424",
+          "size": 28490764,
+          "shareUrl": "https://1024terabox.com/s/1utesoKqN-RzcTJLWDMQIng",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4f4756a585ffd50f3cf3",
+        "name": "Multiple datasets on Scatter Plots",
+        "type": "ivideo",
+        "sourceId": "qy5c1imdps",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qy5c1imdps.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Multiple_datasets_on_Scatter_Plots_qy5c1imdps_1080p.mp4",
+          "fs_id": "1070672451445980",
+          "size": 20519100,
+          "shareUrl": "https://1024terabox.com/s/1_SUmU5u3FrW7RsA0s54Q9w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4f880d261718810c0da7",
+        "name": "Pie Charts",
+        "type": "ivideo",
+        "sourceId": "kln5qlj9uv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kln5qlj9uv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Pie_Charts_kln5qlj9uv_1080p.mp4",
+          "fs_id": "381969321176465",
+          "size": 37081209,
+          "shareUrl": "https://1024terabox.com/s/1dOVCkhx_j_mxheL3dIUXhw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "693d4fc26d5b4ef16a042907",
+        "name": "Customizations on Pie Charts",
+        "type": "ivideo",
+        "sourceId": "s02iun4x64",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s02iun4x64.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_1)/Data_Visualization_(Part_1)_Customizations_on_Pie_Charts_s02iun4x64_1080p.mp4",
+          "fs_id": "136019290616110",
+          "size": 73021994,
+          "shareUrl": "https://1024terabox.com/s/1ukKxq5Zz2X9qDuoseCbF1g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Data Visualization (Part 2)",
+    "learningPath": [
+      {
+        "id": "6944c9e8843c7407f00bc7e6",
+        "name": "Histograms",
+        "type": "ivideo",
+        "sourceId": "bkixz97yry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bkixz97yry.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Histograms_bkixz97yry_1080p.mp4",
+          "fs_id": "68491910980390",
+          "size": 103619853,
+          "shareUrl": "https://1024terabox.com/s/16QaJjJN4nPlvei3x-FZ8KQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944c9fb187eb4eb63023509",
+        "name": "Multiple datasets on Histogram",
+        "type": "ivideo",
+        "sourceId": "q165wtmntr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q165wtmntr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Multiple_datasets_on_Histogram_q165wtmntr_1080p.mp4",
+          "fs_id": "870062955100318",
+          "size": 50723102,
+          "shareUrl": "https://1024terabox.com/s/1TEiDrnwjGzkxTlriWiqEyg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944ca0f11285d5592023ea6",
+        "name": "axvline in Histogram",
+        "type": "ivideo",
+        "sourceId": "xle06as0is",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xle06as0is.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_axvline_in_Histogram_xle06as0is_1080p.mp4",
+          "fs_id": "1083020030253689",
+          "size": 16927798,
+          "shareUrl": "https://1024terabox.com/s/1M93et0CMJeQ6wZv1XcyAfw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944ca5d3a96113e160d7be3",
+        "name": "Box Plots",
+        "type": "ivideo",
+        "sourceId": "x88hc13ngl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x88hc13ngl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Box_Plots_x88hc13ngl_1080p.mp4",
+          "fs_id": "863014393231696",
+          "size": 217272211,
+          "shareUrl": "https://1024terabox.com/s/1ayLuKg_QN4rpon6b8eEAHw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944ca695fa53b045006dc8a",
+        "name": "Operations on Box Plot",
+        "type": "ivideo",
+        "sourceId": "3ud690pcnh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3ud690pcnh.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Operations_on_Box_Plot_3ud690pcnh_1080p.mp4",
+          "fs_id": "776051384931960",
+          "size": 42607953,
+          "shareUrl": "https://1024terabox.com/s/10nRhMorqJ0faZMcI8MaONA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cb280bd5d26fb5098868",
+        "name": "Stack Plots",
+        "type": "ivideo",
+        "sourceId": "k1uvqy769h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k1uvqy769h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Stack_Plots_k1uvqy769h_1080p.mp4",
+          "fs_id": "394013401847466",
+          "size": 60921268,
+          "shareUrl": "https://1024terabox.com/s/1ZqAmZRhQk6362BihE0mxsA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cb36d07fc23115055096",
+        "name": "Subplots",
+        "type": "ivideo",
+        "sourceId": "azkde4x0nb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/azkde4x0nb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Subplots_azkde4x0nb_1080p.mp4",
+          "fs_id": "1052541562225282",
+          "size": 59265517,
+          "shareUrl": "https://1024terabox.com/s/1kQkp3OKql-E9nHrwvTbjhA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cb52a3886244af068e95",
+        "name": "Modern Matplotlib",
+        "type": "ivideo",
+        "sourceId": "p8o7bwiv3f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p8o7bwiv3f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Modern_Matplotlib_p8o7bwiv3f_1080p.mp4",
+          "fs_id": "586443414585393",
+          "size": 65617199,
+          "shareUrl": "https://1024terabox.com/s/125I4g6ySvlgEu-0dpJeI2Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cb8852b4c71bcf034006",
+        "name": "Practice Task (Weekly Temperature)",
+        "type": "ivideo",
+        "sourceId": "v2uqvhxvwo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v2uqvhxvwo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Practice_Task_(Weekly_Temperature)_v2uqvhxvwo_1080p.mp4",
+          "fs_id": "821346442991405",
+          "size": 65075015,
+          "shareUrl": "https://1024terabox.com/s/1q65BYe3zM60IgqQbIJt0LA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cbd2cb19030b690fd1e5",
+        "name": "Introduction to Seaborn",
+        "type": "ivideo",
+        "sourceId": "dmh7foaora",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dmh7foaora.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Introduction_to_Seaborn_dmh7foaora_1080p.mp4",
+          "fs_id": "944122894913299",
+          "size": 95415685,
+          "shareUrl": "https://1024terabox.com/s/1PO8P9c6u7R26Y19a4aGJ5w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cbfad170d9815104c5a8",
+        "name": "Creating Plots with Seaborn",
+        "type": "ivideo",
+        "sourceId": "70mph2luk6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/70mph2luk6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Creating_Plots_with_Seaborn_70mph2luk6_1080p.mp4",
+          "fs_id": "1042517792038891",
+          "size": 70664384,
+          "shareUrl": "https://1024terabox.com/s/1p63fz5uRzQSba378Wltq7g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cc0d08a5de0e400653d3",
+        "name": "Relational Plots in Seaborn",
+        "type": "ivideo",
+        "sourceId": "edk3anytnd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/edk3anytnd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Relational_Plots_in_Seaborn_edk3anytnd_1080p.mp4",
+          "fs_id": "517414737491980",
+          "size": 36191285,
+          "shareUrl": "https://1024terabox.com/s/1r6k77p-nl9fOmFMKrYuFqg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cc1aef59e47ff801bc87",
+        "name": "Categorical Plots in Seaborn",
+        "type": "ivideo",
+        "sourceId": "8onvo7itic",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8onvo7itic.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Categorical_Plots_in_Seaborn_8onvo7itic_1080p.mp4",
+          "fs_id": "251972938276919",
+          "size": 28296004,
+          "shareUrl": "https://1024terabox.com/s/1dQ0HEppzGM1oxwentidHPA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cc29172886d21507bfda",
+        "name": "Distribution Plots in Seaborn",
+        "type": "ivideo",
+        "sourceId": "g9if89xtly",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g9if89xtly.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Distribution_Plots_in_Seaborn_g9if89xtly_1080p.mp4",
+          "fs_id": "810973346876284",
+          "size": 14894020,
+          "shareUrl": "https://1024terabox.com/s/1X3jrYENSDlMMK3w2Vj-3fA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cc3832412627ea0a6816",
+        "name": "Relational Plots in Seaborn - Heatmaps",
+        "type": "ivideo",
+        "sourceId": "bwaqjkm5ry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bwaqjkm5ry.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Relational_Plots_in_Seaborn_-_Heatmaps_bwaqjkm5ry_1080p.mp4",
+          "fs_id": "424484643753676",
+          "size": 68587033,
+          "shareUrl": "https://1024terabox.com/s/1SIO4BbSvnRJVlx1Oxeb9yg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6944cc4a2e908fb71f0d630a",
+        "name": "Best Practices for Data Visualization",
+        "type": "ivideo",
+        "sourceId": "3hoymm8c4u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3hoymm8c4u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Data_Visualization_(Part_2)/Data_Visualization_(Part_2)_Best_Practices_for_Data_Visualization_3hoymm8c4u_1080p.mp4",
+          "fs_id": "649830294050161",
+          "size": 83605147,
+          "shareUrl": "https://1024terabox.com/s/16_COWWi2d14BgxBRQ3qaLA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Math for AI - Probability",
+    "learningPath": [
+      {
+        "id": "6947d09925ca2a1e4f0fb2d5",
+        "name": "Math for AI",
+        "type": "ivideo",
+        "sourceId": "qfe9qdt7bv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qfe9qdt7bv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Math_for_AI_qfe9qdt7bv_1080p.mp4",
+          "fs_id": "935988410163691",
+          "size": 75685801,
+          "shareUrl": "https://1024terabox.com/s/1GpMD2oXgYpe_9QShBNl_qg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d0cd945f0583f2044723",
+        "name": "Understanding Probability",
+        "type": "ivideo",
+        "sourceId": "8fu5wl4lmw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8fu5wl4lmw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Understanding_Probability_8fu5wl4lmw_1080p.mp4",
+          "fs_id": "26948300762393",
+          "size": 190753270,
+          "shareUrl": "https://1024terabox.com/s/1BHJVXoT3PtpZjZtff53ghw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1030951b1d3970709d5",
+        "name": "Probability Examples",
+        "type": "ivideo",
+        "sourceId": "kk7mlt67pd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kk7mlt67pd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Probability_Examples_kk7mlt67pd_1080p.mp4",
+          "fs_id": "372313995143716",
+          "size": 82815606,
+          "shareUrl": "https://1024terabox.com/s/1ry-CmMH2yb21gDuoZu6zDw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1280140c05aa7089a05",
+        "name": "Solving Practice Problems",
+        "type": "ivideo",
+        "sourceId": "6e3b1n3zzv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6e3b1n3zzv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Solving_Practice_Problems_6e3b1n3zzv_1080p.mp4",
+          "fs_id": "564728501766984",
+          "size": 75057384,
+          "shareUrl": "https://1024terabox.com/s/18FECisZcyHmV3JOvAG4brg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1412d4b0736280ada08",
+        "name": "Types of Events",
+        "type": "ivideo",
+        "sourceId": "qzhbrxie0c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qzhbrxie0c.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Types_of_Events_qzhbrxie0c_1080p.mp4",
+          "fs_id": "171045455400283",
+          "size": 151721126,
+          "shareUrl": "https://1024terabox.com/s/15l_cBfbEuOCdndu45hGZ8Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1617b74966dda0fc705",
+        "name": "Complementary Rule",
+        "type": "ivideo",
+        "sourceId": "kqpfw9emj2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kqpfw9emj2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Complementary_Rule_kqpfw9emj2_1080p.mp4",
+          "fs_id": "931195660717679",
+          "size": 48316453,
+          "shareUrl": "https://1024terabox.com/s/1UgzlGPt_ulM8jnZ2fUcFKQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d17b019671baf5000a85",
+        "name": "Addition Rule",
+        "type": "ivideo",
+        "sourceId": "h8k41w3vvp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h8k41w3vvp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Addition_Rule_h8k41w3vvp_1080p.mp4",
+          "fs_id": "330770106268139",
+          "size": 112694522,
+          "shareUrl": "https://1024terabox.com/s/1cVeixXp1ZcmEFUV1p-pVOg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1a08f3178b5d10badb7",
+        "name": "Multiplication Rule",
+        "type": "ivideo",
+        "sourceId": "83djtjjdv6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/83djtjjdv6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Multiplication_Rule_83djtjjdv6_1080p.mp4",
+          "fs_id": "403171765781231",
+          "size": 124095437,
+          "shareUrl": "https://1024terabox.com/s/1aoFZU8dgwhRFGooVgtRKag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1b90c68837b590f1545",
+        "name": "Solving Practice Problems",
+        "type": "ivideo",
+        "sourceId": "2dvvxnfa4o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2dvvxnfa4o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Solving_Practice_Problems_2dvvxnfa4o_1080p.mp4",
+          "fs_id": "987642593644572",
+          "size": 135662955,
+          "shareUrl": "https://1024terabox.com/s/1gEnrbjKp8atHdN3ykHq4ww",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1deabbe9da99105b745",
+        "name": "Conditional Probability",
+        "type": "ivideo",
+        "sourceId": "dkib564s1r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dkib564s1r.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Conditional_Probability_dkib564s1r_1080p.mp4",
+          "fs_id": "357010875365563",
+          "size": 96228576,
+          "shareUrl": "https://1024terabox.com/s/1QB9mYIZAGYmhEWNTsFD4RA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d1fb9fe26db602020126",
+        "name": "Law of Total Probability",
+        "type": "ivideo",
+        "sourceId": "pm57f6vzv2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pm57f6vzv2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Law_of_Total_Probability_pm57f6vzv2_1080p.mp4",
+          "fs_id": "292618514143009",
+          "size": 114894478,
+          "shareUrl": "https://1024terabox.com/s/1EeLZpNdetqwC7AZGmDx_Lg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d2165a36bc93b70c55e5",
+        "name": "Bayes' Theorem",
+        "type": "ivideo",
+        "sourceId": "guqdjig197",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/guqdjig197.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Bayes'_Theorem_guqdjig197_1080p.mp4",
+          "fs_id": "518545420889927",
+          "size": 174467583,
+          "shareUrl": "https://1024terabox.com/s/1WrkAXSw9cvSpMFUmTsh_Tg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d24c6e69f99a13011043",
+        "name": "Solving Practice Problem",
+        "type": "ivideo",
+        "sourceId": "0uslddrroc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0uslddrroc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Solving_Practice_Problem_0uslddrroc_1080p.mp4",
+          "fs_id": "706825686044667",
+          "size": 101584371,
+          "shareUrl": "https://1024terabox.com/s/11aEk1hNx7VZjkwtVZ6CmCw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d2721c4eab10770d3933",
+        "name": "Random Variables",
+        "type": "ivideo",
+        "sourceId": "g8z7zat626",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g8z7zat626.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Random_Variables_g8z7zat626_1080p.mp4",
+          "fs_id": "291829768594146",
+          "size": 64986786,
+          "shareUrl": "https://1024terabox.com/s/1nohqpgZeTlHKCM9RsvKg-A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d292725d426b400d4cb5",
+        "name": "Mean, Median & Mode",
+        "type": "ivideo",
+        "sourceId": "o1xnxuai7m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o1xnxuai7m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Mean,_Median_&_Mode_o1xnxuai7m_1080p.mp4",
+          "fs_id": "202617142665594",
+          "size": 78413625,
+          "shareUrl": "https://1024terabox.com/s/1WLca97q7Cm5hcGHO331SEA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d2c927d0a9212f0840a5",
+        "name": "Variance & Standard Deviation",
+        "type": "ivideo",
+        "sourceId": "3tmawleeb0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3tmawleeb0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Variance_&_Standard_Deviation_3tmawleeb0_1080p.mp4",
+          "fs_id": "1048456249458919",
+          "size": 142542259,
+          "shareUrl": "https://1024terabox.com/s/1onZOwg7dojToYAeNSMvHiw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d39b1252d554ad0c5815",
+        "name": "Probability Distributions & its Types",
+        "type": "ivideo",
+        "sourceId": "bo89msmd5k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bo89msmd5k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Probability_Distributions_&_its_Types_bo89msmd5k_1080p.mp4",
+          "fs_id": "140862784377730",
+          "size": 76011601,
+          "shareUrl": "https://1024terabox.com/s/1Vh7AmiwBIl9N4EY0m5-RmQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d3a5ffea31e16d037973",
+        "name": "Binomial Distribution",
+        "type": "ivideo",
+        "sourceId": "a8d4e6c2gu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a8d4e6c2gu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Binomial_Distribution_a8d4e6c2gu_1080p.mp4",
+          "fs_id": "838360368648768",
+          "size": 177222952,
+          "shareUrl": "https://1024terabox.com/s/1Ta0-POnguvshfJmLbDI0jg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d3b71d4b0a05cc07d7f5",
+        "name": "Uniform Distribution",
+        "type": "ivideo",
+        "sourceId": "9y2qlcbac2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9y2qlcbac2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Uniform_Distribution_9y2qlcbac2_1080p.mp4",
+          "fs_id": "922067466099049",
+          "size": 190640237,
+          "shareUrl": "https://1024terabox.com/s/1i9ACHyz08a8CEpqbvMs0Yg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6947d3c1b40752c64202f413",
+        "name": "Normal Distribution",
+        "type": "ivideo",
+        "sourceId": "ed49901v3y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ed49901v3y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Normal_Distribution_ed49901v3y_1080p.mp4",
+          "fs_id": "576865762813399",
+          "size": 106455094,
+          "shareUrl": "https://1024terabox.com/s/10cCR0MiCkiAP4M1G6Z-5Zg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "694e8bdf040ad0efd205e4c5",
+        "name": "Central Limit Theorem",
+        "type": "ivideo",
+        "sourceId": "73737ydpl4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/73737ydpl4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Math_for_AI_-_Probability/Math_for_AI_-_Probability_Central_Limit_Theorem_73737ydpl4_1080p.mp4",
+          "fs_id": "468798681490618",
+          "size": 114845902,
+          "shareUrl": "https://1024terabox.com/s/1yGMjZ-2MrFHDO32gyEjqYA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
       }
     ]
   }
