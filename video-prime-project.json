@@ -1,0 +1,1770 @@
+[
+  {
+    "category": "Important Note",
+    "learningPath": [
+      {
+        "id": "69e15f386a3bf7ad1f095135",
+        "name": "Welcome to AI Projects Module!",
+        "type": "ivideo",
+        "sourceId": "e2ivdqqoj2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e2ivdqqoj2.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "I. Intelligent AI Attendance - Face & Voice",
+    "learningPath": [
+      {
+        "id": "69e23b1ea62283c0f007a2a3",
+        "name": "Project Overview",
+        "type": "ivideo",
+        "sourceId": "wxl0ct6keh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wxl0ct6keh.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f43",
+        "name": "Project Features Explanation",
+        "type": "ivideo",
+        "sourceId": "l2nsaqrn52",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l2nsaqrn52.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f44",
+        "name": "Project & Landing Page Codebase",
+        "type": "pdf",
+        "pdf_name": "AI Attendance App Project Code.pdf",
+        "pdf": "pdf/AI Attendance App Project Code.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/AI Attendance App Project Code.pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f45",
+        "name": "Project Setup - Dependencies",
+        "type": "ivideo",
+        "sourceId": "4wsk3a07i1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4wsk3a07i1.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f46",
+        "name": "Basics of Streamlit",
+        "type": "ivideo",
+        "sourceId": "g4zmb3dxrs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g4zmb3dxrs.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f47",
+        "name": "Create Base Layout (with Statefulness)",
+        "type": "ivideo",
+        "sourceId": "p7lu4n5n51",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p7lu4n5n51.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f48",
+        "name": "Overwriting Streamlit Styles",
+        "type": "ivideo",
+        "sourceId": "t5xq6dfuas",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t5xq6dfuas.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f49",
+        "name": "Build HomeScreen with Components",
+        "type": "ivideo",
+        "sourceId": "7ex7q9ig0g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ex7q9ig0g.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4a",
+        "name": "Design Teacher Auth Portal",
+        "type": "ivideo",
+        "sourceId": "d4yoovmdpp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d4yoovmdpp.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4b",
+        "name": "Database Setup",
+        "type": "ivideo",
+        "sourceId": "b3gcv3ex6m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b3gcv3ex6m.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4c",
+        "name": "Create Database Functions",
+        "type": "ivideo",
+        "sourceId": "6wzcb4e1md",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6wzcb4e1md.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4d",
+        "name": "Setup Teacher Authentication",
+        "type": "ivideo",
+        "sourceId": "5ebe6a4boa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5ebe6a4boa.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4e",
+        "name": "Face Recognition ML Pipeline",
+        "type": "ivideo",
+        "sourceId": "4sjg8rgwc4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4sjg8rgwc4.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f4f",
+        "name": "Voice Recognition ML Pipeline",
+        "type": "ivideo",
+        "sourceId": "4cq1p5f5k7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4cq1p5f5k7.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f50",
+        "name": "Student Auth with FaceRecog & VoiceRecog",
+        "type": "ivideo",
+        "sourceId": "cnlc59jka3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cnlc59jka3.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f51",
+        "name": "Teacher Dashboard - Create Tabs",
+        "type": "ivideo",
+        "sourceId": "tilh7dcsw9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tilh7dcsw9.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f52",
+        "name": "Teacher Dashboard - Manage Subjects",
+        "type": "ivideo",
+        "sourceId": "m8m5300ovz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m8m5300ovz.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f53",
+        "name": "Subject Card Component",
+        "type": "ivideo",
+        "sourceId": "jabb5onhoi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jabb5onhoi.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "II. Intelligent AI Attendance (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69e32a67189bea730505eb15",
+        "name": "Share \"Subject Enrolment\" Link",
+        "type": "ivideo",
+        "sourceId": "een9qu91ws",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/een9qu91ws.m3u8"
+      },
+      {
+        "id": "69e32b6fb64ff417ba0e1ac5",
+        "name": "Build Student Dashboard",
+        "type": "ivideo",
+        "sourceId": "rmz1td3a6d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rmz1td3a6d.m3u8"
+      },
+      {
+        "id": "69e3459bf9558cde020e79c8",
+        "name": "Quick Enrolment using QR Code",
+        "type": "ivideo",
+        "sourceId": "bccaw86jck",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bccaw86jck.m3u8"
+      },
+      {
+        "id": "69e3466d12410223970313f5",
+        "name": "Teacher Attendance Flow",
+        "type": "ivideo",
+        "sourceId": "jmcm85yryi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jmcm85yryi.m3u8"
+      },
+      {
+        "id": "69e3482cd2c1d8bb8b063b35",
+        "name": "Attendance Prediction (Image/WebCam)",
+        "type": "ivideo",
+        "sourceId": "ej4vk5yapo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ej4vk5yapo.m3u8"
+      },
+      {
+        "id": "69e34af78a67bb4c4302c683",
+        "name": "Attendance Prediction (Voice)",
+        "type": "ivideo",
+        "sourceId": "hd41j1v2w6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hd41j1v2w6.m3u8"
+      },
+      {
+        "id": "69e34c42c11e286b3b096ebe",
+        "name": "View Attendance Records",
+        "type": "ivideo",
+        "sourceId": "ipfmttz957",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipfmttz957.m3u8"
+      },
+      {
+        "id": "69e34f5d0955c4126903c0d5",
+        "name": "Deploy App with Streamlit",
+        "type": "ivideo",
+        "sourceId": "x3ea0m8310",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x3ea0m8310.m3u8"
+      },
+      {
+        "id": "69e34f74d47d2090c50c8b85",
+        "name": "Build a Landing Page (with Flask)",
+        "type": "ivideo",
+        "sourceId": "w6303f7qkg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w6303f7qkg.m3u8"
+      },
+      {
+        "id": "69e37413614db7317b033165",
+        "name": "Create Hero Section",
+        "type": "ivideo",
+        "sourceId": "mwj92u2ubc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mwj92u2ubc.m3u8"
+      },
+      {
+        "id": "69e3741bf892cb99070c6105",
+        "name": "Create Footer Section",
+        "type": "ivideo",
+        "sourceId": "6hhmh9jr0k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6hhmh9jr0k.m3u8"
+      },
+      {
+        "id": "69e3742bcfd3dc91bd0fb1f5",
+        "name": "Create Features & TechStack Section",
+        "type": "ivideo",
+        "sourceId": "su6y4cxnek",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/su6y4cxnek.m3u8"
+      },
+      {
+        "id": "69e376e7a691c2ad8d047265",
+        "name": "Create Journey Section",
+        "type": "ivideo",
+        "sourceId": "uqhqvhou5y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uqhqvhou5y.m3u8"
+      },
+      {
+        "id": "69e376f30cebba6c1c0badf5",
+        "name": "Make Page Mobile Responsive",
+        "type": "ivideo",
+        "sourceId": "9nj92osra4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9nj92osra4.m3u8"
+      },
+      {
+        "id": "69e3770b2e397523fd0282a5",
+        "name": "Deploy Page with Vercel",
+        "type": "ivideo",
+        "sourceId": "l51nacl884",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l51nacl884.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "I. Neural Style Transfer with AdaIN (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69ecd3746e621f10af05d695",
+        "name": "Project Overview",
+        "type": "ivideo",
+        "sourceId": "fj224sccw2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fj224sccw2.m3u8"
+      },
+      {
+        "id": "69ec8db02d5007b21b08f7d5",
+        "name": "Project Pre-requisites & Roadmap",
+        "type": "ivideo",
+        "sourceId": "6h9ef69l9c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6h9ef69l9c.m3u8"
+      },
+      {
+        "id": "69ecb6f81f853490ab04e7d3",
+        "name": "Project Codebase",
+        "type": "pdf",
+        "pdf_name": "Neural Style Transfer Project Code.pdf",
+        "pdf": "pdf/Neural Style Transfer Project Code.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Neural Style Transfer Project Code.pdf"
+      },
+      {
+        "id": "69ecb70c7a4490668f007838",
+        "name": "Reference Research Papers",
+        "type": "pdf",
+        "pdf_name": "Reference Research Papers.pdf",
+        "pdf": "pdf/Reference Research Papers.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Reference Research Papers.pdf"
+      },
+      {
+        "id": "69ec8dc5159519ea5b01eb53",
+        "name": "Understanding NST",
+        "type": "ivideo",
+        "sourceId": "xc67oyo3sn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xc67oyo3sn.m3u8"
+      },
+      {
+        "id": "69eca21a9dd512f37d075cd5",
+        "name": "Different NST Methods",
+        "type": "ivideo",
+        "sourceId": "o8hag3gppq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o8hag3gppq.m3u8"
+      },
+      {
+        "id": "69eca559c03eb76af70cc583",
+        "name": "How to extract Image Content? (Demo)",
+        "type": "ivideo",
+        "sourceId": "olvov9tkuy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/olvov9tkuy.m3u8"
+      },
+      {
+        "id": "69eca65b24aa21391400c425",
+        "name": "Optimization & Feed-forward NST",
+        "type": "ivideo",
+        "sourceId": "m5qqssq3kz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m5qqssq3kz.m3u8"
+      },
+      {
+        "id": "69ecaaf0f6838c99f90e3b95",
+        "name": "AdaIN (Theory & Intuition)",
+        "type": "ivideo",
+        "sourceId": "e33m6aoqrx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e33m6aoqrx.m3u8"
+      },
+      {
+        "id": "69ecac8a705c74c3470b7125",
+        "name": "Revise some PyTorch Concepts",
+        "type": "ivideo",
+        "sourceId": "6vwa9tbv6b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6vwa9tbv6b.m3u8"
+      },
+      {
+        "id": "69ecb6d5bb2fb0ef0c0c2146",
+        "name": "Use Kaggle for Free GPUs",
+        "type": "ivideo",
+        "sourceId": "7yusu89djl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7yusu89djl.m3u8"
+      },
+      {
+        "id": "69ecb8609839435ce4018aa5",
+        "name": "How to get Project Dataset?",
+        "type": "ivideo",
+        "sourceId": "haao54tnur",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/haao54tnur.m3u8"
+      },
+      {
+        "id": "69ecb87ba5445c3206013ee3",
+        "name": "Project Setup & Dataset creation",
+        "type": "ivideo",
+        "sourceId": "173hmwfuau",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/173hmwfuau.m3u8"
+      },
+      {
+        "id": "69ecbbb7ff98728258082313",
+        "name": "Implement Encoder & Decoder",
+        "type": "ivideo",
+        "sourceId": "igfl6ouwpc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/igfl6ouwpc.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "II. Neural Style Transfer with AdaIN (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69edd05f881580a7270e3598",
+        "name": "Training Loop & AdaIN Layer",
+        "type": "ivideo",
+        "sourceId": "x9jaeiov95",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x9jaeiov95.m3u8"
+      },
+      {
+        "id": "69edd33dbd5636b080080186",
+        "name": "Save the Model",
+        "type": "ivideo",
+        "sourceId": "8letkfetxp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8letkfetxp.m3u8"
+      },
+      {
+        "id": "69edd810cc17a832c80b7645",
+        "name": "Fix Error & Analyze Outputs",
+        "type": "ivideo",
+        "sourceId": "0bm17s6gfb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0bm17s6gfb.m3u8"
+      },
+      {
+        "id": "69edd822c27f794d140a6595",
+        "name": "Build the WebApp",
+        "type": "ivideo",
+        "sourceId": "k3e43cmgj6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k3e43cmgj6.m3u8"
+      },
+      {
+        "id": "69edda0d38bfed0f570d1623",
+        "name": "Deploy the Application",
+        "type": "ivideo",
+        "sourceId": "jnufythjmj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jnufythjmj.m3u8"
+      },
+      {
+        "id": "69edda8acbcd8082d409fb05",
+        "name": "Final Look of the WebApp",
+        "type": "ivideo",
+        "sourceId": "g4e5j2je55",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g4e5j2je55.m3u8"
+      },
+      {
+        "id": "69edda1a8739c1c8ac031275",
+        "name": "Deployment of App on Render",
+        "type": "ivideo",
+        "sourceId": "af3lx9j0e9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/af3lx9j0e9.m3u8"
+      },
+      {
+        "id": "69ee0fadadd9d15c070785f6",
+        "name": "Deployment on HuggingFace Spaces",
+        "type": "ivideo",
+        "sourceId": "6ftpk5mhsw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6ftpk5mhsw.m3u8"
+      },
+      {
+        "id": "69eddd18afeb1d9ee2025e25",
+        "name": "Next Steps after the Project",
+        "type": "ivideo",
+        "sourceId": "upne92h2l3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/upne92h2l3.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "I. Real-time AI Gym Trainer (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69f3719d58970f5365091235",
+        "name": "Project Demo & Features",
+        "type": "ivideo",
+        "sourceId": "l8o915893i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l8o915893i.m3u8"
+      },
+      {
+        "id": "69f373ee3ae8b5f3280a1fe5",
+        "name": "Project Codebase",
+        "type": "pdf",
+        "pdf_name": "AI Real-time Gym Coach Project Code.pdf",
+        "pdf": "pdf/AI Real-time Gym Coach Project Code.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/AI Real-time Gym Coach Project Code.pdf"
+      },
+      {
+        "id": "69f371b7e67636eee10de813",
+        "name": "Architecture & Project Setup",
+        "type": "ivideo",
+        "sourceId": "82jy2xj1m7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/82jy2xj1m7.m3u8"
+      },
+      {
+        "id": "69f373e099c6f0116f016d46",
+        "name": "Login Form UI",
+        "type": "ivideo",
+        "sourceId": "7ebmbodc7p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ebmbodc7p.m3u8"
+      },
+      {
+        "id": "69f3772e4686c753ad006135",
+        "name": "Sidebar UI & Session Defaults",
+        "type": "ivideo",
+        "sourceId": "q7pepdhpfk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q7pepdhpfk.m3u8"
+      },
+      {
+        "id": "69f37c08954d1ed7c005f037",
+        "name": "Add Styles & Fonts",
+        "type": "ivideo",
+        "sourceId": "fi88jb7p2r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fi88jb7p2r.m3u8"
+      },
+      {
+        "id": "69f380a1f69bf4195a0ad135",
+        "name": "Database Setup (SQLite)",
+        "type": "ivideo",
+        "sourceId": "fhgxuvv8nu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fhgxuvv8nu.m3u8"
+      },
+      {
+        "id": "69f3838faa9651f14505d999",
+        "name": "Create Main Video Section",
+        "type": "ivideo",
+        "sourceId": "13q0817lm0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/13q0817lm0.m3u8"
+      },
+      {
+        "id": "69f38606aff1dc126401c805",
+        "name": "MediaPipe Concepts",
+        "type": "ivideo",
+        "sourceId": "tpfrlhxpi6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tpfrlhxpi6.m3u8"
+      },
+      {
+        "id": "69f487c5c450f9e3270fc6e8",
+        "name": "Base Exercise Class",
+        "type": "ivideo",
+        "sourceId": "rc78sen4su",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rc78sen4su.m3u8"
+      },
+      {
+        "id": "69f38b33077a4ac1860ec734",
+        "name": "Squats Detector Class",
+        "type": "ivideo",
+        "sourceId": "939kcg1u7y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/939kcg1u7y.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "II. Real-time AI Gym Trainer (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69f7134aad1c21feff0b9785",
+        "name": "Other Detector Classes (Push-up, Bicep etc.)",
+        "type": "ivideo",
+        "sourceId": "tpghbm1yd2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tpghbm1yd2.m3u8"
+      },
+      {
+        "id": "69f7135ea2a64c57df0c1936",
+        "name": "Exercise Video Processor Class",
+        "type": "ivideo",
+        "sourceId": "warugobh4s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/warugobh4s.m3u8"
+      },
+      {
+        "id": "69f71369ce9536eb1b0d3a66",
+        "name": "Metrics & Goal Progress",
+        "type": "ivideo",
+        "sourceId": "mkuu4n53vj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mkuu4n53vj.m3u8"
+      },
+      {
+        "id": "69f7137116778752660007b6",
+        "name": "Database Operations",
+        "type": "ivideo",
+        "sourceId": "83rluyzciq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/83rluyzciq.m3u8"
+      },
+      {
+        "id": "69f71383f9bc32db0f00dec6",
+        "name": "CoachLLM & TextToSpeech Class",
+        "type": "ivideo",
+        "sourceId": "rs5q2xcp5v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rs5q2xcp5v.m3u8"
+      },
+      {
+        "id": "69f7138c8b45a10c1b0d5625",
+        "name": "Voice Pipeline Completion",
+        "type": "ivideo",
+        "sourceId": "t0zsxe4cdc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t0zsxe4cdc.m3u8"
+      },
+      {
+        "id": "69f71396e4d8d6b0c80b8a55",
+        "name": "Connect Voice Feedback",
+        "type": "ivideo",
+        "sourceId": "04750tsike",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/04750tsike.m3u8"
+      },
+      {
+        "id": "69f713a16a89760f75060c83",
+        "name": "Landing Page Deployment (Netlify)",
+        "type": "ivideo",
+        "sourceId": "yhfx72mrxm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yhfx72mrxm.m3u8"
+      },
+      {
+        "id": "69f715345d552038510e0046",
+        "name": "Landing Page Codebase",
+        "type": "pdf",
+        "pdf_name": "AI Real-time Gym Coach Project Code.pdf",
+        "pdf": "pdf/AI Real-time Gym Coach Project Code.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/AI Real-time Gym Coach Project Code.pdf"
+      },
+      {
+        "id": "69f713fae0ae30bced004773",
+        "name": "Host to Streamlit Cloud & Github",
+        "type": "ivideo",
+        "sourceId": "p839ynxol8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p839ynxol8.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "I. AI Resume ATS System (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69fdd27bc425466e010385c5",
+        "name": "Project Demo & Features",
+        "type": "ivideo",
+        "sourceId": "jzvp08qd52",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jzvp08qd52.m3u8"
+      },
+      {
+        "id": "6a0885ba99ae5a69070ab783",
+        "name": "Project Codebase",
+        "type": "pdf",
+        "pdf_name": "AI Resume ATS Project Code.pdf",
+        "pdf": "pdf/AI Resume ATS Project Code.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/AI Resume ATS Project Code.pdf"
+      },
+      {
+        "id": "6a086c7ba2f97509cc01f7c5",
+        "name": "Project Tech Stack",
+        "type": "ivideo",
+        "sourceId": "0jcw4hd4kw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0jcw4hd4kw.m3u8"
+      },
+      {
+        "id": "6a086f6e3bceac638e0695e5",
+        "name": "System Design of Project",
+        "type": "ivideo",
+        "sourceId": "h1w8yqqpqx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h1w8yqqpqx.m3u8"
+      },
+      {
+        "id": "6a086c70222b8b70e8064b34",
+        "name": "FastAPI Fundamentals",
+        "type": "ivideo",
+        "sourceId": "2ivebr049e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2ivebr049e.m3u8"
+      },
+      {
+        "id": "6a086f84912e7e0d1f0e50d5",
+        "name": "Project & Env Setup",
+        "type": "ivideo",
+        "sourceId": "j7isgoargx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j7isgoargx.m3u8"
+      },
+      {
+        "id": "6a0882b77738c16b10037238",
+        "name": "Supabase DB Setup",
+        "type": "ivideo",
+        "sourceId": "wdk40u0jqp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wdk40u0jqp.m3u8"
+      },
+      {
+        "id": "6a08886ab2337084f90dc813",
+        "name": "SQL Command for Supabase",
+        "type": "pdf",
+        "pdf_name": "SQL Command Supabase.pdf",
+        "pdf": "pdf/SQL Command Supabase.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/SQL Command Supabase.pdf"
+      },
+      {
+        "id": "6a08864d27873c3ee901fb35",
+        "name": "File Parsing",
+        "type": "ivideo",
+        "sourceId": "avy7vc36vl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/avy7vc36vl.m3u8"
+      },
+      {
+        "id": "6a088b8c4af88aec1e044713",
+        "name": "NLP with spaCy",
+        "type": "ivideo",
+        "sourceId": "h8wk194cus",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h8wk194cus.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "II. AI Resume ATS System (Phase 2)",
+    "learningPath": [
+      {
+        "id": "6a09676a3bcc75d42f0a6dea",
+        "name": "AI Semantic Matching (with BERT)",
+        "type": "ivideo",
+        "sourceId": "afknd68ss0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/afknd68ss0.m3u8"
+      },
+      {
+        "id": "6a096c6b3ce98316dc0e7935",
+        "name": "AI Semantic Matching (Part 2)",
+        "type": "ivideo",
+        "sourceId": "gya1r281q5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gya1r281q5.m3u8"
+      },
+      {
+        "id": "6a09a3c924a73af0280d6aa6",
+        "name": "AI Semantic Matching (Part 3)",
+        "type": "ivideo",
+        "sourceId": "8dpapy1qry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8dpapy1qry.m3u8"
+      },
+      {
+        "id": "6a09a3de0989a836cf084207",
+        "name": "ATS Scoring Engine (Part 1)",
+        "type": "ivideo",
+        "sourceId": "k6b3do6t9u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k6b3do6t9u.m3u8"
+      },
+      {
+        "id": "6a09a3e30bc2eb6277099d46",
+        "name": "ATS Scoring Engine (Part 2)",
+        "type": "ivideo",
+        "sourceId": "f552dejwnx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f552dejwnx.m3u8"
+      },
+      {
+        "id": "6a09a3ed363b9e27840533b3",
+        "name": "Feedback Engine",
+        "type": "ivideo",
+        "sourceId": "sx6riy8o09",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sx6riy8o09.m3u8"
+      },
+      {
+        "id": "6a09a3f40bc2eb6277099d47",
+        "name": "Recommendation Engine",
+        "type": "ivideo",
+        "sourceId": "x08hehd76k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x08hehd76k.m3u8"
+      },
+      {
+        "id": "6a09a400f8736a32c804d286",
+        "name": "PDF Logic",
+        "type": "ivideo",
+        "sourceId": "0cy39hb2x6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0cy39hb2x6.m3u8"
+      },
+      {
+        "id": "6a09a4192a44ecbd98012c43",
+        "name": "API Routes Files & Endpoints",
+        "type": "ivideo",
+        "sourceId": "js588wx25q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/js588wx25q.m3u8"
+      },
+      {
+        "id": "6a11b88542a80ea2a801b517",
+        "name": "Building the Streamlit (frontend & backend integration) part 1",
+        "type": "ivideo",
+        "sourceId": "xi67aipy0n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xi67aipy0n.m3u8"
+      },
+      {
+        "id": "6a11b8d6dcf728382909ac75",
+        "name": "Building the Streamlit (frontend & backend integration) part 2",
+        "type": "ivideo",
+        "sourceId": "ddz51xmv4h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ddz51xmv4h.m3u8"
+      },
+      {
+        "id": "6a11b8ffbeafffb45f00bf86",
+        "name": "Deploying the Resume ATS Application",
+        "type": "ivideo",
+        "sourceId": "ld72xv0fgi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ld72xv0fgi.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 1 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f03",
+        "name": "What is CSS?",
+        "type": "ivideo",
+        "sourceId": "da8qe50cyu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/da8qe50cyu.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f04",
+        "name": "Basic CSS Format",
+        "type": "ivideo",
+        "sourceId": "owal0r92dy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/owal0r92dy.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f05",
+        "name": "Including CSS",
+        "type": "ivideo",
+        "sourceId": "dmiixztj84",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dmiixztj84.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f06",
+        "name": "Color Property",
+        "type": "ivideo",
+        "sourceId": "dif612ki7m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dif612ki7m.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f07",
+        "name": "Background Color Property",
+        "type": "ivideo",
+        "sourceId": "cgqak53w6a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cgqak53w6a.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f08",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "bv20ba1x3u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bv20ba1x3u.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f09",
+        "name": "Color Systems (Name & RGB)",
+        "type": "ivideo",
+        "sourceId": "9t6m5irdth",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9t6m5irdth.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0a",
+        "name": "Hex Codes",
+        "type": "ivideo",
+        "sourceId": "3t312i6w7h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3t312i6w7h.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0b",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "9fn75nvc5o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9fn75nvc5o.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0c",
+        "name": "Text Align Property",
+        "type": "ivideo",
+        "sourceId": "iol9wpt8hu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iol9wpt8hu.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0d",
+        "name": "Font Weight & Text Decoration",
+        "type": "ivideo",
+        "sourceId": "x03a2kmu6f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x03a2kmu6f.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0e",
+        "name": "Line Height & Letter Spacing",
+        "type": "ivideo",
+        "sourceId": "3ogseajx53",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3ogseajx53.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f0f",
+        "name": "Units in CSS (Pixel)",
+        "type": "ivideo",
+        "sourceId": "cp7sblc0r6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cp7sblc0r6.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f10",
+        "name": "Font Family",
+        "type": "ivideo",
+        "sourceId": "fxe4xsiqbf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fxe4xsiqbf.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f11",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "s4jp35k4rx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s4jp35k4rx.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f12",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part1 (Qs) (1).pdf",
+        "pdf": "pdf/CSS Part1 (Qs) (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part1 (Qs) (1).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f13",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 1 (Ans).pdf",
+        "pdf": "pdf/CSS Part 1 (Ans).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 1 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 2 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f14",
+        "name": "Download Starter HTML",
+        "type": "pdf",
+        "pdf_name": "Download Starter HTML.pdf",
+        "pdf": "pdf/Download Starter HTML.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Download Starter HTML.pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f15",
+        "name": "How to download?",
+        "type": "ivideo",
+        "sourceId": "8xulqixmpc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8xulqixmpc.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f16",
+        "name": "Universal Selector",
+        "type": "ivideo",
+        "sourceId": "rhk3yplbt2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rhk3yplbt2.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f17",
+        "name": "Element Selector",
+        "type": "ivideo",
+        "sourceId": "nbud61puaf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nbud61puaf.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f18",
+        "name": "Id Selector",
+        "type": "ivideo",
+        "sourceId": "ximnny6nfv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ximnny6nfv.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f19",
+        "name": "Class Selector",
+        "type": "ivideo",
+        "sourceId": "xsr9ce8q79",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xsr9ce8q79.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1a",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "dei7y2889s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dei7y2889s.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1b",
+        "name": "Descendant Selector",
+        "type": "ivideo",
+        "sourceId": "dx1bg9703x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dx1bg9703x.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1c",
+        "name": "Sibling Combinator",
+        "type": "ivideo",
+        "sourceId": "7j7kovgtch",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7j7kovgtch.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1d",
+        "name": "Child Combinator",
+        "type": "ivideo",
+        "sourceId": "jakuu545gg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jakuu545gg.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1e",
+        "name": "Attribute Selector",
+        "type": "ivideo",
+        "sourceId": "6bbyohrbc0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6bbyohrbc0.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f1f",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "ipj4ugm454",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipj4ugm454.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f20",
+        "name": "Pseudo Class",
+        "type": "ivideo",
+        "sourceId": "hk5qww0av0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hk5qww0av0.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f21",
+        "name": "Pseudo Element",
+        "type": "ivideo",
+        "sourceId": "a5szywx9pd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a5szywx9pd.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f22",
+        "name": "Cascading & Specificity",
+        "type": "ivideo",
+        "sourceId": "ipn7l9df1o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipn7l9df1o.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f23",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "737l4fg9ac",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/737l4fg9ac.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f24",
+        "name": "!important in CSS",
+        "type": "ivideo",
+        "sourceId": "jfx1ve90a6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jfx1ve90a6.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f25",
+        "name": "Inheritance",
+        "type": "ivideo",
+        "sourceId": "88n8jcb0kr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/88n8jcb0kr.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f26",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part2 (Qs).pdf",
+        "pdf": "pdf/CSS Part2 (Qs).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part2 (Qs).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f27",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 2 (Ans) (1).pdf",
+        "pdf": "pdf/CSS Part 2 (Ans) (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 2 (Ans) (1).pdf"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 3 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f28",
+        "name": "Download Starter HTML",
+        "type": "pdf",
+        "pdf_name": "Download Starter HTML (1).pdf",
+        "pdf": "pdf/Download Starter HTML (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Download Starter HTML (1).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f29",
+        "name": "Box Model",
+        "type": "ivideo",
+        "sourceId": "57i7t6mn6q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/57i7t6mn6q.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2a",
+        "name": "Height & Width",
+        "type": "ivideo",
+        "sourceId": "1hvqtq4qi6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1hvqtq4qi6.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2b",
+        "name": "Border",
+        "type": "ivideo",
+        "sourceId": "vr46h7arss",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vr46h7arss.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2c",
+        "name": "Border Radius",
+        "type": "ivideo",
+        "sourceId": "vnljlnowqd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vnljlnowqd.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2d",
+        "name": "Padding Property",
+        "type": "ivideo",
+        "sourceId": "9lnzqddapa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9lnzqddapa.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2e",
+        "name": "Margin Property",
+        "type": "ivideo",
+        "sourceId": "y5rfpa51a5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y5rfpa51a5.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f2f",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "1chwl2h00f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1chwl2h00f.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f30",
+        "name": "Display Property",
+        "type": "ivideo",
+        "sourceId": "bapl29tao4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bapl29tao4.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f31",
+        "name": "Conclusions (Block & Inline)",
+        "type": "pdf",
+        "pdf_name": "Conclusion (Inline & Block).pdf",
+        "pdf": "pdf/Conclusion (Inline & Block).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Conclusion (Inline & Block).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f32",
+        "name": "Inline-Block",
+        "type": "ivideo",
+        "sourceId": "dakmmqgrsa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dakmmqgrsa.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f33",
+        "name": "Relative Units (Percentage)",
+        "type": "ivideo",
+        "sourceId": "godb0v5j0l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/godb0v5j0l.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f34",
+        "name": "Em & Rem in Units",
+        "type": "ivideo",
+        "sourceId": "sss4eko23t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sss4eko23t.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f35",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part3 (Qs).pdf",
+        "pdf": "pdf/CSS Part3 (Qs).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part3 (Qs).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f36",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 3 (Ans).pdf",
+        "pdf": "pdf/CSS Part 3 (Ans).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 3 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 4 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f37",
+        "name": "Alpha & Opacity",
+        "type": "ivideo",
+        "sourceId": "l4vwko4a53",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l4vwko4a53.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f38",
+        "name": "Transitions in CSS",
+        "type": "ivideo",
+        "sourceId": "8piberfhkv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8piberfhkv.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f39",
+        "name": "Transform - Rotate",
+        "type": "ivideo",
+        "sourceId": "s7u6dw7gji",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s7u6dw7gji.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3a",
+        "name": "Tranform - Scale",
+        "type": "ivideo",
+        "sourceId": "9wlv3pdgc5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9wlv3pdgc5.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3b",
+        "name": "Transform - Translate",
+        "type": "ivideo",
+        "sourceId": "z1jpfn3dkq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z1jpfn3dkq.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3c",
+        "name": "Transform - Skew",
+        "type": "ivideo",
+        "sourceId": "828hh9j9ob",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/828hh9j9ob.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3d",
+        "name": "Box Shadow",
+        "type": "ivideo",
+        "sourceId": "9b9j46hxvv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9b9j46hxvv.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3e",
+        "name": "Background Image",
+        "type": "ivideo",
+        "sourceId": "tifdwx087b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tifdwx087b.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f3f",
+        "name": "Card Hover Effect",
+        "type": "ivideo",
+        "sourceId": "wj6hpxm1kw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wj6hpxm1kw.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f40",
+        "name": "Position Property",
+        "type": "ivideo",
+        "sourceId": "k0sgdk78uv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k0sgdk78uv.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f41",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part4 (Qs) (1).pdf",
+        "pdf": "pdf/CSS Part4 (Qs) (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part4 (Qs) (1).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f42",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 4 (Ans).pdf",
+        "pdf": "pdf/CSS Part 4 (Ans).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 4 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 5 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f3baeead7bde067ee4",
+        "name": "What is Flexbox?",
+        "type": "ivideo",
+        "sourceId": "owwonzcb8b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/owwonzcb8b.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ee5",
+        "name": "Display Flex",
+        "type": "ivideo",
+        "sourceId": "q37bwapho1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q37bwapho1.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ee6",
+        "name": "Flex Direction",
+        "type": "ivideo",
+        "sourceId": "4gxs2m35i4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4gxs2m35i4.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ee7",
+        "name": "Justify Content",
+        "type": "ivideo",
+        "sourceId": "iawavn4opx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iawavn4opx.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ee8",
+        "name": "Flex Wrap",
+        "type": "ivideo",
+        "sourceId": "ap4oycwq70",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ap4oycwq70.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ee9",
+        "name": "Align Items",
+        "type": "ivideo",
+        "sourceId": "ebljd61kl7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ebljd61kl7.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067eea",
+        "name": "Align Content",
+        "type": "ivideo",
+        "sourceId": "6k6lfdc5ls",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6k6lfdc5ls.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067eeb",
+        "name": "Align Self",
+        "type": "ivideo",
+        "sourceId": "x430qvnhw5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x430qvnhw5.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067eec",
+        "name": "Flex Sizing",
+        "type": "ivideo",
+        "sourceId": "9r21928ghv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9r21928ghv.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067eed",
+        "name": "Flex Shorthand",
+        "type": "ivideo",
+        "sourceId": "2wmsuhswn9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2wmsuhswn9.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067eee",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part5(Qs).pdf",
+        "pdf": "pdf/CSS Part5(Qs).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part5(Qs).pdf"
+      },
+      {
+        "id": "69e161f3baeead7bde067eef",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 5 (Ans).pdf",
+        "pdf": "pdf/CSS Part 5 (Ans).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 5 (Ans).pdf"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef0",
+        "name": "FlexBox Summary",
+        "type": "pdf",
+        "pdf_name": "Flowchart-1-2 2.pdf",
+        "pdf": "pdf/Flowchart-1-2 2.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Flowchart-1-2 2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 6 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f3baeead7bde067ef1",
+        "name": "What is Grid?",
+        "type": "ivideo",
+        "sourceId": "wj4f9efc0a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wj4f9efc0a.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef2",
+        "name": "Grid Model",
+        "type": "ivideo",
+        "sourceId": "zwbxce3i1x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zwbxce3i1x.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef3",
+        "name": "Grid Template",
+        "type": "ivideo",
+        "sourceId": "tmi1brn0p2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tmi1brn0p2.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef4",
+        "name": "Grid Template (repeat)",
+        "type": "ivideo",
+        "sourceId": "vtgrzkhnzc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vtgrzkhnzc.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef5",
+        "name": "Grid Gaps",
+        "type": "ivideo",
+        "sourceId": "h7ilh83zhl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h7ilh83zhl.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef6",
+        "name": "Grid Columns",
+        "type": "ivideo",
+        "sourceId": "j94ogl21tm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j94ogl21tm.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef7",
+        "name": "Grid Rows",
+        "type": "ivideo",
+        "sourceId": "x1o4u4z3ns",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x1o4u4z3ns.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef8",
+        "name": "Grid Properties",
+        "type": "ivideo",
+        "sourceId": "29omceknlb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/29omceknlb.m3u8"
+      },
+      {
+        "id": "69e161f3baeead7bde067ef9",
+        "name": "Animation in CSS",
+        "type": "ivideo",
+        "sourceId": "o654lp1pzf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o654lp1pzf.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067efa",
+        "name": "Animation Shorthand",
+        "type": "ivideo",
+        "sourceId": "4l6k7hvxa3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4l6k7hvxa3.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067efb",
+        "name": "% in Animation",
+        "type": "ivideo",
+        "sourceId": "9uwboqjx3j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9uwboqjx3j.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067efc",
+        "name": "Media Queries",
+        "type": "ivideo",
+        "sourceId": "htyr1en6ds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/htyr1en6ds.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067efd",
+        "name": "Media Queries (Orientation)",
+        "type": "ivideo",
+        "sourceId": "orsyg7p2n4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/orsyg7p2n4.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067efe",
+        "name": "Pet Adoption Page",
+        "type": "ivideo",
+        "sourceId": "vb48hemovw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vb48hemovw.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067eff",
+        "name": "Download Starter Files (Pet Adoption)",
+        "type": "pdf",
+        "pdf_name": "Download Starter HTML (2).pdf",
+        "pdf": "pdf/Download Starter HTML (2).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/Download Starter HTML (2).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f00",
+        "name": "z-index",
+        "type": "ivideo",
+        "sourceId": "2hdqzl1jkg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2hdqzl1jkg.m3u8"
+      },
+      {
+        "id": "69e161f4baeead7bde067f01",
+        "name": "Assignment Questions",
+        "type": "pdf",
+        "pdf_name": "CSS Part6 (Qs).pdf",
+        "pdf": "pdf/CSS Part6 (Qs).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part6 (Qs).pdf"
+      },
+      {
+        "id": "69e161f4baeead7bde067f02",
+        "name": "Assignment Solutions",
+        "type": "pdf",
+        "pdf_name": "CSS Part 6 (Ans).pdf",
+        "pdf": "pdf/CSS Part 6 (Ans).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=2wsbcS373QLDFmOo9WS3n8zV8CPqnlefZpiqMqMD&file=pdf/CSS Part 6 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "category": "CI/CD - Complete Tutorial",
+    "learningPath": [
+      {
+        "id": "6a467513f9f632b8d20fca8d",
+        "name": "Continuous Integration & Continuous Delivery",
+        "type": "ivideo",
+        "sourceId": "8crt8w2gsy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8crt8w2gsy.m3u8"
+      },
+      {
+        "id": "6a467513f9f632b8d20fca8e",
+        "name": "CI/CD Pipeline",
+        "type": "ivideo",
+        "sourceId": "w4z9tfosq8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w4z9tfosq8.m3u8"
+      },
+      {
+        "id": "6a467513f9f632b8d20fca8f",
+        "name": "CI/CD Tools",
+        "type": "ivideo",
+        "sourceId": "esisqwfffu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/esisqwfffu.m3u8"
+      },
+      {
+        "id": "6a467513f9f632b8d20fca90",
+        "name": "Working with Github Actions",
+        "type": "ivideo",
+        "sourceId": "pav80274ep",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pav80274ep.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca91",
+        "name": ".yaml for Automation",
+        "type": "ivideo",
+        "sourceId": "2kg1uc2kp1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2kg1uc2kp1.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca92",
+        "name": "Set up JS project with Jest",
+        "type": "ivideo",
+        "sourceId": "airtvqz0nl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/airtvqz0nl.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca93",
+        "name": "Our first CI setup",
+        "type": "ivideo",
+        "sourceId": "o9qadxn0b9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o9qadxn0b9.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca94",
+        "name": "CI/CD for MERN Project",
+        "type": "ivideo",
+        "sourceId": "zflmrxx4y1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zflmrxx4y1.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca95",
+        "name": "Set up AWS EC2",
+        "type": "ivideo",
+        "sourceId": "6pmr00jpa5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6pmr00jpa5.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca96",
+        "name": "CI/CD for Backend Module",
+        "type": "ivideo",
+        "sourceId": "91wyv3zh0x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/91wyv3zh0x.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca97",
+        "name": "Automate .env backup",
+        "type": "ivideo",
+        "sourceId": "503f3z0dun",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/503f3z0dun.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca98",
+        "name": "CI/CD for Frontend Module",
+        "type": "ivideo",
+        "sourceId": "tbrd2mf9qj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tbrd2mf9qj.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca99",
+        "name": "Workflow Summary",
+        "type": "ivideo",
+        "sourceId": "rsuknoi6zi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rsuknoi6zi.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Kubernetes",
+    "learningPath": [
+      {
+        "id": "6a467514f9f632b8d20fca9a",
+        "name": "What is Kubernetes?",
+        "type": "ivideo",
+        "sourceId": "3mp70ohtzg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3mp70ohtzg.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9b",
+        "name": "Components - Node & Pod",
+        "type": "ivideo",
+        "sourceId": "z631i4u1wf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z631i4u1wf.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9c",
+        "name": "Service & Ingress",
+        "type": "ivideo",
+        "sourceId": "nwosss0ctg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nwosss0ctg.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9d",
+        "name": "ConfigMap & Secret",
+        "type": "ivideo",
+        "sourceId": "1vec5rx518",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1vec5rx518.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9e",
+        "name": "Volumes",
+        "type": "ivideo",
+        "sourceId": "n94jnm15z2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n94jnm15z2.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9f",
+        "name": "Deployment & StatefulSet",
+        "type": "ivideo",
+        "sourceId": "lv2a64o6ay",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lv2a64o6ay.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa0",
+        "name": "Kubernetes Architecture",
+        "type": "ivideo",
+        "sourceId": "6t3v2v7yr8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6t3v2v7yr8.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa1",
+        "name": "Summary",
+        "type": "ivideo",
+        "sourceId": "godcaqbpng",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/godcaqbpng.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa2",
+        "name": "Local Setup - Minikube & Kubectl",
+        "type": "ivideo",
+        "sourceId": "z7axsskqcp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z7axsskqcp.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa3",
+        "name": "Installation",
+        "type": "ivideo",
+        "sourceId": "e6s5jtnt7k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e6s5jtnt7k.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa4",
+        "name": "Kubectl Commands [GET]",
+        "type": "ivideo",
+        "sourceId": "fft61hqxow",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fft61hqxow.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa5",
+        "name": "CREATE Command",
+        "type": "ivideo",
+        "sourceId": "qrxlnkafc8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qrxlnkafc8.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa6",
+        "name": "Debugging Commands [LOGS & EXEC]",
+        "type": "ivideo",
+        "sourceId": "ehmihzztge",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ehmihzztge.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa7",
+        "name": "APPLY Command",
+        "type": "ivideo",
+        "sourceId": "qk0y7ag0ar",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qk0y7ag0ar.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa8",
+        "name": "YAML Configurations",
+        "type": "ivideo",
+        "sourceId": "ilv1peo7kb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ilv1peo7kb.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa9",
+        "name": "Status in Configuration",
+        "type": "ivideo",
+        "sourceId": "09g07byfcz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/09g07byfcz.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaaa",
+        "name": "Deploying mongo-app in K8s",
+        "type": "ivideo",
+        "sourceId": "5n02a9q5ro",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5n02a9q5ro.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaab",
+        "name": "Configuring Mongodb",
+        "type": "ivideo",
+        "sourceId": "xtggxovf3w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xtggxovf3w.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaac",
+        "name": "Configuring Mongo Express",
+        "type": "ivideo",
+        "sourceId": "eor2s75hmg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eor2s75hmg.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaad",
+        "name": "Namespace in K8s",
+        "type": "ivideo",
+        "sourceId": "wzsw7szp05",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wzsw7szp05.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaae",
+        "name": "Namespace Use cases",
+        "type": "ivideo",
+        "sourceId": "yfkjvoxuvw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yfkjvoxuvw.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaaf",
+        "name": "Custom Namespaces",
+        "type": "ivideo",
+        "sourceId": "vbwb6jzsnw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vbwb6jzsnw.m3u8"
+      },
+      {
+        "id": "6a467514f9f632b8d20fcab0",
+        "name": "Scope",
+        "type": "ivideo",
+        "sourceId": "4isqcadhys",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4isqcadhys.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab1",
+        "name": "Kubens Installation",
+        "type": "ivideo",
+        "sourceId": "stk2l4ehbs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/stk2l4ehbs.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab2",
+        "name": "Ingress in K8s",
+        "type": "ivideo",
+        "sourceId": "c2flkbv4ec",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c2flkbv4ec.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab3",
+        "name": "Ingress Controller",
+        "type": "ivideo",
+        "sourceId": "p5ny8kj7bk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p5ny8kj7bk.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab4",
+        "name": "Configure app with Ingress",
+        "type": "ivideo",
+        "sourceId": "nzpgn263ao",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nzpgn263ao.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab5",
+        "name": "Helm - Package Manager",
+        "type": "ivideo",
+        "sourceId": "hvlkjssuvv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hvlkjssuvv.m3u8"
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab6",
+        "name": "Helm chart structure",
+        "type": "ivideo",
+        "sourceId": "tzfb8qi3df",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tzfb8qi3df.m3u8"
+      }
+    ]
+  }
+]
