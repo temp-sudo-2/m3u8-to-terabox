@@ -1,0 +1,3708 @@
+[
+  {
+    "category": "Important Note",
+    "learningPath": [
+      {
+        "id": "69e15f386a3bf7ad1f095135",
+        "name": "Welcome to AI Projects Module!",
+        "type": "ivideo",
+        "sourceId": "e2ivdqqoj2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e2ivdqqoj2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Important_Note/Important_Note_Welcome_to_AI_Projects_Module!_e2ivdqqoj2_1080p.mp4",
+          "fs_id": "498681011294605",
+          "size": 194149153,
+          "shareUrl": "https://1024terabox.com/s/1wS_T7i8x9FKfOugAIN265g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "I. Intelligent AI Attendance - Face & Voice",
+    "learningPath": [
+      {
+        "id": "69e23b1ea62283c0f007a2a3",
+        "name": "Project Overview",
+        "type": "ivideo",
+        "sourceId": "wxl0ct6keh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wxl0ct6keh.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Project_Overview_wxl0ct6keh_1080p.mp4",
+          "fs_id": "572653691179068",
+          "size": 99195852,
+          "shareUrl": "https://1024terabox.com/s/1Ip_VNVTJoP4HPAtjmdfMZQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f43",
+        "name": "Project Features Explanation",
+        "type": "ivideo",
+        "sourceId": "l2nsaqrn52",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l2nsaqrn52.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Project_Features_Explanation_l2nsaqrn52_1080p.mp4",
+          "fs_id": "401248935789593",
+          "size": 49089807,
+          "shareUrl": "https://1024terabox.com/s/1_x2FT8bCfiIYlWnqrVHx2w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f45",
+        "name": "Project Setup - Dependencies",
+        "type": "ivideo",
+        "sourceId": "4wsk3a07i1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4wsk3a07i1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Project_Setup_-_Dependencies_4wsk3a07i1_1080p.mp4",
+          "fs_id": "882024525426859",
+          "size": 141133888,
+          "shareUrl": "https://1024terabox.com/s/1XYsAgZHl4wvJDqFN1UQL4g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f46",
+        "name": "Basics of Streamlit",
+        "type": "ivideo",
+        "sourceId": "g4zmb3dxrs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g4zmb3dxrs.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Basics_of_Streamlit_g4zmb3dxrs_1080p.mp4",
+          "fs_id": "352662390080241",
+          "size": 72102880,
+          "shareUrl": "https://1024terabox.com/s/1plZpwHK5DRZwpHKC3HnyoA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f47",
+        "name": "Create Base Layout (with Statefulness)",
+        "type": "ivideo",
+        "sourceId": "p7lu4n5n51",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p7lu4n5n51.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Create_Base_Layout_(with_Statefulness)_p7lu4n5n51_1080p.mp4",
+          "fs_id": "830114468404269",
+          "size": 51569704,
+          "shareUrl": "https://1024terabox.com/s/17fzI0dRospGhdvaeIYK8Mg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f48",
+        "name": "Overwriting Streamlit Styles",
+        "type": "ivideo",
+        "sourceId": "t5xq6dfuas",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t5xq6dfuas.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Overwriting_Streamlit_Styles_t5xq6dfuas_1080p.mp4",
+          "fs_id": "874172373601154",
+          "size": 111370209,
+          "shareUrl": "https://1024terabox.com/s/18Yj4mG2iinHlBbt5_oSrsw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f49",
+        "name": "Build HomeScreen with Components",
+        "type": "ivideo",
+        "sourceId": "7ex7q9ig0g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ex7q9ig0g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Build_HomeScreen_with_Components_7ex7q9ig0g_1080p.mp4",
+          "fs_id": "685862436353183",
+          "size": 118946962,
+          "shareUrl": "https://1024terabox.com/s/1OV6T-7g6jhuHJwwYbJ-b-g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4a",
+        "name": "Design Teacher Auth Portal",
+        "type": "ivideo",
+        "sourceId": "d4yoovmdpp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d4yoovmdpp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Design_Teacher_Auth_Portal_d4yoovmdpp_1080p.mp4",
+          "fs_id": "658312735964855",
+          "size": 162322942,
+          "shareUrl": "https://1024terabox.com/s/1LbCPsVLmmT5gHkXnaBciAg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4b",
+        "name": "Database Setup",
+        "type": "ivideo",
+        "sourceId": "b3gcv3ex6m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b3gcv3ex6m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Database_Setup_b3gcv3ex6m_1080p.mp4",
+          "fs_id": "1002052834787906",
+          "size": 86596322,
+          "shareUrl": "https://1024terabox.com/s/1O68L_MmxV-WgzZyaLiMOWQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4c",
+        "name": "Create Database Functions",
+        "type": "ivideo",
+        "sourceId": "6wzcb4e1md",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6wzcb4e1md.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Create_Database_Functions_6wzcb4e1md_1080p.mp4",
+          "fs_id": "29186553437356",
+          "size": 114044240,
+          "shareUrl": "https://1024terabox.com/s/1XQJ7hgJWCSfjZD_7MfRtFw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4d",
+        "name": "Setup Teacher Authentication",
+        "type": "ivideo",
+        "sourceId": "5ebe6a4boa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5ebe6a4boa.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Setup_Teacher_Authentication_5ebe6a4boa_1080p.mp4",
+          "fs_id": "445056643365828",
+          "size": 106696037,
+          "shareUrl": "https://1024terabox.com/s/1i8sWZhB0gpD-UrlwZS_Tjg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4e",
+        "name": "Face Recognition ML Pipeline",
+        "type": "ivideo",
+        "sourceId": "4sjg8rgwc4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4sjg8rgwc4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Face_Recognition_ML_Pipeline_4sjg8rgwc4_1080p.mp4",
+          "fs_id": "303304851087181",
+          "size": 170394158,
+          "shareUrl": "https://1024terabox.com/s/18AeqUtYy8uh6Y4jioQuW0A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f4f",
+        "name": "Voice Recognition ML Pipeline",
+        "type": "ivideo",
+        "sourceId": "4cq1p5f5k7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4cq1p5f5k7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Voice_Recognition_ML_Pipeline_4cq1p5f5k7_1080p.mp4",
+          "fs_id": "376946460682308",
+          "size": 102323769,
+          "shareUrl": "https://1024terabox.com/s/1ld7k-ISInjdcz27dEGhBfw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f50",
+        "name": "Student Auth with FaceRecog & VoiceRecog",
+        "type": "ivideo",
+        "sourceId": "cnlc59jka3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cnlc59jka3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Student_Auth_with_FaceRecog_&_VoiceRecog_cnlc59jka3_1080p.mp4",
+          "fs_id": "169049699359627",
+          "size": 124737060,
+          "shareUrl": "https://1024terabox.com/s/1WjKX8l96jQzHCz556EZxWg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f51",
+        "name": "Teacher Dashboard - Create Tabs",
+        "type": "ivideo",
+        "sourceId": "tilh7dcsw9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tilh7dcsw9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Teacher_Dashboard_-_Create_Tabs_tilh7dcsw9_1080p.mp4",
+          "fs_id": "1094631283576986",
+          "size": 66237649,
+          "shareUrl": "https://1024terabox.com/s/1G0BAShJzBzQhy7CXmiM7AA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f52",
+        "name": "Teacher Dashboard - Manage Subjects",
+        "type": "ivideo",
+        "sourceId": "m8m5300ovz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m8m5300ovz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Teacher_Dashboard_-_Manage_Subjects_m8m5300ovz_1080p.mp4",
+          "fs_id": "590544818666354",
+          "size": 152262873,
+          "shareUrl": "https://1024terabox.com/s/1sGXV4hgNVC7kAAtCbT2Jbw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f53",
+        "name": "Subject Card Component",
+        "type": "ivideo",
+        "sourceId": "jabb5onhoi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jabb5onhoi.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Intelligent_AI_Attendance_-_Face_&_Voice/I._Intelligent_AI_Attendance_-_Face_&_Voice_Subject_Card_Component_jabb5onhoi_1080p.mp4",
+          "fs_id": "553891234135443",
+          "size": 63336591,
+          "shareUrl": "https://1024terabox.com/s/1SVAEzOS8AhvKgbjHAbcR0Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "II. Intelligent AI Attendance (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69e32a67189bea730505eb15",
+        "name": "Share \"Subject Enrolment\" Link",
+        "type": "ivideo",
+        "sourceId": "een9qu91ws",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/een9qu91ws.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Share__Subject_Enrolment__Link_een9qu91ws_1080p.mp4",
+          "fs_id": "1053434360797522",
+          "size": 51472746,
+          "shareUrl": "https://1024terabox.com/s/1K1P3wCEmzaeufwlviZz93g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e32b6fb64ff417ba0e1ac5",
+        "name": "Build Student Dashboard",
+        "type": "ivideo",
+        "sourceId": "rmz1td3a6d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rmz1td3a6d.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Build_Student_Dashboard_rmz1td3a6d_1080p.mp4",
+          "fs_id": "68076869238834",
+          "size": 156789915,
+          "shareUrl": "https://1024terabox.com/s/1jiZgAjMghI17O4UkwDcC6Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3459bf9558cde020e79c8",
+        "name": "Quick Enrolment using QR Code",
+        "type": "ivideo",
+        "sourceId": "bccaw86jck",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bccaw86jck.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Quick_Enrolment_using_QR_Code_bccaw86jck_1080p.mp4",
+          "fs_id": "603439029249695",
+          "size": 76132801,
+          "shareUrl": "https://1024terabox.com/s/1GeLQcXwXZF_NKmcC-d5-Wg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3466d12410223970313f5",
+        "name": "Teacher Attendance Flow",
+        "type": "ivideo",
+        "sourceId": "jmcm85yryi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jmcm85yryi.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Teacher_Attendance_Flow_jmcm85yryi_1080p.mp4",
+          "fs_id": "414634792854497",
+          "size": 112777518,
+          "shareUrl": "https://1024terabox.com/s/1QHeNZvwh-cfUYTReVrY0XQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3482cd2c1d8bb8b063b35",
+        "name": "Attendance Prediction (Image/WebCam)",
+        "type": "ivideo",
+        "sourceId": "ej4vk5yapo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ej4vk5yapo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Attendance_Prediction_(Image_WebCam)_ej4vk5yapo_1080p.mp4",
+          "fs_id": "890195699237803",
+          "size": 178413407,
+          "shareUrl": "https://1024terabox.com/s/1Hi6hqh8N94SKMQcUYViYag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e34af78a67bb4c4302c683",
+        "name": "Attendance Prediction (Voice)",
+        "type": "ivideo",
+        "sourceId": "hd41j1v2w6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hd41j1v2w6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Attendance_Prediction_(Voice)_hd41j1v2w6_1080p.mp4",
+          "fs_id": "118228685070443",
+          "size": 112675346,
+          "shareUrl": "https://1024terabox.com/s/1MiBkvIylitbX3yiswGtqSQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e34c42c11e286b3b096ebe",
+        "name": "View Attendance Records",
+        "type": "ivideo",
+        "sourceId": "ipfmttz957",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipfmttz957.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_View_Attendance_Records_ipfmttz957_1080p.mp4",
+          "fs_id": "808197997833780",
+          "size": 78526309,
+          "shareUrl": "https://1024terabox.com/s/1Y3XnXUHT6tGl9M8FHiOWIA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e34f5d0955c4126903c0d5",
+        "name": "Deploy App with Streamlit",
+        "type": "ivideo",
+        "sourceId": "x3ea0m8310",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x3ea0m8310.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Deploy_App_with_Streamlit_x3ea0m8310_1080p.mp4",
+          "fs_id": "1085844905655866",
+          "size": 39869218,
+          "shareUrl": "https://1024terabox.com/s/1bpLnBh78nm6e0CDS_TrwzA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e34f74d47d2090c50c8b85",
+        "name": "Build a Landing Page (with Flask)",
+        "type": "ivideo",
+        "sourceId": "w6303f7qkg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w6303f7qkg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Build_a_Landing_Page_(with_Flask)_w6303f7qkg_1080p.mp4",
+          "fs_id": "82274723083397",
+          "size": 115472377,
+          "shareUrl": "https://1024terabox.com/s/1FXOxDv0iJssfRSYkgWAu6w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e37413614db7317b033165",
+        "name": "Create Hero Section",
+        "type": "ivideo",
+        "sourceId": "mwj92u2ubc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mwj92u2ubc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Create_Hero_Section_mwj92u2ubc_1080p.mp4",
+          "fs_id": "1016783662997080",
+          "size": 102445582,
+          "shareUrl": "https://1024terabox.com/s/1U1SZKeqAHCg3UDsdyPbgvw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3741bf892cb99070c6105",
+        "name": "Create Footer Section",
+        "type": "ivideo",
+        "sourceId": "6hhmh9jr0k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6hhmh9jr0k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Create_Footer_Section_6hhmh9jr0k_1080p.mp4",
+          "fs_id": "885338157174324",
+          "size": 92050365,
+          "shareUrl": "https://1024terabox.com/s/1gs4k-W0cGbonC6zl7W4Mhw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3742bcfd3dc91bd0fb1f5",
+        "name": "Create Features & TechStack Section",
+        "type": "ivideo",
+        "sourceId": "su6y4cxnek",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/su6y4cxnek.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Create_Features_&_TechStack_Section_su6y4cxnek_1080p.mp4",
+          "fs_id": "688456774072515",
+          "size": 134883074,
+          "shareUrl": "https://1024terabox.com/s/1ATM7CQcQySo2hlt28UKcsw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e376e7a691c2ad8d047265",
+        "name": "Create Journey Section",
+        "type": "ivideo",
+        "sourceId": "uqhqvhou5y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uqhqvhou5y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Create_Journey_Section_uqhqvhou5y_1080p.mp4",
+          "fs_id": "493041667055651",
+          "size": 94235864,
+          "shareUrl": "https://1024terabox.com/s/1AzCkdc5Lu61-FUONBvmk6w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e376f30cebba6c1c0badf5",
+        "name": "Make Page Mobile Responsive",
+        "type": "ivideo",
+        "sourceId": "9nj92osra4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9nj92osra4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Make_Page_Mobile_Responsive_9nj92osra4_1080p.mp4",
+          "fs_id": "693244847375026",
+          "size": 68522611,
+          "shareUrl": "https://1024terabox.com/s/1xMccKhZ5PkZgOfitsBf4Kg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e3770b2e397523fd0282a5",
+        "name": "Deploy Page with Vercel",
+        "type": "ivideo",
+        "sourceId": "l51nacl884",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l51nacl884.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Intelligent_AI_Attendance_(Phase_2)/II._Intelligent_AI_Attendance_(Phase_2)_Deploy_Page_with_Vercel_l51nacl884_1080p.mp4",
+          "fs_id": "852982084386584",
+          "size": 17671336,
+          "shareUrl": "https://1024terabox.com/s/13PfdTS9XhOzBopuGKJXtsA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "I. Neural Style Transfer with AdaIN (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69ecd3746e621f10af05d695",
+        "name": "Project Overview",
+        "type": "ivideo",
+        "sourceId": "fj224sccw2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fj224sccw2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Project_Overview_fj224sccw2_1080p.mp4",
+          "fs_id": "58621302830597",
+          "size": 67585547,
+          "shareUrl": "https://1024terabox.com/s/1kboQZIrZcX_wFmKKjybr5w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ec8db02d5007b21b08f7d5",
+        "name": "Project Pre-requisites & Roadmap",
+        "type": "ivideo",
+        "sourceId": "6h9ef69l9c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6h9ef69l9c.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Project_Pre-requisites_&_Roadmap_6h9ef69l9c_1080p.mp4",
+          "fs_id": "413565074956656",
+          "size": 40287924,
+          "shareUrl": "https://1024terabox.com/s/13cUr8fpPeqGIJynA0ya4GA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ec8dc5159519ea5b01eb53",
+        "name": "Understanding NST",
+        "type": "ivideo",
+        "sourceId": "xc67oyo3sn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xc67oyo3sn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Understanding_NST_xc67oyo3sn_1080p.mp4",
+          "fs_id": "520029234562434",
+          "size": 74058581,
+          "shareUrl": "https://1024terabox.com/s/1DNYf9p7afuxBRWzmJqZQ3g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69eca21a9dd512f37d075cd5",
+        "name": "Different NST Methods",
+        "type": "ivideo",
+        "sourceId": "o8hag3gppq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o8hag3gppq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Different_NST_Methods_o8hag3gppq_1080p.mp4",
+          "fs_id": "227878704523782",
+          "size": 21446136,
+          "shareUrl": "https://1024terabox.com/s/1GuRy1e3n5wigV-0QTNjIqQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69eca559c03eb76af70cc583",
+        "name": "How to extract Image Content? (Demo)",
+        "type": "ivideo",
+        "sourceId": "olvov9tkuy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/olvov9tkuy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_How_to_extract_Image_Content__(Demo)_olvov9tkuy_1080p.mp4",
+          "fs_id": "1107678748460288",
+          "size": 15326578,
+          "shareUrl": "https://1024terabox.com/s/1IGNf66C0adXfp-nWGT9IUg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69eca65b24aa21391400c425",
+        "name": "Optimization & Feed-forward NST",
+        "type": "ivideo",
+        "sourceId": "m5qqssq3kz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m5qqssq3kz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Optimization_&_Feed-forward_NST_m5qqssq3kz_1080p.mp4",
+          "fs_id": "916114809983789",
+          "size": 64795923,
+          "shareUrl": "https://1024terabox.com/s/1D70RRwLQaHsAN2qZXMXkxA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecaaf0f6838c99f90e3b95",
+        "name": "AdaIN (Theory & Intuition)",
+        "type": "ivideo",
+        "sourceId": "e33m6aoqrx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e33m6aoqrx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_AdaIN_(Theory_&_Intuition)_e33m6aoqrx_1080p.mp4",
+          "fs_id": "63701388668",
+          "size": 47747903,
+          "shareUrl": "https://1024terabox.com/s/1IUS4wH98dbJekrS7fD4cxw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecac8a705c74c3470b7125",
+        "name": "Revise some PyTorch Concepts",
+        "type": "ivideo",
+        "sourceId": "6vwa9tbv6b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6vwa9tbv6b.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Revise_some_PyTorch_Concepts_6vwa9tbv6b_1080p.mp4",
+          "fs_id": "1115083423415328",
+          "size": 152204505,
+          "shareUrl": "https://1024terabox.com/s/1slMi_kCfAPDsoXLwq2olGw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecb6d5bb2fb0ef0c0c2146",
+        "name": "Use Kaggle for Free GPUs",
+        "type": "ivideo",
+        "sourceId": "7yusu89djl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7yusu89djl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Use_Kaggle_for_Free_GPUs_7yusu89djl_1080p.mp4",
+          "fs_id": "199591411734441",
+          "size": 22698927,
+          "shareUrl": "https://1024terabox.com/s/14kJq2xj-H1rpYCyh4CJOrQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecb8609839435ce4018aa5",
+        "name": "How to get Project Dataset?",
+        "type": "ivideo",
+        "sourceId": "haao54tnur",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/haao54tnur.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_How_to_get_Project_Dataset__haao54tnur_1080p.mp4",
+          "fs_id": "973675106752485",
+          "size": 14059061,
+          "shareUrl": "https://1024terabox.com/s/14q7pah9yc-GJQvIApDQXRQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecb87ba5445c3206013ee3",
+        "name": "Project Setup & Dataset creation",
+        "type": "ivideo",
+        "sourceId": "173hmwfuau",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/173hmwfuau.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Project_Setup_&_Dataset_creation_173hmwfuau_1080p.mp4",
+          "fs_id": "137426059657573",
+          "size": 173274775,
+          "shareUrl": "https://1024terabox.com/s/1axAvG36p_iy8jKye9qrgNw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ecbbb7ff98728258082313",
+        "name": "Implement Encoder & Decoder",
+        "type": "ivideo",
+        "sourceId": "igfl6ouwpc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/igfl6ouwpc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)/I._Neural_Style_Transfer_with_AdaIN_(Phase_1)_Implement_Encoder_&_Decoder_igfl6ouwpc_1080p.mp4",
+          "fs_id": "371590526070858",
+          "size": 131547382,
+          "shareUrl": "https://1024terabox.com/s/1dmJQTXHw4_yUnzYUmu2zIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "II. Neural Style Transfer with AdaIN (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69edd05f881580a7270e3598",
+        "name": "Training Loop & AdaIN Layer",
+        "type": "ivideo",
+        "sourceId": "x9jaeiov95",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x9jaeiov95.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Training_Loop_&_AdaIN_Layer_x9jaeiov95_1080p.mp4",
+          "fs_id": "783105955919499",
+          "size": 201312497,
+          "shareUrl": "https://1024terabox.com/s/1cG48mFDe7XfCmwr2JAtz4g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edd33dbd5636b080080186",
+        "name": "Save the Model",
+        "type": "ivideo",
+        "sourceId": "8letkfetxp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8letkfetxp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Save_the_Model_8letkfetxp_1080p.mp4",
+          "fs_id": "332597385465757",
+          "size": 113314026,
+          "shareUrl": "https://1024terabox.com/s/1G3f3Cu4s-43T2ETm--3Aeg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edd810cc17a832c80b7645",
+        "name": "Fix Error & Analyze Outputs",
+        "type": "ivideo",
+        "sourceId": "0bm17s6gfb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0bm17s6gfb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Fix_Error_&_Analyze_Outputs_0bm17s6gfb_1080p.mp4",
+          "fs_id": "338389097142950",
+          "size": 53757686,
+          "shareUrl": "https://1024terabox.com/s/1vFa5KOsHQJVhBhMJ3gxvHw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edd822c27f794d140a6595",
+        "name": "Build the WebApp",
+        "type": "ivideo",
+        "sourceId": "k3e43cmgj6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k3e43cmgj6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Build_the_WebApp_k3e43cmgj6_1080p.mp4",
+          "fs_id": "932041519948365",
+          "size": 247797026,
+          "shareUrl": "https://1024terabox.com/s/1GPVpUUwCG6jzK_652W-CQg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edda0d38bfed0f570d1623",
+        "name": "Deploy the Application",
+        "type": "ivideo",
+        "sourceId": "jnufythjmj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jnufythjmj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Deploy_the_Application_jnufythjmj_1080p.mp4",
+          "fs_id": "585157505088977",
+          "size": 26286395,
+          "shareUrl": "https://1024terabox.com/s/1jL-bJokiEcaICjGfn0y6Hw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edda8acbcd8082d409fb05",
+        "name": "Final Look of the WebApp",
+        "type": "ivideo",
+        "sourceId": "g4e5j2je55",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g4e5j2je55.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Final_Look_of_the_WebApp_g4e5j2je55_1080p.mp4",
+          "fs_id": "907139071694169",
+          "size": 43510792,
+          "shareUrl": "https://1024terabox.com/s/1wKaRuz6Ta2xxNI6yNvVg4A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69edda1a8739c1c8ac031275",
+        "name": "Deployment of App on Render",
+        "type": "ivideo",
+        "sourceId": "af3lx9j0e9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/af3lx9j0e9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Deployment_of_App_on_Render_af3lx9j0e9_1080p.mp4",
+          "fs_id": "1011623451407415",
+          "size": 44664427,
+          "shareUrl": "https://1024terabox.com/s/1AcZdE-4feA_P8FfXXUtU2w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69ee0fadadd9d15c070785f6",
+        "name": "Deployment on HuggingFace Spaces",
+        "type": "ivideo",
+        "sourceId": "6ftpk5mhsw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6ftpk5mhsw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Deployment_on_HuggingFace_Spaces_6ftpk5mhsw_1080p.mp4",
+          "fs_id": "519150925891042",
+          "size": 20987959,
+          "shareUrl": "https://1024terabox.com/s/18rHOyGa0sfwPQCtzysf1LQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69eddd18afeb1d9ee2025e25",
+        "name": "Next Steps after the Project",
+        "type": "ivideo",
+        "sourceId": "upne92h2l3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/upne92h2l3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)/II._Neural_Style_Transfer_with_AdaIN_(Phase_2)_Next_Steps_after_the_Project_upne92h2l3_1080p.mp4",
+          "fs_id": "821120461400240",
+          "size": 23298282,
+          "shareUrl": "https://1024terabox.com/s/1bL6Z-ea1lfBRlZS-0RxKtw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "I. Real-time AI Gym Trainer (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69f3719d58970f5365091235",
+        "name": "Project Demo & Features",
+        "type": "ivideo",
+        "sourceId": "l8o915893i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l8o915893i.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Project_Demo_&_Features_l8o915893i_1080p.mp4",
+          "fs_id": "357194796440088",
+          "size": 55835902,
+          "shareUrl": "https://1024terabox.com/s/1peSVIoAQ49VjBWJllYH9RQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f371b7e67636eee10de813",
+        "name": "Architecture & Project Setup",
+        "type": "ivideo",
+        "sourceId": "82jy2xj1m7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/82jy2xj1m7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Architecture_&_Project_Setup_82jy2xj1m7_1080p.mp4",
+          "fs_id": "635844183487812",
+          "size": 87178063,
+          "shareUrl": "https://1024terabox.com/s/1AH855t7WbtH9H1SG0IX2FA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f373e099c6f0116f016d46",
+        "name": "Login Form UI",
+        "type": "ivideo",
+        "sourceId": "7ebmbodc7p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ebmbodc7p.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Login_Form_UI_7ebmbodc7p_1080p.mp4",
+          "fs_id": "371009217702511",
+          "size": 55947695,
+          "shareUrl": "https://1024terabox.com/s/1SuXg6UENDIgAoIzpWUtpIQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f3772e4686c753ad006135",
+        "name": "Sidebar UI & Session Defaults",
+        "type": "ivideo",
+        "sourceId": "q7pepdhpfk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q7pepdhpfk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Sidebar_UI_&_Session_Defaults_q7pepdhpfk_1080p.mp4",
+          "fs_id": "937011805595530",
+          "size": 204638484,
+          "shareUrl": "https://1024terabox.com/s/1qjQbAsZySZXgB2pTTUDElw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f37c08954d1ed7c005f037",
+        "name": "Add Styles & Fonts",
+        "type": "ivideo",
+        "sourceId": "fi88jb7p2r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fi88jb7p2r.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Add_Styles_&_Fonts_fi88jb7p2r_1080p.mp4",
+          "fs_id": "98981166441973",
+          "size": 62554236,
+          "shareUrl": "https://1024terabox.com/s/18BMeMaJE-nJizv75uQyMcw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f380a1f69bf4195a0ad135",
+        "name": "Database Setup (SQLite)",
+        "type": "ivideo",
+        "sourceId": "fhgxuvv8nu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fhgxuvv8nu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Database_Setup_(SQLite)_fhgxuvv8nu_1080p.mp4",
+          "fs_id": "209405218740219",
+          "size": 171595775,
+          "shareUrl": "https://1024terabox.com/s/13Nx6PkNZQEzozReX9x0khw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f3838faa9651f14505d999",
+        "name": "Create Main Video Section",
+        "type": "ivideo",
+        "sourceId": "13q0817lm0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/13q0817lm0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Create_Main_Video_Section_13q0817lm0_1080p.mp4",
+          "fs_id": "641339884559986",
+          "size": 131315433,
+          "shareUrl": "https://1024terabox.com/s/1PJxl9vw20Aw3nOPpfmjn3w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f38606aff1dc126401c805",
+        "name": "MediaPipe Concepts",
+        "type": "ivideo",
+        "sourceId": "tpfrlhxpi6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tpfrlhxpi6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_MediaPipe_Concepts_tpfrlhxpi6_1080p.mp4",
+          "fs_id": "54734527237593",
+          "size": 82346706,
+          "shareUrl": "https://1024terabox.com/s/1BNOlGVa5KiR5ixKO1cYzKw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f487c5c450f9e3270fc6e8",
+        "name": "Base Exercise Class",
+        "type": "ivideo",
+        "sourceId": "rc78sen4su",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rc78sen4su.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Base_Exercise_Class_rc78sen4su_1080p.mp4",
+          "fs_id": "511382685384408",
+          "size": 101494810,
+          "shareUrl": "https://1024terabox.com/s/16B3vPehumIn3FQ2XgUNq8w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f38b33077a4ac1860ec734",
+        "name": "Squats Detector Class",
+        "type": "ivideo",
+        "sourceId": "939kcg1u7y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/939kcg1u7y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._Real-time_AI_Gym_Trainer_(Phase_1)/I._Real-time_AI_Gym_Trainer_(Phase_1)_Squats_Detector_Class_939kcg1u7y_1080p.mp4",
+          "fs_id": "937032157994915",
+          "size": 144622657,
+          "shareUrl": "https://1024terabox.com/s/11kkMM5RuQ4GoJOHOIcJIhg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "II. Real-time AI Gym Trainer (Phase 2)",
+    "learningPath": [
+      {
+        "id": "69f7134aad1c21feff0b9785",
+        "name": "Other Detector Classes (Push-up, Bicep etc.)",
+        "type": "ivideo",
+        "sourceId": "tpghbm1yd2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tpghbm1yd2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Other_Detector_Classes_(Push-up,_Bicep_etc.)_tpghbm1yd2_1080p.mp4",
+          "fs_id": "608954610140819",
+          "size": 245543808,
+          "shareUrl": "https://1024terabox.com/s/1VNfuF-NARQZgHaVnySxf9A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f7135ea2a64c57df0c1936",
+        "name": "Exercise Video Processor Class",
+        "type": "ivideo",
+        "sourceId": "warugobh4s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/warugobh4s.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Exercise_Video_Processor_Class_warugobh4s_1080p.mp4",
+          "fs_id": "169070393029832",
+          "size": 276385964,
+          "shareUrl": "https://1024terabox.com/s/1sazbX0X7IRc35Fw0YFap4Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f71369ce9536eb1b0d3a66",
+        "name": "Metrics & Goal Progress",
+        "type": "ivideo",
+        "sourceId": "mkuu4n53vj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mkuu4n53vj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Metrics_&_Goal_Progress_mkuu4n53vj_1080p.mp4",
+          "fs_id": "57821724580003",
+          "size": 146995377,
+          "shareUrl": "https://1024terabox.com/s/1XpmP9AEVOMmu4_UKnVzZ9A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f7137116778752660007b6",
+        "name": "Database Operations",
+        "type": "ivideo",
+        "sourceId": "83rluyzciq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/83rluyzciq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Database_Operations_83rluyzciq_1080p.mp4",
+          "fs_id": "933539170378010",
+          "size": 101516685,
+          "shareUrl": "https://1024terabox.com/s/1NQT26A6SrVvfTeHI5IXb-w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f71383f9bc32db0f00dec6",
+        "name": "CoachLLM & TextToSpeech Class",
+        "type": "ivideo",
+        "sourceId": "rs5q2xcp5v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rs5q2xcp5v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_CoachLLM_&_TextToSpeech_Class_rs5q2xcp5v_1080p.mp4",
+          "fs_id": "819676432572644",
+          "size": 74086457,
+          "shareUrl": "https://1024terabox.com/s/1sKmTGeVkO1CO7zmhTYPmoA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f7138c8b45a10c1b0d5625",
+        "name": "Voice Pipeline Completion",
+        "type": "ivideo",
+        "sourceId": "t0zsxe4cdc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t0zsxe4cdc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Voice_Pipeline_Completion_t0zsxe4cdc_1080p.mp4",
+          "fs_id": "609830265284770",
+          "size": 52681148,
+          "shareUrl": "https://1024terabox.com/s/1u__mUhe_hVn-ZmlHpCd4Zw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f71396e4d8d6b0c80b8a55",
+        "name": "Connect Voice Feedback",
+        "type": "ivideo",
+        "sourceId": "04750tsike",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/04750tsike.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Connect_Voice_Feedback_04750tsike_1080p.mp4",
+          "fs_id": "777120239674388",
+          "size": 103710689,
+          "shareUrl": "https://1024terabox.com/s/1JWo9FQueZQ31IV5U9jv57A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f713a16a89760f75060c83",
+        "name": "Landing Page Deployment (Netlify)",
+        "type": "ivideo",
+        "sourceId": "yhfx72mrxm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yhfx72mrxm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Landing_Page_Deployment_(Netlify)_yhfx72mrxm_1080p.mp4",
+          "fs_id": "472130031350161",
+          "size": 56407443,
+          "shareUrl": "https://1024terabox.com/s/1fqFv2lz4o3Iio5E4lpGIEw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69f713fae0ae30bced004773",
+        "name": "Host to Streamlit Cloud & Github",
+        "type": "ivideo",
+        "sourceId": "p839ynxol8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p839ynxol8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._Real-time_AI_Gym_Trainer_(Phase_2)/II._Real-time_AI_Gym_Trainer_(Phase_2)_Host_to_Streamlit_Cloud_&_Github_p839ynxol8_1080p.mp4",
+          "fs_id": "576373400808443",
+          "size": 34538964,
+          "shareUrl": "https://1024terabox.com/s/1gswyJBGREkAOhXmOGHfXbA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "I. AI Resume ATS System (Phase 1)",
+    "learningPath": [
+      {
+        "id": "69fdd27bc425466e010385c5",
+        "name": "Project Demo & Features",
+        "type": "ivideo",
+        "sourceId": "jzvp08qd52",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jzvp08qd52.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_Project_Demo_&_Features_jzvp08qd52_1080p.mp4",
+          "fs_id": "769500174677831",
+          "size": 62713496,
+          "shareUrl": "https://1024terabox.com/s/16pv3QRH-t-08NBM5oz47HQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a086c7ba2f97509cc01f7c5",
+        "name": "Project Tech Stack",
+        "type": "ivideo",
+        "sourceId": "0jcw4hd4kw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0jcw4hd4kw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_Project_Tech_Stack_0jcw4hd4kw_1080p.mp4",
+          "fs_id": "1115033403491600",
+          "size": 52371044,
+          "shareUrl": "https://1024terabox.com/s/1Dsrn3Vh15PKL1FADibzOzw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a086f6e3bceac638e0695e5",
+        "name": "System Design of Project",
+        "type": "ivideo",
+        "sourceId": "h1w8yqqpqx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h1w8yqqpqx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_System_Design_of_Project_h1w8yqqpqx_1080p.mp4",
+          "fs_id": "453592972833288",
+          "size": 69539684,
+          "shareUrl": "https://1024terabox.com/s/1l-F7S3804tG2mAXJ3rmV5Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a086c70222b8b70e8064b34",
+        "name": "FastAPI Fundamentals",
+        "type": "ivideo",
+        "sourceId": "2ivebr049e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2ivebr049e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_FastAPI_Fundamentals_2ivebr049e_1080p.mp4",
+          "fs_id": "68596008842704",
+          "size": 82447577,
+          "shareUrl": "https://1024terabox.com/s/1oKNq4i0KB7_Dh3bByy1-gA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a086f84912e7e0d1f0e50d5",
+        "name": "Project & Env Setup",
+        "type": "ivideo",
+        "sourceId": "j7isgoargx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j7isgoargx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_Project_&_Env_Setup_j7isgoargx_1080p.mp4",
+          "fs_id": "507902994060479",
+          "size": 191410137,
+          "shareUrl": "https://1024terabox.com/s/1ZOTF41BBwWSfcGEYTGnZ4A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a0882b77738c16b10037238",
+        "name": "Supabase DB Setup",
+        "type": "ivideo",
+        "sourceId": "wdk40u0jqp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wdk40u0jqp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_Supabase_DB_Setup_wdk40u0jqp_1080p.mp4",
+          "fs_id": "459692445707596",
+          "size": 68125758,
+          "shareUrl": "https://1024terabox.com/s/14yqfS1MXQCWeSdj8Cic4bA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a08864d27873c3ee901fb35",
+        "name": "File Parsing",
+        "type": "ivideo",
+        "sourceId": "avy7vc36vl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/avy7vc36vl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_File_Parsing_avy7vc36vl_1080p.mp4",
+          "fs_id": "97691381211165",
+          "size": 284311501,
+          "shareUrl": "https://1024terabox.com/s/1eudUGfGBbJG4cB6JRLWrZQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a088b8c4af88aec1e044713",
+        "name": "NLP with spaCy",
+        "type": "ivideo",
+        "sourceId": "h8wk194cus",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h8wk194cus.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/I._AI_Resume_ATS_System_(Phase_1)/I._AI_Resume_ATS_System_(Phase_1)_NLP_with_spaCy_h8wk194cus_1080p.mp4",
+          "fs_id": "636043444756852",
+          "size": 255585472,
+          "shareUrl": "https://1024terabox.com/s/1g8PJ99b0PR4Rrd5y8AOYag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "II. AI Resume ATS System (Phase 2)",
+    "learningPath": [
+      {
+        "id": "6a09676a3bcc75d42f0a6dea",
+        "name": "AI Semantic Matching (with BERT)",
+        "type": "ivideo",
+        "sourceId": "afknd68ss0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/afknd68ss0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_AI_Semantic_Matching_(with_BERT)_afknd68ss0_1080p.mp4",
+          "fs_id": "208516383881459",
+          "size": 195409028,
+          "shareUrl": "https://1024terabox.com/s/1KNa3krQ3ghchBRNeh_R1PQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a096c6b3ce98316dc0e7935",
+        "name": "AI Semantic Matching (Part 2)",
+        "type": "ivideo",
+        "sourceId": "gya1r281q5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gya1r281q5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_AI_Semantic_Matching_(Part_2)_gya1r281q5_1080p.mp4",
+          "fs_id": "631618578891248",
+          "size": 89604451,
+          "shareUrl": "https://1024terabox.com/s/1iq_339h6iBUz8V0cTuPmig",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a3c924a73af0280d6aa6",
+        "name": "AI Semantic Matching (Part 3)",
+        "type": "ivideo",
+        "sourceId": "8dpapy1qry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8dpapy1qry.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_AI_Semantic_Matching_(Part_3)_8dpapy1qry_1080p.mp4",
+          "fs_id": "673242919865534",
+          "size": 226320251,
+          "shareUrl": "https://1024terabox.com/s/19dAcZT-4GuOlvZKOQ35WUA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a3de0989a836cf084207",
+        "name": "ATS Scoring Engine (Part 1)",
+        "type": "ivideo",
+        "sourceId": "k6b3do6t9u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k6b3do6t9u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_ATS_Scoring_Engine_(Part_1)_k6b3do6t9u_1080p.mp4",
+          "fs_id": "825029350366932",
+          "size": 151879381,
+          "shareUrl": "https://1024terabox.com/s/1HJX0RaZ6y0wctQWhvZNXIw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a3e30bc2eb6277099d46",
+        "name": "ATS Scoring Engine (Part 2)",
+        "type": "ivideo",
+        "sourceId": "f552dejwnx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f552dejwnx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_ATS_Scoring_Engine_(Part_2)_f552dejwnx_1080p.mp4",
+          "fs_id": "112544050317305",
+          "size": 192559598,
+          "shareUrl": "https://1024terabox.com/s/1wSXEPQlTc9AQq9n7uUcoRw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a3ed363b9e27840533b3",
+        "name": "Feedback Engine",
+        "type": "ivideo",
+        "sourceId": "sx6riy8o09",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sx6riy8o09.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_Feedback_Engine_sx6riy8o09_1080p.mp4",
+          "fs_id": "763576489110858",
+          "size": 183466447,
+          "shareUrl": "https://1024terabox.com/s/1Ie-XLxagYJlMQR-yTdPlfw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a3f40bc2eb6277099d47",
+        "name": "Recommendation Engine",
+        "type": "ivideo",
+        "sourceId": "x08hehd76k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x08hehd76k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_Recommendation_Engine_x08hehd76k_1080p.mp4",
+          "fs_id": "666364317117728",
+          "size": 216411603,
+          "shareUrl": "https://1024terabox.com/s/1sjsXK25sm-LhAv2YW61fwg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a400f8736a32c804d286",
+        "name": "PDF Logic",
+        "type": "ivideo",
+        "sourceId": "0cy39hb2x6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0cy39hb2x6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_PDF_Logic_0cy39hb2x6_1080p.mp4",
+          "fs_id": "902453401874045",
+          "size": 118675466,
+          "shareUrl": "https://1024terabox.com/s/1ozi04wwAYeUEXpZU2O6byA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a09a4192a44ecbd98012c43",
+        "name": "API Routes Files & Endpoints",
+        "type": "ivideo",
+        "sourceId": "js588wx25q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/js588wx25q.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_API_Routes_Files_&_Endpoints_js588wx25q_1080p.mp4",
+          "fs_id": "76126317770476",
+          "size": 145383465,
+          "shareUrl": "https://1024terabox.com/s/1qDEjtu7X-Gi_mBfLjDkjaw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a11b88542a80ea2a801b517",
+        "name": "Building the Streamlit (frontend & backend integration) part 1",
+        "type": "ivideo",
+        "sourceId": "xi67aipy0n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xi67aipy0n.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_Building_the_Streamlit_(frontend_&_backend_integration)_part_1_xi67aipy0n_1080p.mp4",
+          "fs_id": "38317131090681",
+          "size": 206084503,
+          "shareUrl": "https://1024terabox.com/s/16hvpVfaPHdlsYfWIU6tv3w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a11b8d6dcf728382909ac75",
+        "name": "Building the Streamlit (frontend & backend integration) part 2",
+        "type": "ivideo",
+        "sourceId": "ddz51xmv4h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ddz51xmv4h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_Building_the_Streamlit_(frontend_&_backend_integration)_part_2_ddz51xmv4h_1080p.mp4",
+          "fs_id": "211994575583633",
+          "size": 120758398,
+          "shareUrl": "https://1024terabox.com/s/154gtMf5gIVABDrio5e1bgg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a11b8ffbeafffb45f00bf86",
+        "name": "Deploying the Resume ATS Application",
+        "type": "ivideo",
+        "sourceId": "ld72xv0fgi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ld72xv0fgi.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/II._AI_Resume_ATS_System_(Phase_2)/II._AI_Resume_ATS_System_(Phase_2)_Deploying_the_Resume_ATS_Application_ld72xv0fgi_1080p.mp4",
+          "fs_id": "441033760666847",
+          "size": 141124183,
+          "shareUrl": "https://1024terabox.com/s/1n6GLZQpbxu04jLMomRynBA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 1 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f03",
+        "name": "What is CSS?",
+        "type": "ivideo",
+        "sourceId": "da8qe50cyu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/da8qe50cyu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_What_is_CSS__da8qe50cyu_1080p.mp4",
+          "fs_id": "268566295523547",
+          "size": 52097149,
+          "shareUrl": "https://1024terabox.com/s/1aggQAmE3ZIw1xgykEXNfVA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f04",
+        "name": "Basic CSS Format",
+        "type": "ivideo",
+        "sourceId": "owal0r92dy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/owal0r92dy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Basic_CSS_Format_owal0r92dy_1080p.mp4",
+          "fs_id": "554217697498228",
+          "size": 27314591,
+          "shareUrl": "https://1024terabox.com/s/10Bc5urIhTlNxWihlIEZ7aQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f05",
+        "name": "Including CSS",
+        "type": "ivideo",
+        "sourceId": "dmiixztj84",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dmiixztj84.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Including_CSS_dmiixztj84_1080p.mp4",
+          "fs_id": "230415673705561",
+          "size": 78932127,
+          "shareUrl": "https://1024terabox.com/s/1p8nY4d7Bqxei4WYchMjJ5A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f06",
+        "name": "Color Property",
+        "type": "ivideo",
+        "sourceId": "dif612ki7m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dif612ki7m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Color_Property_dif612ki7m_1080p.mp4",
+          "fs_id": "241842169521194",
+          "size": 30091653,
+          "shareUrl": "https://1024terabox.com/s/1ZkECTUsUVVkzGdpfaaZR9w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f07",
+        "name": "Background Color Property",
+        "type": "ivideo",
+        "sourceId": "cgqak53w6a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cgqak53w6a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Background_Color_Property_cgqak53w6a_1080p.mp4",
+          "fs_id": "141570558739483",
+          "size": 12068861,
+          "shareUrl": "https://1024terabox.com/s/1a5I7EN7AQyxolwXxzSBr-w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f08",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "bv20ba1x3u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bv20ba1x3u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Practice_Qs_bv20ba1x3u_1080p.mp4",
+          "fs_id": "1070318346670601",
+          "size": 14263129,
+          "shareUrl": "https://1024terabox.com/s/1ShXMyagjFzZm5bili9dYMg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f09",
+        "name": "Color Systems (Name & RGB)",
+        "type": "ivideo",
+        "sourceId": "9t6m5irdth",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9t6m5irdth.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Color_Systems_(Name_&_RGB)_9t6m5irdth_1080p.mp4",
+          "fs_id": "414528558071468",
+          "size": 62691540,
+          "shareUrl": "https://1024terabox.com/s/1tYA78XmspIhp4DJFjJM5Kw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0a",
+        "name": "Hex Codes",
+        "type": "ivideo",
+        "sourceId": "3t312i6w7h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3t312i6w7h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Hex_Codes_3t312i6w7h_1080p.mp4",
+          "fs_id": "251109628801120",
+          "size": 49781067,
+          "shareUrl": "https://1024terabox.com/s/1pHl7y5EO8AtQxDg1bTirpw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0b",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "9fn75nvc5o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9fn75nvc5o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Practice_Qs_9fn75nvc5o_1080p.mp4",
+          "fs_id": "340312870785183",
+          "size": 8209497,
+          "shareUrl": "https://1024terabox.com/s/1U8P4nVPxqsOvm5tmqugVNQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0c",
+        "name": "Text Align Property",
+        "type": "ivideo",
+        "sourceId": "iol9wpt8hu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iol9wpt8hu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Text_Align_Property_iol9wpt8hu_1080p.mp4",
+          "fs_id": "906668999431937",
+          "size": 57202718,
+          "shareUrl": "https://1024terabox.com/s/1O7hxsxank1Ua4pj3Eat_1w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0d",
+        "name": "Font Weight & Text Decoration",
+        "type": "ivideo",
+        "sourceId": "x03a2kmu6f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x03a2kmu6f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Font_Weight_&_Text_Decoration_x03a2kmu6f_1080p.mp4",
+          "fs_id": "446042892190056",
+          "size": 68172603,
+          "shareUrl": "https://1024terabox.com/s/1L0REOBfq4uPcpt5p7vl_4g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0e",
+        "name": "Line Height & Letter Spacing",
+        "type": "ivideo",
+        "sourceId": "3ogseajx53",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3ogseajx53.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Line_Height_&_Letter_Spacing_3ogseajx53_1080p.mp4",
+          "fs_id": "113043259516753",
+          "size": 27787000,
+          "shareUrl": "https://1024terabox.com/s/1930DXyJSjV9U4bDGpRi-Dw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f0f",
+        "name": "Units in CSS (Pixel)",
+        "type": "ivideo",
+        "sourceId": "cp7sblc0r6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cp7sblc0r6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Units_in_CSS_(Pixel)_cp7sblc0r6_1080p.mp4",
+          "fs_id": "412635209481259",
+          "size": 35272069,
+          "shareUrl": "https://1024terabox.com/s/1CcvCUuCfYCyIb-2zi6LZNA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f10",
+        "name": "Font Family",
+        "type": "ivideo",
+        "sourceId": "fxe4xsiqbf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fxe4xsiqbf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Font_Family_fxe4xsiqbf_1080p.mp4",
+          "fs_id": "671351035362703",
+          "size": 48613344,
+          "shareUrl": "https://1024terabox.com/s/12wYpUhxhe39mOEXuV5HY4Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f11",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "s4jp35k4rx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s4jp35k4rx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_1_[OPTIONAL]/CSS_-_Part_1_[OPTIONAL]_Practice_Qs_s4jp35k4rx_1080p.mp4",
+          "fs_id": "699223228819110",
+          "size": 36747053,
+          "shareUrl": "https://1024terabox.com/s/1QMdkaEvy3MIaekIXoQHnCw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 2 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f15",
+        "name": "How to download?",
+        "type": "ivideo",
+        "sourceId": "8xulqixmpc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8xulqixmpc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_How_to_download__8xulqixmpc_1080p.mp4",
+          "fs_id": "219110553853250",
+          "size": 3244546,
+          "shareUrl": "https://1024terabox.com/s/10QVwxFo7BsLcLc3gh8zwag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f16",
+        "name": "Universal Selector",
+        "type": "ivideo",
+        "sourceId": "rhk3yplbt2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rhk3yplbt2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Universal_Selector_rhk3yplbt2_1080p.mp4",
+          "fs_id": "8545854908117",
+          "size": 32727159,
+          "shareUrl": "https://1024terabox.com/s/147yDwf-B0WobKMTyKxK-uA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f17",
+        "name": "Element Selector",
+        "type": "ivideo",
+        "sourceId": "nbud61puaf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nbud61puaf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Element_Selector_nbud61puaf_1080p.mp4",
+          "fs_id": "503017654100102",
+          "size": 16894187,
+          "shareUrl": "https://1024terabox.com/s/1qiFa5hLiZgfBxTZjrtz-Xw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f18",
+        "name": "Id Selector",
+        "type": "ivideo",
+        "sourceId": "ximnny6nfv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ximnny6nfv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Id_Selector_ximnny6nfv_1080p.mp4",
+          "fs_id": "400861852044142",
+          "size": 20904050,
+          "shareUrl": "https://1024terabox.com/s/1wIJH_EayBJXHapqwXsQ6-g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f19",
+        "name": "Class Selector",
+        "type": "ivideo",
+        "sourceId": "xsr9ce8q79",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xsr9ce8q79.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Class_Selector_xsr9ce8q79_1080p.mp4",
+          "fs_id": "839580717694530",
+          "size": 23904358,
+          "shareUrl": "https://1024terabox.com/s/1B5OThR145mLt80qASflq6A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1a",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "dei7y2889s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dei7y2889s.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Practice_Qs_dei7y2889s_1080p.mp4",
+          "fs_id": "211050929649933",
+          "size": 28092161,
+          "shareUrl": "https://1024terabox.com/s/1DN9NmQDLabcJurksvSrBRQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1b",
+        "name": "Descendant Selector",
+        "type": "ivideo",
+        "sourceId": "dx1bg9703x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dx1bg9703x.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Descendant_Selector_dx1bg9703x_1080p.mp4",
+          "fs_id": "152672629782149",
+          "size": 44086363,
+          "shareUrl": "https://1024terabox.com/s/1zpmk-G35dT4-8Y59DJWicA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1c",
+        "name": "Sibling Combinator",
+        "type": "ivideo",
+        "sourceId": "7j7kovgtch",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7j7kovgtch.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Sibling_Combinator_7j7kovgtch_1080p.mp4",
+          "fs_id": "1107803036660994",
+          "size": 25914490,
+          "shareUrl": "https://1024terabox.com/s/1-QEshob_QyHcq4XvGvoL6g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1d",
+        "name": "Child Combinator",
+        "type": "ivideo",
+        "sourceId": "jakuu545gg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jakuu545gg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Child_Combinator_jakuu545gg_1080p.mp4",
+          "fs_id": "653075597694374",
+          "size": 21992276,
+          "shareUrl": "https://1024terabox.com/s/12g4M25sSophrXwAuGSk8Kw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1e",
+        "name": "Attribute Selector",
+        "type": "ivideo",
+        "sourceId": "6bbyohrbc0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6bbyohrbc0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Attribute_Selector_6bbyohrbc0_1080p.mp4",
+          "fs_id": "1045851819414589",
+          "size": 29567586,
+          "shareUrl": "https://1024terabox.com/s/1GjxckajpP7lTLE2CytWLCA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f1f",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "ipj4ugm454",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipj4ugm454.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Practice_Qs_ipj4ugm454_1080p.mp4",
+          "fs_id": "133334775605578",
+          "size": 16732565,
+          "shareUrl": "https://1024terabox.com/s/1FgylSnmm_CE0Y-cU9lixrg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f20",
+        "name": "Pseudo Class",
+        "type": "ivideo",
+        "sourceId": "hk5qww0av0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hk5qww0av0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Pseudo_Class_hk5qww0av0_1080p.mp4",
+          "fs_id": "970475259677512",
+          "size": 93322730,
+          "shareUrl": "https://1024terabox.com/s/14S0PhTp2SZfUPLoUjD3GtA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f21",
+        "name": "Pseudo Element",
+        "type": "ivideo",
+        "sourceId": "a5szywx9pd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a5szywx9pd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Pseudo_Element_a5szywx9pd_1080p.mp4",
+          "fs_id": "550364367371505",
+          "size": 28595705,
+          "shareUrl": "https://1024terabox.com/s/12ZyBJTjVTDHYkQp5ek5Vlw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f22",
+        "name": "Cascading & Specificity",
+        "type": "ivideo",
+        "sourceId": "ipn7l9df1o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipn7l9df1o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Cascading_&_Specificity_ipn7l9df1o_1080p.mp4",
+          "fs_id": "36531303217714",
+          "size": 75081756,
+          "shareUrl": "https://1024terabox.com/s/14iojujMgkGZPISAvnT8ouw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f23",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "737l4fg9ac",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/737l4fg9ac.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Practice_Qs_737l4fg9ac_1080p.mp4",
+          "fs_id": "34572569437333",
+          "size": 27983568,
+          "shareUrl": "https://1024terabox.com/s/1okYanzPGZ9SEqSmSU92NBA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f24",
+        "name": "!important in CSS",
+        "type": "ivideo",
+        "sourceId": "jfx1ve90a6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jfx1ve90a6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_!important_in_CSS_jfx1ve90a6_1080p.mp4",
+          "fs_id": "87558634295082",
+          "size": 8603708,
+          "shareUrl": "https://1024terabox.com/s/1oSoDWSAHMQfyQRix8iXrxg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f25",
+        "name": "Inheritance",
+        "type": "ivideo",
+        "sourceId": "88n8jcb0kr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/88n8jcb0kr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_2_[OPTIONAL]/CSS_-_Part_2_[OPTIONAL]_Inheritance_88n8jcb0kr_1080p.mp4",
+          "fs_id": "905540292039643",
+          "size": 85614782,
+          "shareUrl": "https://1024terabox.com/s/10j8PntUk7jOAaqbP24tk3w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 3 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f29",
+        "name": "Box Model",
+        "type": "ivideo",
+        "sourceId": "57i7t6mn6q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/57i7t6mn6q.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Box_Model_57i7t6mn6q_1080p.mp4",
+          "fs_id": "785329963310694",
+          "size": 31005273,
+          "shareUrl": "https://1024terabox.com/s/1cqHGWKGXIi_PVziz2K-6aA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2a",
+        "name": "Height & Width",
+        "type": "ivideo",
+        "sourceId": "1hvqtq4qi6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1hvqtq4qi6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Height_&_Width_1hvqtq4qi6_1080p.mp4",
+          "fs_id": "342582195638110",
+          "size": 41361099,
+          "shareUrl": "https://1024terabox.com/s/1dfDC0GkVkbSAWSl_HvP8aA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2b",
+        "name": "Border",
+        "type": "ivideo",
+        "sourceId": "vr46h7arss",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vr46h7arss.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Border_vr46h7arss_1080p.mp4",
+          "fs_id": "1007905272659656",
+          "size": 48618236,
+          "shareUrl": "https://1024terabox.com/s/1xqTk7SdsEb_EWcK3hTSVuA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2c",
+        "name": "Border Radius",
+        "type": "ivideo",
+        "sourceId": "vnljlnowqd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vnljlnowqd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Border_Radius_vnljlnowqd_1080p.mp4",
+          "fs_id": "630453732242997",
+          "size": 37941969,
+          "shareUrl": "https://1024terabox.com/s/1Z0cHZvDRZdel4QxobRCzPQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2d",
+        "name": "Padding Property",
+        "type": "ivideo",
+        "sourceId": "9lnzqddapa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9lnzqddapa.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Padding_Property_9lnzqddapa_1080p.mp4",
+          "fs_id": "713054545586332",
+          "size": 82313000,
+          "shareUrl": "https://1024terabox.com/s/1nl3TjFnI_7XNZmlzUs6jSw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2e",
+        "name": "Margin Property",
+        "type": "ivideo",
+        "sourceId": "y5rfpa51a5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y5rfpa51a5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Margin_Property_y5rfpa51a5_1080p.mp4",
+          "fs_id": "1001751092726414",
+          "size": 44411923,
+          "shareUrl": "https://1024terabox.com/s/1Ng4ra-qnWQqJHEtO6aRfAw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f2f",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "1chwl2h00f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1chwl2h00f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Practice_Qs_1chwl2h00f_1080p.mp4",
+          "fs_id": "648208988118857",
+          "size": 34466327,
+          "shareUrl": "https://1024terabox.com/s/1G_kRcIMxBGS3BVh0Fl82YA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f30",
+        "name": "Display Property",
+        "type": "ivideo",
+        "sourceId": "bapl29tao4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bapl29tao4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Display_Property_bapl29tao4_1080p.mp4",
+          "fs_id": "320753026961131",
+          "size": 80223009,
+          "shareUrl": "https://1024terabox.com/s/18R0LsDXDoe1tz-U3VeQvQg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f32",
+        "name": "Inline-Block",
+        "type": "ivideo",
+        "sourceId": "dakmmqgrsa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dakmmqgrsa.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Inline-Block_dakmmqgrsa_1080p.mp4",
+          "fs_id": "942768541192850",
+          "size": 20479949,
+          "shareUrl": "https://1024terabox.com/s/1yuDQaa_hMuM7LNWEGhyjDA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f33",
+        "name": "Relative Units (Percentage)",
+        "type": "ivideo",
+        "sourceId": "godb0v5j0l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/godb0v5j0l.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Relative_Units_(Percentage)_godb0v5j0l_1080p.mp4",
+          "fs_id": "662985312857010",
+          "size": 34163092,
+          "shareUrl": "https://1024terabox.com/s/19NlJdcqgB3dsPPQlMgNRxA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f34",
+        "name": "Em & Rem in Units",
+        "type": "ivideo",
+        "sourceId": "sss4eko23t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sss4eko23t.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_3_[OPTIONAL]/CSS_-_Part_3_[OPTIONAL]_Em_&_Rem_in_Units_sss4eko23t_1080p.mp4",
+          "fs_id": "462775308528731",
+          "size": 62359364,
+          "shareUrl": "https://1024terabox.com/s/1oVw-6kmM-KgIM0gZYi5ZoA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 4 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f4baeead7bde067f37",
+        "name": "Alpha & Opacity",
+        "type": "ivideo",
+        "sourceId": "l4vwko4a53",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l4vwko4a53.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Alpha_&_Opacity_l4vwko4a53_1080p.mp4",
+          "fs_id": "1070036544834439",
+          "size": 46329401,
+          "shareUrl": "https://1024terabox.com/s/130x_t8NMVFoTbIBi5LEmeg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f38",
+        "name": "Transitions in CSS",
+        "type": "ivideo",
+        "sourceId": "8piberfhkv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8piberfhkv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Transitions_in_CSS_8piberfhkv_1080p.mp4",
+          "fs_id": "877088415503099",
+          "size": 62683179,
+          "shareUrl": "https://1024terabox.com/s/1srbd1mfo7FXHLANRvjq4_g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f39",
+        "name": "Transform - Rotate",
+        "type": "ivideo",
+        "sourceId": "s7u6dw7gji",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s7u6dw7gji.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Transform_-_Rotate_s7u6dw7gji_1080p.mp4",
+          "fs_id": "473029378211186",
+          "size": 30756997,
+          "shareUrl": "https://1024terabox.com/s/1BzhoprvoavcnnkICGzO3UA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3a",
+        "name": "Tranform - Scale",
+        "type": "ivideo",
+        "sourceId": "9wlv3pdgc5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9wlv3pdgc5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Tranform_-_Scale_9wlv3pdgc5_1080p.mp4",
+          "fs_id": "1057515795615189",
+          "size": 19351620,
+          "shareUrl": "https://1024terabox.com/s/1pUQ2bre9vZQ5_PsDV2o6YA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3b",
+        "name": "Transform - Translate",
+        "type": "ivideo",
+        "sourceId": "z1jpfn3dkq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z1jpfn3dkq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Transform_-_Translate_z1jpfn3dkq_1080p.mp4",
+          "fs_id": "987983262789546",
+          "size": 11798315,
+          "shareUrl": "https://1024terabox.com/s/1LzZqdubpMrYKuZBLBbOeMA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3c",
+        "name": "Transform - Skew",
+        "type": "ivideo",
+        "sourceId": "828hh9j9ob",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/828hh9j9ob.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Transform_-_Skew_828hh9j9ob_1080p.mp4",
+          "fs_id": "789803295413026",
+          "size": 18366889,
+          "shareUrl": "https://1024terabox.com/s/1Zfyckfdw8ri2JQVJtrYBDw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3d",
+        "name": "Box Shadow",
+        "type": "ivideo",
+        "sourceId": "9b9j46hxvv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9b9j46hxvv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Box_Shadow_9b9j46hxvv_1080p.mp4",
+          "fs_id": "1023965938975600",
+          "size": 18860243,
+          "shareUrl": "https://1024terabox.com/s/1o9C7ddLqjiodwwFWyqKVlQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3e",
+        "name": "Background Image",
+        "type": "ivideo",
+        "sourceId": "tifdwx087b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tifdwx087b.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Background_Image_tifdwx087b_1080p.mp4",
+          "fs_id": "1098367604414022",
+          "size": 35503728,
+          "shareUrl": "https://1024terabox.com/s/1TeF4ivhi6MC8N8QhDyD8Lg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f3f",
+        "name": "Card Hover Effect",
+        "type": "ivideo",
+        "sourceId": "wj6hpxm1kw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wj6hpxm1kw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Card_Hover_Effect_wj6hpxm1kw_1080p.mp4",
+          "fs_id": "167692415830601",
+          "size": 55527033,
+          "shareUrl": "https://1024terabox.com/s/1VfmjaQXsbnZOEg-HCM1l6w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f40",
+        "name": "Position Property",
+        "type": "ivideo",
+        "sourceId": "k0sgdk78uv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k0sgdk78uv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_4_[OPTIONAL]/CSS_-_Part_4_[OPTIONAL]_Position_Property_k0sgdk78uv_1080p.mp4",
+          "fs_id": "483061713259683",
+          "size": 89854787,
+          "shareUrl": "https://1024terabox.com/s/1Q4tkLd-QipzCIRSGbxR5TQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 5 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f3baeead7bde067ee4",
+        "name": "What is Flexbox?",
+        "type": "ivideo",
+        "sourceId": "owwonzcb8b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/owwonzcb8b.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_What_is_Flexbox__owwonzcb8b_1080p.mp4",
+          "fs_id": "306649815858783",
+          "size": 49718983,
+          "shareUrl": "https://1024terabox.com/s/1y0_FxMfqW-vp-LzO-DU7PA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ee5",
+        "name": "Display Flex",
+        "type": "ivideo",
+        "sourceId": "q37bwapho1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q37bwapho1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Display_Flex_q37bwapho1_1080p.mp4",
+          "fs_id": "384237339469226",
+          "size": 43854526,
+          "shareUrl": "https://1024terabox.com/s/1z2mjaGU__JijyMjSAIpGoQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ee6",
+        "name": "Flex Direction",
+        "type": "ivideo",
+        "sourceId": "4gxs2m35i4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4gxs2m35i4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Flex_Direction_4gxs2m35i4_1080p.mp4",
+          "fs_id": "613926152035746",
+          "size": 25390580,
+          "shareUrl": "https://1024terabox.com/s/12V6ogC6UWkUbi8C2_eFblA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ee7",
+        "name": "Justify Content",
+        "type": "ivideo",
+        "sourceId": "iawavn4opx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iawavn4opx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Justify_Content_iawavn4opx_1080p.mp4",
+          "fs_id": "300356999840287",
+          "size": 44738973,
+          "shareUrl": "https://1024terabox.com/s/1Gyv5F1xK4RNVatWw-oDYlQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ee8",
+        "name": "Flex Wrap",
+        "type": "ivideo",
+        "sourceId": "ap4oycwq70",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ap4oycwq70.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Flex_Wrap_ap4oycwq70_1080p.mp4",
+          "fs_id": "985249184555065",
+          "size": 25927158,
+          "shareUrl": "https://1024terabox.com/s/1Y5rEcta5VSlIGWJkQkEgeQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ee9",
+        "name": "Align Items",
+        "type": "ivideo",
+        "sourceId": "ebljd61kl7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ebljd61kl7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Align_Items_ebljd61kl7_1080p.mp4",
+          "fs_id": "609620475884996",
+          "size": 31242856,
+          "shareUrl": "https://1024terabox.com/s/1ANJjdaNFBFDlU8qfQWOEOw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067eea",
+        "name": "Align Content",
+        "type": "ivideo",
+        "sourceId": "6k6lfdc5ls",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6k6lfdc5ls.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Align_Content_6k6lfdc5ls_1080p.mp4",
+          "fs_id": "683691176611999",
+          "size": 19766647,
+          "shareUrl": "https://1024terabox.com/s/1KF0cQFgwgcMcs44ClOvtlQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067eeb",
+        "name": "Align Self",
+        "type": "ivideo",
+        "sourceId": "x430qvnhw5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x430qvnhw5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Align_Self_x430qvnhw5_1080p.mp4",
+          "fs_id": "973124852252778",
+          "size": 14133851,
+          "shareUrl": "https://1024terabox.com/s/1zPK2mpwOxESYRFtGeoAH-g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067eec",
+        "name": "Flex Sizing",
+        "type": "ivideo",
+        "sourceId": "9r21928ghv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9r21928ghv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Flex_Sizing_9r21928ghv_1080p.mp4",
+          "fs_id": "1022157144162583",
+          "size": 70262899,
+          "shareUrl": "https://1024terabox.com/s/1DpKw0AXQSQj5g2g0oNmabQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067eed",
+        "name": "Flex Shorthand",
+        "type": "ivideo",
+        "sourceId": "2wmsuhswn9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2wmsuhswn9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_5_[OPTIONAL]/CSS_-_Part_5_[OPTIONAL]_Flex_Shorthand_2wmsuhswn9_1080p.mp4",
+          "fs_id": "913784920777450",
+          "size": 19117114,
+          "shareUrl": "https://1024terabox.com/s/1FqQ4Og11qvVnxJ_d1Qzg_A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CSS - Part 6 [OPTIONAL]",
+    "learningPath": [
+      {
+        "id": "69e161f3baeead7bde067ef1",
+        "name": "What is Grid?",
+        "type": "ivideo",
+        "sourceId": "wj4f9efc0a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wj4f9efc0a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_What_is_Grid__wj4f9efc0a_1080p.mp4",
+          "fs_id": "706157079635442",
+          "size": 36596651,
+          "shareUrl": "https://1024terabox.com/s/13SyXVtIWcCL3a06LF18s3w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef2",
+        "name": "Grid Model",
+        "type": "ivideo",
+        "sourceId": "zwbxce3i1x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zwbxce3i1x.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Model_zwbxce3i1x_1080p.mp4",
+          "fs_id": "1095335079479177",
+          "size": 19106901,
+          "shareUrl": "https://1024terabox.com/s/1gKnVkn0vTzNaC2oTXSFklg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef3",
+        "name": "Grid Template",
+        "type": "ivideo",
+        "sourceId": "tmi1brn0p2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tmi1brn0p2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Template_tmi1brn0p2_1080p.mp4",
+          "fs_id": "853390040173947",
+          "size": 56010018,
+          "shareUrl": "https://1024terabox.com/s/1OXIcCNZzFm0K_wkY8Il0EQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef4",
+        "name": "Grid Template (repeat)",
+        "type": "ivideo",
+        "sourceId": "vtgrzkhnzc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vtgrzkhnzc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Template_(repeat)_vtgrzkhnzc_1080p.mp4",
+          "fs_id": "410690556719375",
+          "size": 33808718,
+          "shareUrl": "https://1024terabox.com/s/16jGhB8VzHfL27E4S3cRNnA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef5",
+        "name": "Grid Gaps",
+        "type": "ivideo",
+        "sourceId": "h7ilh83zhl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h7ilh83zhl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Gaps_h7ilh83zhl_1080p.mp4",
+          "fs_id": "94248250399073",
+          "size": 22457343,
+          "shareUrl": "https://1024terabox.com/s/1tiUi9C46mPkcR32mJYOENg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef6",
+        "name": "Grid Columns",
+        "type": "ivideo",
+        "sourceId": "j94ogl21tm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j94ogl21tm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Columns_j94ogl21tm_1080p.mp4",
+          "fs_id": "755637285293896",
+          "size": 32571860,
+          "shareUrl": "https://1024terabox.com/s/1X5O9rhviwwZH7EqVfPzVKw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef7",
+        "name": "Grid Rows",
+        "type": "ivideo",
+        "sourceId": "x1o4u4z3ns",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x1o4u4z3ns.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Rows_x1o4u4z3ns_1080p.mp4",
+          "fs_id": "240306580471407",
+          "size": 17226914,
+          "shareUrl": "https://1024terabox.com/s/1rK4wUPgNBene2D4ejxriAg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef8",
+        "name": "Grid Properties",
+        "type": "ivideo",
+        "sourceId": "29omceknlb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/29omceknlb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Grid_Properties_29omceknlb_1080p.mp4",
+          "fs_id": "137855884634334",
+          "size": 42048943,
+          "shareUrl": "https://1024terabox.com/s/1FkAygR7LTthXo-YIgUpwEA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f3baeead7bde067ef9",
+        "name": "Animation in CSS",
+        "type": "ivideo",
+        "sourceId": "o654lp1pzf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o654lp1pzf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Animation_in_CSS_o654lp1pzf_1080p.mp4",
+          "fs_id": "634413063313854",
+          "size": 69638514,
+          "shareUrl": "https://1024terabox.com/s/1EHtnq5Myl8-8DLH7m10I0A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067efa",
+        "name": "Animation Shorthand",
+        "type": "ivideo",
+        "sourceId": "4l6k7hvxa3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4l6k7hvxa3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Animation_Shorthand_4l6k7hvxa3_1080p.mp4",
+          "fs_id": "162709283979430",
+          "size": 17788880,
+          "shareUrl": "https://1024terabox.com/s/1I_EyT-UJjRMgrtNODnuzag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067efb",
+        "name": "% in Animation",
+        "type": "ivideo",
+        "sourceId": "9uwboqjx3j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9uwboqjx3j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_%_in_Animation_9uwboqjx3j_1080p.mp4",
+          "fs_id": "336433899084712",
+          "size": 11349999,
+          "shareUrl": "https://1024terabox.com/s/1Co8nbacvYGbIPUrrWSG0ZA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067efc",
+        "name": "Media Queries",
+        "type": "ivideo",
+        "sourceId": "htyr1en6ds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/htyr1en6ds.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Media_Queries_htyr1en6ds_1080p.mp4",
+          "fs_id": "715203280296692",
+          "size": 80739782,
+          "shareUrl": "https://1024terabox.com/s/17SLhB4SRxyqfJdE3cdbPDQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067efd",
+        "name": "Media Queries (Orientation)",
+        "type": "ivideo",
+        "sourceId": "orsyg7p2n4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/orsyg7p2n4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Media_Queries_(Orientation)_orsyg7p2n4_1080p.mp4",
+          "fs_id": "106328544516633",
+          "size": 8318841,
+          "shareUrl": "https://1024terabox.com/s/1EVm3mjnH5M_N-yaltDrU8w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067efe",
+        "name": "Pet Adoption Page",
+        "type": "ivideo",
+        "sourceId": "vb48hemovw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vb48hemovw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_Pet_Adoption_Page_vb48hemovw_1080p.mp4",
+          "fs_id": "706214865927816",
+          "size": 73780713,
+          "shareUrl": "https://1024terabox.com/s/1AUYoMtvlq4gPwQgkOdtsNQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "69e161f4baeead7bde067f00",
+        "name": "z-index",
+        "type": "ivideo",
+        "sourceId": "2hdqzl1jkg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2hdqzl1jkg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CSS_-_Part_6_[OPTIONAL]/CSS_-_Part_6_[OPTIONAL]_z-index_2hdqzl1jkg_1080p.mp4",
+          "fs_id": "568155491176264",
+          "size": 59310717,
+          "shareUrl": "https://1024terabox.com/s/1GCI59Mc0w0Lhp-QNeAR1xQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "CI/CD - Complete Tutorial",
+    "learningPath": [
+      {
+        "id": "6a467513f9f632b8d20fca8d",
+        "name": "Continuous Integration & Continuous Delivery",
+        "type": "ivideo",
+        "sourceId": "8crt8w2gsy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8crt8w2gsy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Continuous_Integration_&_Continuous_Delivery_8crt8w2gsy_1080p.mp4",
+          "fs_id": "179548703612982",
+          "size": 98457369,
+          "shareUrl": "https://1024terabox.com/s/12tplx-CPeUOAXrsIVp9CvA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467513f9f632b8d20fca8e",
+        "name": "CI/CD Pipeline",
+        "type": "ivideo",
+        "sourceId": "w4z9tfosq8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w4z9tfosq8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_CI_CD_Pipeline_w4z9tfosq8_1080p.mp4",
+          "fs_id": "833898221815305",
+          "size": 35757615,
+          "shareUrl": "https://1024terabox.com/s/16Nu6fhaqZIJs9BAN9qVgFg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467513f9f632b8d20fca8f",
+        "name": "CI/CD Tools",
+        "type": "ivideo",
+        "sourceId": "esisqwfffu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/esisqwfffu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_CI_CD_Tools_esisqwfffu_1080p.mp4",
+          "fs_id": "1024667109969713",
+          "size": 19388629,
+          "shareUrl": "https://1024terabox.com/s/14M8AqeuBiMjiR8FHJDBzlw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467513f9f632b8d20fca90",
+        "name": "Working with Github Actions",
+        "type": "ivideo",
+        "sourceId": "pav80274ep",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pav80274ep.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Working_with_Github_Actions_pav80274ep_1080p.mp4",
+          "fs_id": "672220157216239",
+          "size": 54303543,
+          "shareUrl": "https://1024terabox.com/s/17e9u8KwBwmKYKG6zdjf3Dw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca91",
+        "name": ".yaml for Automation",
+        "type": "ivideo",
+        "sourceId": "2kg1uc2kp1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2kg1uc2kp1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_.yaml_for_Automation_2kg1uc2kp1_1080p.mp4",
+          "fs_id": "811054448875918",
+          "size": 65000835,
+          "shareUrl": "https://1024terabox.com/s/1gWGKSQSlRS8IJytvcAtZnA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca92",
+        "name": "Set up JS project with Jest",
+        "type": "ivideo",
+        "sourceId": "airtvqz0nl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/airtvqz0nl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Set_up_JS_project_with_Jest_airtvqz0nl_1080p.mp4",
+          "fs_id": "368453238906719",
+          "size": 69584431,
+          "shareUrl": "https://1024terabox.com/s/1yN6cQkTuSB_xbUmoun5Apg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca93",
+        "name": "Our first CI setup",
+        "type": "ivideo",
+        "sourceId": "o9qadxn0b9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o9qadxn0b9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Our_first_CI_setup_o9qadxn0b9_1080p.mp4",
+          "fs_id": "689193111652055",
+          "size": 73596482,
+          "shareUrl": "https://1024terabox.com/s/1ePlp35XG8e53a60myhIn3g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca94",
+        "name": "CI/CD for MERN Project",
+        "type": "ivideo",
+        "sourceId": "zflmrxx4y1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zflmrxx4y1.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_CI_CD_for_MERN_Project_zflmrxx4y1_1080p.mp4",
+          "fs_id": "639648363209589",
+          "size": 36369389,
+          "shareUrl": "https://1024terabox.com/s/1WOkGDbt9mjucL8eY1Aw-Sg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca95",
+        "name": "Set up AWS EC2",
+        "type": "ivideo",
+        "sourceId": "6pmr00jpa5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6pmr00jpa5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Set_up_AWS_EC2_6pmr00jpa5_1080p.mp4",
+          "fs_id": "756232339477708",
+          "size": 87639910,
+          "shareUrl": "https://1024terabox.com/s/1IM0Dk3ICDcOawQXPPmb5sw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca96",
+        "name": "CI/CD for Backend Module",
+        "type": "ivideo",
+        "sourceId": "91wyv3zh0x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/91wyv3zh0x.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_CI_CD_for_Backend_Module_91wyv3zh0x_1080p.mp4",
+          "fs_id": "1045674065893003",
+          "size": 150434164,
+          "shareUrl": "https://1024terabox.com/s/1-1sVeJnwkFAqcKXP4XuWSw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca97",
+        "name": "Automate .env backup",
+        "type": "ivideo",
+        "sourceId": "503f3z0dun",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/503f3z0dun.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Automate_.env_backup_503f3z0dun_1080p.mp4",
+          "fs_id": "927146922257537",
+          "size": 61113565,
+          "shareUrl": "https://1024terabox.com/s/1HmcjY9-luY-0KiANIetvfA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca98",
+        "name": "CI/CD for Frontend Module",
+        "type": "ivideo",
+        "sourceId": "tbrd2mf9qj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tbrd2mf9qj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_CI_CD_for_Frontend_Module_tbrd2mf9qj_1080p.mp4",
+          "fs_id": "762273721397088",
+          "size": 162753690,
+          "shareUrl": "https://1024terabox.com/s/1dH1dR0__ZoY-EKB9J8bhMA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca99",
+        "name": "Workflow Summary",
+        "type": "ivideo",
+        "sourceId": "rsuknoi6zi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rsuknoi6zi.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/CI_CD_-_Complete_Tutorial/CI_CD_-_Complete_Tutorial_Workflow_Summary_rsuknoi6zi_1080p.mp4",
+          "fs_id": "629324373529372",
+          "size": 49051549,
+          "shareUrl": "https://1024terabox.com/s/1iFkmk-junc_eCjfUrmixBw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Kubernetes",
+    "learningPath": [
+      {
+        "id": "6a467514f9f632b8d20fca9a",
+        "name": "What is Kubernetes?",
+        "type": "ivideo",
+        "sourceId": "3mp70ohtzg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3mp70ohtzg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_What_is_Kubernetes__3mp70ohtzg_1080p.mp4",
+          "fs_id": "28973127899258",
+          "size": 100627051,
+          "shareUrl": "https://1024terabox.com/s/1-dScRxgps8NfYOtPT2aRmA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9b",
+        "name": "Components - Node & Pod",
+        "type": "ivideo",
+        "sourceId": "z631i4u1wf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z631i4u1wf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Components_-_Node_&_Pod_z631i4u1wf_1080p.mp4",
+          "fs_id": "835955636417745",
+          "size": 53600885,
+          "shareUrl": "https://1024terabox.com/s/1rR_f0wc_eDDfPVMbAFjE1A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9c",
+        "name": "Service & Ingress",
+        "type": "ivideo",
+        "sourceId": "nwosss0ctg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nwosss0ctg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Service_&_Ingress_nwosss0ctg_1080p.mp4",
+          "fs_id": "806264305731555",
+          "size": 47145152,
+          "shareUrl": "https://1024terabox.com/s/1kuYEBLARB7nQWTajRVLEew",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9d",
+        "name": "ConfigMap & Secret",
+        "type": "ivideo",
+        "sourceId": "1vec5rx518",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1vec5rx518.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_ConfigMap_&_Secret_1vec5rx518_1080p.mp4",
+          "fs_id": "467514235214141",
+          "size": 36934040,
+          "shareUrl": "https://1024terabox.com/s/1zmkhK3kvZTfC3lKMpaPtEA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9e",
+        "name": "Volumes",
+        "type": "ivideo",
+        "sourceId": "n94jnm15z2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n94jnm15z2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Volumes_n94jnm15z2_1080p.mp4",
+          "fs_id": "321662115460416",
+          "size": 16123083,
+          "shareUrl": "https://1024terabox.com/s/1BUrSlfukw27Hoq3asnw5xA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fca9f",
+        "name": "Deployment & StatefulSet",
+        "type": "ivideo",
+        "sourceId": "lv2a64o6ay",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lv2a64o6ay.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Deployment_&_StatefulSet_lv2a64o6ay_1080p.mp4",
+          "fs_id": "500040933657783",
+          "size": 59348764,
+          "shareUrl": "https://1024terabox.com/s/1MzCbVcWZ1SObbBjYfsstJA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa0",
+        "name": "Kubernetes Architecture",
+        "type": "ivideo",
+        "sourceId": "6t3v2v7yr8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6t3v2v7yr8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Kubernetes_Architecture_6t3v2v7yr8_1080p.mp4",
+          "fs_id": "743514891138684",
+          "size": 131922508,
+          "shareUrl": "https://1024terabox.com/s/1gTSmhJeRg4eJfQbyTY7fzg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa1",
+        "name": "Summary",
+        "type": "ivideo",
+        "sourceId": "godcaqbpng",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/godcaqbpng.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Summary_godcaqbpng_1080p.mp4",
+          "fs_id": "12397528676594",
+          "size": 18291605,
+          "shareUrl": "https://1024terabox.com/s/1SeiryC9Sn4rP3jxblJsNFQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa2",
+        "name": "Local Setup - Minikube & Kubectl",
+        "type": "ivideo",
+        "sourceId": "z7axsskqcp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z7axsskqcp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Local_Setup_-_Minikube_&_Kubectl_z7axsskqcp_1080p.mp4",
+          "fs_id": "92693147491516",
+          "size": 54097812,
+          "shareUrl": "https://1024terabox.com/s/1CBE6w6puLnG7LBtsnJUMvA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa3",
+        "name": "Installation",
+        "type": "ivideo",
+        "sourceId": "e6s5jtnt7k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e6s5jtnt7k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Installation_e6s5jtnt7k_1080p.mp4",
+          "fs_id": "132336958007799",
+          "size": 14631826,
+          "shareUrl": "https://1024terabox.com/s/1hj8gVTfnsj1uzz4juxOpvg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa4",
+        "name": "Kubectl Commands [GET]",
+        "type": "ivideo",
+        "sourceId": "fft61hqxow",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fft61hqxow.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Kubectl_Commands_[GET]_fft61hqxow_1080p.mp4",
+          "fs_id": "949620580455924",
+          "size": 54801899,
+          "shareUrl": "https://1024terabox.com/s/1zOhnPV_r36p6tpZN8VGq0A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa5",
+        "name": "CREATE Command",
+        "type": "ivideo",
+        "sourceId": "qrxlnkafc8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qrxlnkafc8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_CREATE_Command_qrxlnkafc8_1080p.mp4",
+          "fs_id": "12653159311925",
+          "size": 116109759,
+          "shareUrl": "https://1024terabox.com/s/1gsbk6__3XuBVTfg0myeX6w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa6",
+        "name": "Debugging Commands [LOGS & EXEC]",
+        "type": "ivideo",
+        "sourceId": "ehmihzztge",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ehmihzztge.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Debugging_Commands_[LOGS_&_EXEC]_ehmihzztge_1080p.mp4",
+          "fs_id": "1039470133741371",
+          "size": 86299778,
+          "shareUrl": "https://1024terabox.com/s/1gkhUHMRQRkKMRwbOggfkdA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa7",
+        "name": "APPLY Command",
+        "type": "ivideo",
+        "sourceId": "qk0y7ag0ar",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qk0y7ag0ar.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_APPLY_Command_qk0y7ag0ar_1080p.mp4",
+          "fs_id": "178718791263778",
+          "size": 36144667,
+          "shareUrl": "https://1024terabox.com/s/1maECQaImvDIkdP1qnp06RQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa8",
+        "name": "YAML Configurations",
+        "type": "ivideo",
+        "sourceId": "ilv1peo7kb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ilv1peo7kb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_YAML_Configurations_ilv1peo7kb_1080p.mp4",
+          "fs_id": "483320045794092",
+          "size": 201372653,
+          "shareUrl": "https://1024terabox.com/s/1DszQiYkpc3iGzyrLu33NXA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaa9",
+        "name": "Status in Configuration",
+        "type": "ivideo",
+        "sourceId": "09g07byfcz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/09g07byfcz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Status_in_Configuration_09g07byfcz_1080p.mp4",
+          "fs_id": "338591447432708",
+          "size": 27034611,
+          "shareUrl": "https://1024terabox.com/s/1XPtPFmm19Onar2GU9Trv7A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaaa",
+        "name": "Deploying mongo-app in K8s",
+        "type": "ivideo",
+        "sourceId": "5n02a9q5ro",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5n02a9q5ro.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Deploying_mongo-app_in_K8s_5n02a9q5ro_1080p.mp4",
+          "fs_id": "593093869204791",
+          "size": 91117012,
+          "shareUrl": "https://1024terabox.com/s/1GrNf0T2j5ILzy7hztpbQsw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaab",
+        "name": "Configuring Mongodb",
+        "type": "ivideo",
+        "sourceId": "xtggxovf3w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xtggxovf3w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Configuring_Mongodb_xtggxovf3w_1080p.mp4",
+          "fs_id": "957357812204965",
+          "size": 114189618,
+          "shareUrl": "https://1024terabox.com/s/1OcldOJnUlJ077VYbWo1SMA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaac",
+        "name": "Configuring Mongo Express",
+        "type": "ivideo",
+        "sourceId": "eor2s75hmg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eor2s75hmg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Configuring_Mongo_Express_eor2s75hmg_1080p.mp4",
+          "fs_id": "264233316452850",
+          "size": 112201815,
+          "shareUrl": "https://1024terabox.com/s/1YWuZxT69m00kjL5lPLXldA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaad",
+        "name": "Namespace in K8s",
+        "type": "ivideo",
+        "sourceId": "wzsw7szp05",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wzsw7szp05.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Namespace_in_K8s_wzsw7szp05_1080p.mp4",
+          "fs_id": "743556923563977",
+          "size": 58884715,
+          "shareUrl": "https://1024terabox.com/s/1aFQXscnn2SMHmdIsen-_XA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaae",
+        "name": "Namespace Use cases",
+        "type": "ivideo",
+        "sourceId": "yfkjvoxuvw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yfkjvoxuvw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Namespace_Use_cases_yfkjvoxuvw_1080p.mp4",
+          "fs_id": "592642425041940",
+          "size": 86003970,
+          "shareUrl": "https://1024terabox.com/s/1yabXDGi6Db7gPiy-Ro96YA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcaaf",
+        "name": "Custom Namespaces",
+        "type": "ivideo",
+        "sourceId": "vbwb6jzsnw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vbwb6jzsnw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Custom_Namespaces_vbwb6jzsnw_1080p.mp4",
+          "fs_id": "357969084289426",
+          "size": 37801697,
+          "shareUrl": "https://1024terabox.com/s/1Ke8Pj1gK6HvyvbxNyn2B7A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467514f9f632b8d20fcab0",
+        "name": "Scope",
+        "type": "ivideo",
+        "sourceId": "4isqcadhys",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4isqcadhys.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Scope_4isqcadhys_1080p.mp4",
+          "fs_id": "163521979892066",
+          "size": 41349110,
+          "shareUrl": "https://1024terabox.com/s/1TU8E1J6-wSB0K3W0-cGK-A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab1",
+        "name": "Kubens Installation",
+        "type": "ivideo",
+        "sourceId": "stk2l4ehbs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/stk2l4ehbs.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Kubens_Installation_stk2l4ehbs_1080p.mp4",
+          "fs_id": "1067655408766540",
+          "size": 15785751,
+          "shareUrl": "https://1024terabox.com/s/1jhM8Zjwmlqp8A2dTaQsd1g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab2",
+        "name": "Ingress in K8s",
+        "type": "ivideo",
+        "sourceId": "c2flkbv4ec",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c2flkbv4ec.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Ingress_in_K8s_c2flkbv4ec_1080p.mp4",
+          "fs_id": "936643844397100",
+          "size": 50507476,
+          "shareUrl": "https://1024terabox.com/s/1EKV7cAdCKRVCP0Aggbenvg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab3",
+        "name": "Ingress Controller",
+        "type": "ivideo",
+        "sourceId": "p5ny8kj7bk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p5ny8kj7bk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Ingress_Controller_p5ny8kj7bk_1080p.mp4",
+          "fs_id": "958173604347798",
+          "size": 40880385,
+          "shareUrl": "https://1024terabox.com/s/1ttFpGU8vVoP4VGFENoDtMw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab4",
+        "name": "Configure app with Ingress",
+        "type": "ivideo",
+        "sourceId": "nzpgn263ao",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nzpgn263ao.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Configure_app_with_Ingress_nzpgn263ao_1080p.mp4",
+          "fs_id": "233864597682941",
+          "size": 101269931,
+          "shareUrl": "https://1024terabox.com/s/1BU2tF9if2gVk2HYzbSnPMw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab5",
+        "name": "Helm - Package Manager",
+        "type": "ivideo",
+        "sourceId": "hvlkjssuvv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hvlkjssuvv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Helm_-_Package_Manager_hvlkjssuvv_1080p.mp4",
+          "fs_id": "897098599005386",
+          "size": 118651894,
+          "shareUrl": "https://1024terabox.com/s/1lS-F1XKJjjFgYMqKLNm7Yg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6a467515f9f632b8d20fcab6",
+        "name": "Helm chart structure",
+        "type": "ivideo",
+        "sourceId": "tzfb8qi3df",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tzfb8qi3df.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Kubernetes/Kubernetes_Helm_chart_structure_tzfb8qi3df_1080p.mp4",
+          "fs_id": "301606799691507",
+          "size": 75865129,
+          "shareUrl": "https://1024terabox.com/s/19Dzp54V5rni5h4wFuTL_dA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  }
+]
