@@ -1,0 +1,4365 @@
+[
+  {
+    "category": "Course Introduction",
+    "learningPath": [
+      {
+        "id": "68fa3aa0e0d9105c1c0e38e4",
+        "name": "Path to Placement",
+        "type": "ivideo",
+        "sourceId": "xuzb9xio1t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xuzb9xio1t.m3u8"
+      },
+      {
+        "id": "68fa3aa0e0d9105c1c0e38e5",
+        "name": "What will you learn?",
+        "type": "ivideo",
+        "sourceId": "cv5z9skt18",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cv5z9skt18.m3u8"
+      },
+      {
+        "id": "68fa3aa0e0d9105c1c0e38e6",
+        "name": "Prerequisites",
+        "type": "ivideo",
+        "sourceId": "l4cgrlbf60",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l4cgrlbf60.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Prerequisites - Installation Resources",
+    "learningPath": [
+      {
+        "id": "68fa3aa0e0d9105c1c0e38e7",
+        "name": "What to Install? (on your laptop/computer)",
+        "type": "ivideo",
+        "sourceId": "au23x1utq4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/au23x1utq4.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38e8",
+        "name": "Installation Resources",
+        "type": "pdf",
+        "pdf_name": "Installation Resources.pdf",
+        "pdf": "pdf/Installation Resources.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Installation Resources.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Flowcharts & Pseudocodes",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e38e9",
+        "name": "What are Flowcharts?",
+        "type": "ivideo",
+        "sourceId": "mqmoqg93er",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mqmoqg93er.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ea",
+        "name": "Flowchart Components",
+        "type": "ivideo",
+        "sourceId": "d3c9uzve18",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d3c9uzve18.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38eb",
+        "name": "Sum of 2 Numbers",
+        "type": "ivideo",
+        "sourceId": "kyi4sxcsv8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kyi4sxcsv8.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ec",
+        "name": "Calculate Simple Interest",
+        "type": "ivideo",
+        "sourceId": "i7imncqf0f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i7imncqf0f.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ed",
+        "name": "Max of 3 Numbers",
+        "type": "ivideo",
+        "sourceId": "j3gfbsw1fv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j3gfbsw1fv.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ee",
+        "name": "Find if a Number is Prime or not",
+        "type": "ivideo",
+        "sourceId": "m40g1utp4g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m40g1utp4g.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ef",
+        "name": "Sum of first N natural numbers",
+        "type": "ivideo",
+        "sourceId": "bi58ynt8gr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bi58ynt8gr.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f0",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Question File (3).pdf",
+        "pdf": "pdf/Question File (3).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Question File (3).pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f1",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Solution File (3).pdf",
+        "pdf": "pdf/Solution File (3).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Solution File (3).pdf"
+      }
+    ]
+  },
+  {
+    "category": "Variables & Data Types",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f2",
+        "name": "Creating a Java File",
+        "type": "ivideo",
+        "sourceId": "8m3rmku0xo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8m3rmku0xo.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f3",
+        "name": "Boilerplate Code",
+        "type": "ivideo",
+        "sourceId": "1htiwpm9eh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1htiwpm9eh.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f4",
+        "name": "Output in Java",
+        "type": "ivideo",
+        "sourceId": "7aguoe0qbu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7aguoe0qbu.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f5",
+        "name": "Print a Pattern",
+        "type": "ivideo",
+        "sourceId": "pkump2rrze",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pkump2rrze.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f6",
+        "name": "Variables in Java",
+        "type": "ivideo",
+        "sourceId": "6s3f80w608",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6s3f80w608.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f7",
+        "name": "Data Types in Java",
+        "type": "ivideo",
+        "sourceId": "cp81h30jrp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cp81h30jrp.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f8",
+        "name": "Sum of a & b",
+        "type": "ivideo",
+        "sourceId": "y1ggbsz245",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y1ggbsz245.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38f9",
+        "name": "Comments in Java",
+        "type": "ivideo",
+        "sourceId": "aiawdxajt6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/aiawdxajt6.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38fa",
+        "name": "Input in Java",
+        "type": "ivideo",
+        "sourceId": "tz0rl3seid",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tz0rl3seid.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38fb",
+        "name": "Sum of a & b (Input from User)",
+        "type": "ivideo",
+        "sourceId": "epx38voeds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/epx38voeds.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38fc",
+        "name": "Product of a & b",
+        "type": "ivideo",
+        "sourceId": "cws13xn297",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cws13xn297.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38fd",
+        "name": "Area of a Circle",
+        "type": "ivideo",
+        "sourceId": "e8ljot0wzq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e8ljot0wzq.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38fe",
+        "name": "Type Conversion",
+        "type": "ivideo",
+        "sourceId": "pogczpszvy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pogczpszvy.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e38ff",
+        "name": "Type Casting",
+        "type": "ivideo",
+        "sourceId": "sup9x6x7mf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sup9x6x7mf.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3900",
+        "name": "Type Promotion in Expression",
+        "type": "ivideo",
+        "sourceId": "cpq5ju6ssc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cpq5ju6ssc.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3901",
+        "name": "How does Java code run?",
+        "type": "ivideo",
+        "sourceId": "h5pk1t6pf4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h5pk1t6pf4.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3902",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Variables Questions (1).pdf",
+        "pdf": "pdf/Variables Questions (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Variables Questions (1).pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3903",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Variables Solutions.pdf",
+        "pdf": "pdf/Variables Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Variables Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Operators",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e3904",
+        "name": "Types of Operators",
+        "type": "ivideo",
+        "sourceId": "reom4d9rsz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/reom4d9rsz.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3905",
+        "name": "Arithmetic Operators",
+        "type": "ivideo",
+        "sourceId": "5al3le0zps",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5al3le0zps.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3906",
+        "name": "Unary Operators",
+        "type": "ivideo",
+        "sourceId": "k8sq4jee9z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k8sq4jee9z.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3907",
+        "name": "Relational Operators",
+        "type": "ivideo",
+        "sourceId": "y8jozrlvde",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y8jozrlvde.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3908",
+        "name": "Logical Operators",
+        "type": "ivideo",
+        "sourceId": "3d55tk2loq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3d55tk2loq.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3909",
+        "name": "Assignment Operators",
+        "type": "ivideo",
+        "sourceId": "c75teso0j5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c75teso0j5.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e390a",
+        "name": "Reading Material : Operator Precedence",
+        "type": "pdf",
+        "pdf_name": "Operator Precedence_V1.1.pdf",
+        "pdf": "pdf/Operator Precedence_V1.1.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Operator Precedence_V1.1.pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e390b",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Operators Questions.pdf",
+        "pdf": "pdf/Operators Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Operators Questions.pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e390c",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Operators Solutions.pdf",
+        "pdf": "pdf/Operators Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Operators Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Conditional Statements",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e390d",
+        "name": "if else",
+        "type": "ivideo",
+        "sourceId": "xelobnt8ck",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xelobnt8ck.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e390e",
+        "name": "Print the largest of 2 numbers",
+        "type": "ivideo",
+        "sourceId": "n8kna1apb4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n8kna1apb4.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e390f",
+        "name": "Print if number is Odd or Even",
+        "type": "ivideo",
+        "sourceId": "oytaq3wvqd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oytaq3wvqd.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3910",
+        "name": "else if",
+        "type": "ivideo",
+        "sourceId": "9b4kwg7c5h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9b4kwg7c5h.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3911",
+        "name": "Income Tax Calculator",
+        "type": "ivideo",
+        "sourceId": "134zvl89o4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/134zvl89o4.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3912",
+        "name": "Print the largest of 3 numbers",
+        "type": "ivideo",
+        "sourceId": "qxek4svbky",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qxek4svbky.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3913",
+        "name": "Ternary Operator",
+        "type": "ivideo",
+        "sourceId": "v4siweuu3m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v4siweuu3m.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3914",
+        "name": "Check if a student will Pass or Fail",
+        "type": "ivideo",
+        "sourceId": "x1djge2lzy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x1djge2lzy.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3915",
+        "name": "Switch statement",
+        "type": "ivideo",
+        "sourceId": "fvpya51mud",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fvpya51mud.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3916",
+        "name": "Calculator",
+        "type": "ivideo",
+        "sourceId": "7qe0hqxgsc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7qe0hqxgsc.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3917",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Conditional Questions.pdf",
+        "pdf": "pdf/Conditional Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Conditional Questions.pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3918",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Conditional Solutions.pdf",
+        "pdf": "pdf/Conditional Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Conditional Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Loops (Flow Control)",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e3919",
+        "name": "Loops Basics",
+        "type": "ivideo",
+        "sourceId": "patiz896ql",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/patiz896ql.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391a",
+        "name": "while Loop",
+        "type": "ivideo",
+        "sourceId": "o3wvc7z40d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o3wvc7z40d.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391b",
+        "name": "Print numbers from 1 to 10",
+        "type": "ivideo",
+        "sourceId": "uia5bqv19j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uia5bqv19j.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391c",
+        "name": "Print numbers from 1 to n",
+        "type": "ivideo",
+        "sourceId": "49ce69g4og",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/49ce69g4og.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391d",
+        "name": "Sum of first N natural numbers",
+        "type": "ivideo",
+        "sourceId": "abqynd0wnl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/abqynd0wnl.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391e",
+        "name": "for Loop",
+        "type": "ivideo",
+        "sourceId": "1hq1n32ksu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1hq1n32ksu.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e391f",
+        "name": "Print Square pattern",
+        "type": "ivideo",
+        "sourceId": "20vmwi0hd3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/20vmwi0hd3.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3920",
+        "name": "Print reverse of a number",
+        "type": "ivideo",
+        "sourceId": "s777t2sgrb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s777t2sgrb.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3921",
+        "name": "Reverse the given number",
+        "type": "ivideo",
+        "sourceId": "2x7ji0yq1u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2x7ji0yq1u.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3922",
+        "name": "do while Loop",
+        "type": "ivideo",
+        "sourceId": "pjaajd3mhr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pjaajd3mhr.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3923",
+        "name": "Break statement",
+        "type": "ivideo",
+        "sourceId": "7ixnwhysep",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ixnwhysep.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3924",
+        "name": "Question - break keyword",
+        "type": "ivideo",
+        "sourceId": "ygjjha2tpr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ygjjha2tpr.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3925",
+        "name": "Continue statement",
+        "type": "ivideo",
+        "sourceId": "09zmb9wyko",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/09zmb9wyko.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3926",
+        "name": "Question - continue keyword",
+        "type": "ivideo",
+        "sourceId": "a2q04l3br3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a2q04l3br3.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3927",
+        "name": "Check if a number is Prime or not",
+        "type": "ivideo",
+        "sourceId": "aka2266cy1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/aka2266cy1.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3928",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Loops Questions.pdf",
+        "pdf": "pdf/Loops Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Loops Questions.pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3929",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Loops Solutions.pdf",
+        "pdf": "pdf/Loops Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Loops Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Patterns (Part I)",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e392a",
+        "name": "Intro to Nested Loops (Star Pattern)",
+        "type": "ivideo",
+        "sourceId": "86c3r29yj9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/86c3r29yj9.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e392b",
+        "name": "Inverted Star Pattern",
+        "type": "ivideo",
+        "sourceId": "zzbiuk1siz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zzbiuk1siz.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e392c",
+        "name": "Half Pyramid Pattern",
+        "type": "ivideo",
+        "sourceId": "wut18bxwce",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wut18bxwce.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e392d",
+        "name": "Character Pattern",
+        "type": "ivideo",
+        "sourceId": "x0nidy2ruw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/x0nidy2ruw.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e392e",
+        "name": "Special Note",
+        "type": "ivideo",
+        "sourceId": "q37p2sqmdt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q37p2sqmdt.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e392f",
+        "name": "Looking Forward - Advanced Patterns",
+        "type": "pdf",
+        "pdf_name": "2-Advanced Patterns Note.pdf",
+        "pdf": "pdf/2-Advanced Patterns Note.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/2-Advanced Patterns Note.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Functions & Methods",
+    "learningPath": [
+      {
+        "id": "68fa3aa1e0d9105c1c0e3930",
+        "name": "Introduction to Functions",
+        "type": "ivideo",
+        "sourceId": "427fwnme12",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/427fwnme12.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3931",
+        "name": "Syntax - Function Code Demo",
+        "type": "ivideo",
+        "sourceId": "y47kmjc8hh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y47kmjc8hh.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3932",
+        "name": "Syntax with Parameters",
+        "type": "ivideo",
+        "sourceId": "otcc1a2c0a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/otcc1a2c0a.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3933",
+        "name": "Parameters v/s Arguments",
+        "type": "ivideo",
+        "sourceId": "u55u9tgkrq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u55u9tgkrq.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3934",
+        "name": "What happens in memory? (Call Stack)",
+        "type": "ivideo",
+        "sourceId": "gn90nx913w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gn90nx913w.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3935",
+        "name": "Call by Value (in Java)",
+        "type": "ivideo",
+        "sourceId": "gkbmw36uqn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gkbmw36uqn.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3936",
+        "name": "Product of a & b",
+        "type": "ivideo",
+        "sourceId": "owyk91pwuf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/owyk91pwuf.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3937",
+        "name": "Find Factorial",
+        "type": "ivideo",
+        "sourceId": "1v8gapehya",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1v8gapehya.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3938",
+        "name": "Find Binomial Coefficient",
+        "type": "ivideo",
+        "sourceId": "okx53wlj9l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/okx53wlj9l.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3939",
+        "name": "Inbuilt v/s User defined Methods",
+        "type": "ivideo",
+        "sourceId": "67p79q80u7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/67p79q80u7.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393a",
+        "name": "Function Overloading",
+        "type": "ivideo",
+        "sourceId": "pfwna0ldyh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pfwna0ldyh.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393b",
+        "name": "Overloading using Parameters",
+        "type": "ivideo",
+        "sourceId": "45nqj0b6ot",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/45nqj0b6ot.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393c",
+        "name": "Overloading using Data Types",
+        "type": "ivideo",
+        "sourceId": "3et5h9ywdk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3et5h9ywdk.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393d",
+        "name": "Check if a number is Prime or not",
+        "type": "ivideo",
+        "sourceId": "q4en1pju54",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q4en1pju54.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393e",
+        "name": "Check Prime (Optimized)",
+        "type": "ivideo",
+        "sourceId": "lwpf5gaxh2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lwpf5gaxh2.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e393f",
+        "name": "Primes in Range",
+        "type": "ivideo",
+        "sourceId": "vvemh4p8nu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vvemh4p8nu.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3940",
+        "name": "Binary to Decimal",
+        "type": "ivideo",
+        "sourceId": "anhtby677z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/anhtby677z.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3941",
+        "name": "Code - Binary to Decimal",
+        "type": "ivideo",
+        "sourceId": "w6bm8n6znf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w6bm8n6znf.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3942",
+        "name": "Decimal to Binary",
+        "type": "ivideo",
+        "sourceId": "tescgz3p60",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tescgz3p60.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3943",
+        "name": "Code - Decimal to Binary",
+        "type": "ivideo",
+        "sourceId": "ay2nuoh8lv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ay2nuoh8lv.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3944",
+        "name": "Method Scope",
+        "type": "ivideo",
+        "sourceId": "zzfxsuy64n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zzfxsuy64n.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3945",
+        "name": "Block Scope",
+        "type": "ivideo",
+        "sourceId": "s0lyb9rk8z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s0lyb9rk8z.m3u8"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3946",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Functions Questions.pdf",
+        "pdf": "pdf/Functions Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Functions Questions.pdf"
+      },
+      {
+        "id": "68fa3aa1e0d9105c1c0e3947",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Functions Solutions.pdf",
+        "pdf": "pdf/Functions Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Functions Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Patterns (Part II) - Advanced",
+    "learningPath": [
+      {
+        "id": "68fa3aa2e0d9105c1c0e3948",
+        "name": "Hollow Rectangle Pattern",
+        "type": "ivideo",
+        "sourceId": "0vtzqe25f3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0vtzqe25f3.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e3949",
+        "name": "Dry Run - Hollow Rectangle Pattern",
+        "type": "ivideo",
+        "sourceId": "kcdm8hu41c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kcdm8hu41c.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394a",
+        "name": "Inverted & Rotated Half Pyramid",
+        "type": "ivideo",
+        "sourceId": "ti61ws8vou",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ti61ws8vou.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394b",
+        "name": "Inverted Half Pyramid Pattern with Numbers",
+        "type": "ivideo",
+        "sourceId": "6mo5di7lu4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6mo5di7lu4.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394c",
+        "name": "Floyd's Triangle Pattern",
+        "type": "ivideo",
+        "sourceId": "oo5xcymn1x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oo5xcymn1x.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394d",
+        "name": "0-1 Triangle Pattern",
+        "type": "ivideo",
+        "sourceId": "tfdn9os4ar",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tfdn9os4ar.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394e",
+        "name": "Butterfly Pattern",
+        "type": "ivideo",
+        "sourceId": "53pbsjftb5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/53pbsjftb5.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e394f",
+        "name": "Butterfly Pattern Code (explanation continued as well)",
+        "type": "ivideo",
+        "sourceId": "ugtotbbd98",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ugtotbbd98.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e3950",
+        "name": "Solid Rhombus Pattern",
+        "type": "ivideo",
+        "sourceId": "w7lthcz7we",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w7lthcz7we.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e3951",
+        "name": "Hollow Rhombus Pattern",
+        "type": "ivideo",
+        "sourceId": "mgrx47twr3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mgrx47twr3.m3u8"
+      },
+      {
+        "id": "68fa3aa2e0d9105c1c0e3952",
+        "name": "Diamond Pattern",
+        "type": "ivideo",
+        "sourceId": "z0lbhai43v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z0lbhai43v.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "ARRAYS (Part I)",
+    "learningPath": [
+      {
+        "id": "690cae8ffcd3beddee084454",
+        "name": "Introduction",
+        "type": "ivideo",
+        "sourceId": "xtk8zzn1ze",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xtk8zzn1ze.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee084455",
+        "name": "Arrays - Creation",
+        "type": "ivideo",
+        "sourceId": "di8xibo5im",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/di8xibo5im.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee084456",
+        "name": "Arrays - Input, Output & Update",
+        "type": "ivideo",
+        "sourceId": "5zjweu16xb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5zjweu16xb.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee084457",
+        "name": "Arrays as Function Arguments",
+        "type": "ivideo",
+        "sourceId": "e6pk7o2l3t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e6pk7o2l3t.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee084458",
+        "name": "Space & Time Complexity (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Space & Time Complexity (1) (1).pdf",
+        "pdf": "pdf/Space & Time Complexity (1) (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Space & Time Complexity (1) (1).pdf"
+      },
+      {
+        "id": "690cae8ffcd3beddee084459",
+        "name": "Linear Search",
+        "type": "ivideo",
+        "sourceId": "r2x2xat649",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r2x2xat649.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee08445a",
+        "name": "Largest in Array",
+        "type": "ivideo",
+        "sourceId": "6i9vj73dds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6i9vj73dds.m3u8"
+      },
+      {
+        "id": "690cae8ffcd3beddee08445b",
+        "name": "Binary Search",
+        "type": "ivideo",
+        "sourceId": "sxj18boh7u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sxj18boh7u.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08445c",
+        "name": "Binary Search Code",
+        "type": "ivideo",
+        "sourceId": "uusffgr23j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uusffgr23j.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08445d",
+        "name": "Reverse an Array",
+        "type": "ivideo",
+        "sourceId": "ssayeq0oid",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ssayeq0oid.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08445e",
+        "name": "Pairs in Array",
+        "type": "ivideo",
+        "sourceId": "ln3nl6svm0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ln3nl6svm0.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08445f",
+        "name": "Print Subarrays",
+        "type": "ivideo",
+        "sourceId": "69yx8blznb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/69yx8blznb.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "ARRAYS (Part II)",
+    "learningPath": [
+      {
+        "id": "690cae90fcd3beddee084460",
+        "name": "Max Subarray Sum - I (Brute Force)",
+        "type": "ivideo",
+        "sourceId": "6nrxoa8q6u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6nrxoa8q6u.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084461",
+        "name": "Max Subarray Sum - II (Prefix Sum)",
+        "type": "ivideo",
+        "sourceId": "h2aokby4b9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h2aokby4b9.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084462",
+        "name": "Max Subarray Sum - III (Kadane's Algorithm)",
+        "type": "ivideo",
+        "sourceId": "mmczvo374m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mmczvo374m.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084463",
+        "name": "Trapping Rainwater",
+        "type": "ivideo",
+        "sourceId": "ysd8ib7qi0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ysd8ib7qi0.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084464",
+        "name": "Trapping Rainwater - Code",
+        "type": "ivideo",
+        "sourceId": "ncmeg9a3v5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ncmeg9a3v5.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084465",
+        "name": "Best Time to Buy & Sell Stock",
+        "type": "ivideo",
+        "sourceId": "xkc4pfkopq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xkc4pfkopq.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084466",
+        "name": "Assignment Questions (Arrays)",
+        "type": "pdf",
+        "pdf_name": "Arrays - Assignment_Type.pdf",
+        "pdf": "pdf/Arrays - Assignment_Type.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Arrays - Assignment_Type.pdf"
+      },
+      {
+        "id": "690cae90fcd3beddee084467",
+        "name": "Assignment Codes (Arrays)",
+        "type": "pdf",
+        "pdf_name": "Arrays - Solution (1).pdf",
+        "pdf": "pdf/Arrays - Solution (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Arrays - Solution (1).pdf"
+      }
+    ]
+  },
+  {
+    "category": "Basic Sorting Algorithms",
+    "learningPath": [
+      {
+        "id": "690cae90fcd3beddee084468",
+        "name": "What is sorting?",
+        "type": "ivideo",
+        "sourceId": "w5g8czgv44",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w5g8czgv44.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084469",
+        "name": "Bubble Sort",
+        "type": "ivideo",
+        "sourceId": "9pkl16ybly",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9pkl16ybly.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446a",
+        "name": "Bubble Sort Code",
+        "type": "ivideo",
+        "sourceId": "v55mo46aal",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v55mo46aal.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446b",
+        "name": "Selection Sort",
+        "type": "ivideo",
+        "sourceId": "xix1w0xif7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xix1w0xif7.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446c",
+        "name": "Selection Sort Code",
+        "type": "ivideo",
+        "sourceId": "pu55yz8o8q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pu55yz8o8q.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446d",
+        "name": "Insertion Sort",
+        "type": "ivideo",
+        "sourceId": "pwlrtkxvcx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pwlrtkxvcx.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446e",
+        "name": "Insertion Sort Code",
+        "type": "ivideo",
+        "sourceId": "q0m7jhgw0v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q0m7jhgw0v.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08446f",
+        "name": "Inbuilt Sort",
+        "type": "ivideo",
+        "sourceId": "8i5z9r4dsg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8i5z9r4dsg.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084470",
+        "name": "Counting Sort",
+        "type": "ivideo",
+        "sourceId": "rbhlcdys7d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rbhlcdys7d.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084471",
+        "name": "Counting Sort Code",
+        "type": "ivideo",
+        "sourceId": "oiipxqwbpw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oiipxqwbpw.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084472",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Basic Sorting Questions (1).pdf",
+        "pdf": "pdf/Basic Sorting Questions (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Basic Sorting Questions (1).pdf"
+      },
+      {
+        "id": "690cae90fcd3beddee084473",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Basic Sorting Solutions.pdf",
+        "pdf": "pdf/Basic Sorting Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Basic Sorting Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "2D Arrays",
+    "learningPath": [
+      {
+        "id": "690cae90fcd3beddee084474",
+        "name": "Introduction to 2D Arrays",
+        "type": "ivideo",
+        "sourceId": "on3mu3ztgv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/on3mu3ztgv.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084475",
+        "name": "Real life examples",
+        "type": "ivideo",
+        "sourceId": "k542setq8e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k542setq8e.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084476",
+        "name": "Representation of 2D Arrays",
+        "type": "ivideo",
+        "sourceId": "bo8ct6s3oz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bo8ct6s3oz.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084477",
+        "name": "Creation of 2D Arrays",
+        "type": "ivideo",
+        "sourceId": "la1saphcla",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/la1saphcla.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084478",
+        "name": "2D Arrays in Memory",
+        "type": "ivideo",
+        "sourceId": "d9ug9wxgqx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d9ug9wxgqx.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084479",
+        "name": "Spiral Matrix",
+        "type": "ivideo",
+        "sourceId": "o5eikpmn1o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o5eikpmn1o.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08447a",
+        "name": "Spiral Matrix Code",
+        "type": "ivideo",
+        "sourceId": "z8yi9q0kba",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z8yi9q0kba.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08447b",
+        "name": "Diagonal Sum",
+        "type": "ivideo",
+        "sourceId": "c15evky2zc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c15evky2zc.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08447c",
+        "name": "Search in Sorted Matrix",
+        "type": "ivideo",
+        "sourceId": "l6z18dplhy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l6z18dplhy.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08447d",
+        "name": "Search in Sorted Matrix Code",
+        "type": "ivideo",
+        "sourceId": "n0q1gvvhys",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n0q1gvvhys.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08447e",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "2D Arrays Questions.pdf",
+        "pdf": "pdf/2D Arrays Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/2D Arrays Questions.pdf"
+      },
+      {
+        "id": "690cae90fcd3beddee08447f",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "2D Arrays Solutions.pdf",
+        "pdf": "pdf/2D Arrays Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/2D Arrays Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Strings",
+    "learningPath": [
+      {
+        "id": "690cae90fcd3beddee084480",
+        "name": "What are Strings?",
+        "type": "ivideo",
+        "sourceId": "b4pxn8l6ax",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b4pxn8l6ax.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084481",
+        "name": "Input/Output",
+        "type": "ivideo",
+        "sourceId": "tnrhmkdsa0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tnrhmkdsa0.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084482",
+        "name": "String Length",
+        "type": "ivideo",
+        "sourceId": "1pw2sg7qyo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1pw2sg7qyo.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084483",
+        "name": "String Concatenate",
+        "type": "ivideo",
+        "sourceId": "z5v2ul9ceg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z5v2ul9ceg.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084484",
+        "name": "String charAt Method",
+        "type": "ivideo",
+        "sourceId": "suc3f20qmp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/suc3f20qmp.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084485",
+        "name": "Check if a String is Palindrome",
+        "type": "ivideo",
+        "sourceId": "giji813y48",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/giji813y48.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084486",
+        "name": "Question - Shortest Path",
+        "type": "ivideo",
+        "sourceId": "xld05wwfvj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xld05wwfvj.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084487",
+        "name": "String Functions - compare",
+        "type": "ivideo",
+        "sourceId": "y3qg97bql5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y3qg97bql5.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084488",
+        "name": "String Functions - substring",
+        "type": "ivideo",
+        "sourceId": "d70rtvueoy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d70rtvueoy.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084489",
+        "name": "Print Largest String",
+        "type": "ivideo",
+        "sourceId": "rcovx1fx6p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rcovx1fx6p.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08448a",
+        "name": "Why Strings are Immutable?",
+        "type": "ivideo",
+        "sourceId": "kyotb6cdd3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kyotb6cdd3.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08448b",
+        "name": "StringBuilder",
+        "type": "ivideo",
+        "sourceId": "e2u2dbd3tg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e2u2dbd3tg.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08448c",
+        "name": "Convert Letters to Uppercase",
+        "type": "ivideo",
+        "sourceId": "lzdb51x1vp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lzdb51x1vp.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08448d",
+        "name": "String Compression",
+        "type": "ivideo",
+        "sourceId": "mq7jhmtzuv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mq7jhmtzuv.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08448e",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Strings Questions.pdf",
+        "pdf": "pdf/Strings Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Strings Questions.pdf"
+      },
+      {
+        "id": "690cae90fcd3beddee08448f",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Strings Solutions.pdf",
+        "pdf": "pdf/Strings Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Strings Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Bit Manipulation",
+    "learningPath": [
+      {
+        "id": "690cae90fcd3beddee084490",
+        "name": "Introduction to Bit Manipulation",
+        "type": "ivideo",
+        "sourceId": "9v36o7mkxw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9v36o7mkxw.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084491",
+        "name": "Binary Number System",
+        "type": "ivideo",
+        "sourceId": "f9d8qxe82w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f9d8qxe82w.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084492",
+        "name": "Bitwise Operators",
+        "type": "ivideo",
+        "sourceId": "nip4s6vhi0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nip4s6vhi0.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084493",
+        "name": "Binary AND",
+        "type": "ivideo",
+        "sourceId": "ss9yzuauy8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ss9yzuauy8.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084494",
+        "name": "Binary OR",
+        "type": "ivideo",
+        "sourceId": "jb65a1s8jt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jb65a1s8jt.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084495",
+        "name": "Binary XOR",
+        "type": "ivideo",
+        "sourceId": "xfvke2io86",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xfvke2io86.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084496",
+        "name": "Binary 1's Complement",
+        "type": "ivideo",
+        "sourceId": "2b41y4c1s7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2b41y4c1s7.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084497",
+        "name": "Binary Left Shift",
+        "type": "ivideo",
+        "sourceId": "jz0dmy0ksb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jz0dmy0ksb.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084498",
+        "name": "Binary Right Shift",
+        "type": "ivideo",
+        "sourceId": "xci2cmuq1s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xci2cmuq1s.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee084499",
+        "name": "Check if Odd or Even",
+        "type": "ivideo",
+        "sourceId": "5x0mbksbwt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5x0mbksbwt.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449a",
+        "name": "Get ith Bit",
+        "type": "ivideo",
+        "sourceId": "i7ocrvta54",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i7ocrvta54.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449b",
+        "name": "Set ith Bit",
+        "type": "ivideo",
+        "sourceId": "cr5u69itp5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cr5u69itp5.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449c",
+        "name": "Clear ith Bit",
+        "type": "ivideo",
+        "sourceId": "3gaaw5pd75",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3gaaw5pd75.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449d",
+        "name": "Update ith bit",
+        "type": "ivideo",
+        "sourceId": "b0obyv2h0a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b0obyv2h0a.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449e",
+        "name": "Clear last i bits",
+        "type": "ivideo",
+        "sourceId": "z3y8p4r0xi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z3y8p4r0xi.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee08449f",
+        "name": "Clear range of bits",
+        "type": "ivideo",
+        "sourceId": "9qbs5d1u8r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9qbs5d1u8r.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a0",
+        "name": "Check if a number is power of 2 or not",
+        "type": "ivideo",
+        "sourceId": "djio9998tg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/djio9998tg.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a1",
+        "name": "Count set bits in a number",
+        "type": "ivideo",
+        "sourceId": "0lneui6hg9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0lneui6hg9.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a2",
+        "name": "Fast Exponentiation",
+        "type": "ivideo",
+        "sourceId": "uz8ev0dob4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uz8ev0dob4.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a3",
+        "name": "Fast Exponentiation Code",
+        "type": "ivideo",
+        "sourceId": "v71ttu0da6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v71ttu0da6.m3u8"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a4",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Bit Manipulation Questions.pdf",
+        "pdf": "pdf/Bit Manipulation Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Bit Manipulation Questions.pdf"
+      },
+      {
+        "id": "690cae90fcd3beddee0844a5",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Bit Manipulation Solutions.pdf",
+        "pdf": "pdf/Bit Manipulation Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Bit Manipulation Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Object Oriented Programming (OOPs)",
+    "learningPath": [
+      {
+        "id": "690cae91fcd3beddee0844a6",
+        "name": "Classes & Objects",
+        "type": "ivideo",
+        "sourceId": "mmxakcbnxx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mmxakcbnxx.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844a7",
+        "name": "Access Modifiers",
+        "type": "ivideo",
+        "sourceId": "94zad5y2vk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/94zad5y2vk.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844a8",
+        "name": "Getters & Setters",
+        "type": "ivideo",
+        "sourceId": "7j62mj58fp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7j62mj58fp.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844a9",
+        "name": "Encapsulation",
+        "type": "ivideo",
+        "sourceId": "zvpnyex5ej",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zvpnyex5ej.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844aa",
+        "name": "Constructors",
+        "type": "ivideo",
+        "sourceId": "cfkbsovkxk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cfkbsovkxk.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ab",
+        "name": "Type of Constructors",
+        "type": "ivideo",
+        "sourceId": "amh7yx0vnq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/amh7yx0vnq.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ac",
+        "name": "Copy Constructor",
+        "type": "ivideo",
+        "sourceId": "fbjrbey8w2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fbjrbey8w2.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ad",
+        "name": "Shallow & Deep Copy",
+        "type": "ivideo",
+        "sourceId": "10elqo51u6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/10elqo51u6.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ae",
+        "name": "Destructors",
+        "type": "ivideo",
+        "sourceId": "ppwcynbyny",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ppwcynbyny.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844af",
+        "name": "Inheritance",
+        "type": "ivideo",
+        "sourceId": "tg8i6sqiac",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tg8i6sqiac.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b0",
+        "name": "Single level Inheritance",
+        "type": "ivideo",
+        "sourceId": "1xhb4i4qey",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1xhb4i4qey.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b1",
+        "name": "Multi level Inheritance",
+        "type": "ivideo",
+        "sourceId": "jsbombv1m5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jsbombv1m5.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b2",
+        "name": "Hierarchial Inheritance",
+        "type": "ivideo",
+        "sourceId": "tbzkze5u3e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tbzkze5u3e.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b3",
+        "name": "Hybrid Inheritance",
+        "type": "ivideo",
+        "sourceId": "gjk5ddvid7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gjk5ddvid7.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b4",
+        "name": "Polymorphism",
+        "type": "ivideo",
+        "sourceId": "4zbde6k85s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4zbde6k85s.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b5",
+        "name": "Method Overloading",
+        "type": "ivideo",
+        "sourceId": "q69mhts2q4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/q69mhts2q4.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b6",
+        "name": "Method Overriding",
+        "type": "ivideo",
+        "sourceId": "0vc6ubqwrr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0vc6ubqwrr.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b7",
+        "name": "Packages in Java",
+        "type": "ivideo",
+        "sourceId": "hhcue5w8bf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hhcue5w8bf.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b8",
+        "name": "Abstraction",
+        "type": "ivideo",
+        "sourceId": "vlam6psdmg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vlam6psdmg.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844b9",
+        "name": "Abstract Classes",
+        "type": "ivideo",
+        "sourceId": "hqjauqcm2p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hqjauqcm2p.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ba",
+        "name": "Interfaces",
+        "type": "ivideo",
+        "sourceId": "u7q79c0bcq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u7q79c0bcq.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844bb",
+        "name": "Static keyword",
+        "type": "ivideo",
+        "sourceId": "jj38uxdxti",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jj38uxdxti.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844bc",
+        "name": "Super keyword",
+        "type": "ivideo",
+        "sourceId": "hff99jsj35",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hff99jsj35.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844bd",
+        "name": "Solved Questions Practice",
+        "type": "ivideo",
+        "sourceId": "09u4vawhqe",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/09u4vawhqe.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844be",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "OOPS Questions.pdf",
+        "pdf": "pdf/OOPS Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/OOPS Questions.pdf"
+      },
+      {
+        "id": "690cae91fcd3beddee0844bf",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "OOPS Solutions.pdf",
+        "pdf": "pdf/OOPS Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/OOPS Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Recursion Basics (Part 1)",
+    "learningPath": [
+      {
+        "id": "690cae91fcd3beddee0844c0",
+        "name": "What is Recursion?",
+        "type": "ivideo",
+        "sourceId": "n7yiew84kz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n7yiew84kz.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c1",
+        "name": "Print numbers in decreasing order",
+        "type": "ivideo",
+        "sourceId": "adsl4106e2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/adsl4106e2.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c2",
+        "name": "Stack overflow",
+        "type": "ivideo",
+        "sourceId": "bhnydiye5e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bhnydiye5e.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c3",
+        "name": "Print numbers in increasing order",
+        "type": "ivideo",
+        "sourceId": "xkm01shwht",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xkm01shwht.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c4",
+        "name": "Find Factorial of N",
+        "type": "ivideo",
+        "sourceId": "c3p93xcdnh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c3p93xcdnh.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c5",
+        "name": "Print sum of N natural numbers",
+        "type": "ivideo",
+        "sourceId": "ciws43b2ai",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ciws43b2ai.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c6",
+        "name": "Print Nth Fibonacci number",
+        "type": "ivideo",
+        "sourceId": "2dpf1l67rt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2dpf1l67rt.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c7",
+        "name": "Check if array is sorted or not",
+        "type": "ivideo",
+        "sourceId": "edcg3p8hwk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/edcg3p8hwk.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c8",
+        "name": "First Occurrence",
+        "type": "ivideo",
+        "sourceId": "ap67srqaud",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ap67srqaud.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844c9",
+        "name": "Last Occurrence",
+        "type": "ivideo",
+        "sourceId": "vrbrp1y029",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vrbrp1y029.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ca",
+        "name": "Print x to the power n",
+        "type": "ivideo",
+        "sourceId": "y852al0i5b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y852al0i5b.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844cb",
+        "name": "Print x to the power n (Optimized)",
+        "type": "ivideo",
+        "sourceId": "utpysm3fxv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/utpysm3fxv.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Recursion Basics (Part 2)",
+    "learningPath": [
+      {
+        "id": "690cae91fcd3beddee0844cc",
+        "name": "Tiling Problem",
+        "type": "ivideo",
+        "sourceId": "ofoswsossu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ofoswsossu.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844cd",
+        "name": "Tiling Problem Code",
+        "type": "ivideo",
+        "sourceId": "7f0a9wu2mt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7f0a9wu2mt.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844ce",
+        "name": "Remove Duplicates in a String",
+        "type": "ivideo",
+        "sourceId": "1jnrjlw2or",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1jnrjlw2or.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844cf",
+        "name": "Friends Pairing Problem",
+        "type": "ivideo",
+        "sourceId": "2mcmxr8cen",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2mcmxr8cen.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844d0",
+        "name": "Binary Strings Problem",
+        "type": "ivideo",
+        "sourceId": "j2dlknovwq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j2dlknovwq.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844d1",
+        "name": "Binary Strings Problem Code",
+        "type": "ivideo",
+        "sourceId": "beieaybiyb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/beieaybiyb.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844d2",
+        "name": "Stack Analysis - Binary Strings",
+        "type": "ivideo",
+        "sourceId": "aprgszmnvn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/aprgszmnvn.m3u8"
+      },
+      {
+        "id": "690cae91fcd3beddee0844d3",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Recursion (Basics) Questions.pdf",
+        "pdf": "pdf/Recursion (Basics) Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Recursion (Basics) Questions.pdf"
+      },
+      {
+        "id": "690cae91fcd3beddee0844d4",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Recursion (Basics) Solutions.pdf",
+        "pdf": "pdf/Recursion (Basics) Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Recursion (Basics) Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Divide & Conquer",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c650283e4",
+        "name": "What is Divide & Conquer?",
+        "type": "ivideo",
+        "sourceId": "8edc9o7p58",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8edc9o7p58.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283e5",
+        "name": "Merge Sort (Basic + Space Optimized)",
+        "type": "ivideo",
+        "sourceId": "sd34rvji0z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sd34rvji0z.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283e6",
+        "name": "Merge Sort Code",
+        "type": "ivideo",
+        "sourceId": "gdn3d4b7uq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gdn3d4b7uq.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283e7",
+        "name": "Quick Sort",
+        "type": "ivideo",
+        "sourceId": "ybmpav8eed",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ybmpav8eed.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283e8",
+        "name": "Quick Sort Code",
+        "type": "ivideo",
+        "sourceId": "mw21zj9dwb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mw21zj9dwb.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283e9",
+        "name": "Worst Case in Quick Sort",
+        "type": "ivideo",
+        "sourceId": "59iyo9y8g9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/59iyo9y8g9.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283ea",
+        "name": "Sorted & Rotated Array Search",
+        "type": "ivideo",
+        "sourceId": "9pgc0kwrlc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9pgc0kwrlc.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283eb",
+        "name": "Sorted & Rotated Array Code",
+        "type": "ivideo",
+        "sourceId": "2tu7jelcs1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2tu7jelcs1.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283ec",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Divide & Conquer Questions (1).pdf",
+        "pdf": "pdf/Divide & Conquer Questions (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Divide & Conquer Questions (1).pdf"
+      },
+      {
+        "id": "692468c31a0db84c650283ed",
+        "name": "Solutions to Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Divide & Conquer Solutions.pdf",
+        "pdf": "pdf/Divide & Conquer Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Divide & Conquer Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Time & Space Complexity",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c650283ee",
+        "name": "Introduction",
+        "type": "ivideo",
+        "sourceId": "1soxzew1pd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1soxzew1pd.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283ef",
+        "name": "What is Time Complexity?",
+        "type": "ivideo",
+        "sourceId": "htodmkzs9m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/htodmkzs9m.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f0",
+        "name": "Constant Time Complexity",
+        "type": "ivideo",
+        "sourceId": "92pg83iekb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/92pg83iekb.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f1",
+        "name": "Big O Notation",
+        "type": "ivideo",
+        "sourceId": "ou1gumnqbp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ou1gumnqbp.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f2",
+        "name": "Big Omega & Theta Notation",
+        "type": "ivideo",
+        "sourceId": "zxxixlfuvh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zxxixlfuvh.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f3",
+        "name": "Common Complexities",
+        "type": "ivideo",
+        "sourceId": "8nnp7epq4i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8nnp7epq4i.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f4",
+        "name": "Space Complexity",
+        "type": "ivideo",
+        "sourceId": "kcuy8dk58e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kcuy8dk58e.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f5",
+        "name": "Simple Loop Analysis",
+        "type": "ivideo",
+        "sourceId": "159soo7ba6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/159soo7ba6.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f6",
+        "name": "Nested Loop 1 Analysis",
+        "type": "ivideo",
+        "sourceId": "oy0oqqb1x3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oy0oqqb1x3.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f7",
+        "name": "Nested Loop 2 Analysis",
+        "type": "ivideo",
+        "sourceId": "umksglv57v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/umksglv57v.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f8",
+        "name": "Nested Loop 3 Analysis",
+        "type": "ivideo",
+        "sourceId": "138n68ytjm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/138n68ytjm.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283f9",
+        "name": "Bubble Sort Analysis",
+        "type": "ivideo",
+        "sourceId": "7msauqcalp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7msauqcalp.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283fa",
+        "name": "Binary Search Analysis",
+        "type": "ivideo",
+        "sourceId": "vjolnmhq51",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vjolnmhq51.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283fb",
+        "name": "Recursive Complexity Analysis (Factorial)",
+        "type": "ivideo",
+        "sourceId": "d8ca7vm2yf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d8ca7vm2yf.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283fc",
+        "name": "Sum of N numbers Analysis",
+        "type": "ivideo",
+        "sourceId": "pszqp7j3vr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pszqp7j3vr.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283fd",
+        "name": "Fibonacci Analysis",
+        "type": "ivideo",
+        "sourceId": "wv4q5pxhrr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wv4q5pxhrr.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283fe",
+        "name": "Merge Sort Analysis",
+        "type": "ivideo",
+        "sourceId": "gvdh0j790y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gvdh0j790y.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c650283ff",
+        "name": "Recurrence Relation - Merge Sort",
+        "type": "ivideo",
+        "sourceId": "smvz60nomh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/smvz60nomh.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028400",
+        "name": "Power Function I - Analysis",
+        "type": "ivideo",
+        "sourceId": "se4p1c75u5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/se4p1c75u5.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028401",
+        "name": "Power Function II - Analysis",
+        "type": "ivideo",
+        "sourceId": "35oariq0pz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/35oariq0pz.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028402",
+        "name": "Power Function III - Analysis",
+        "type": "ivideo",
+        "sourceId": "0dvn7eqrmw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0dvn7eqrmw.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028403",
+        "name": "How to approach Coding Questions?",
+        "type": "ivideo",
+        "sourceId": "yzkndz26oq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yzkndz26oq.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028404",
+        "name": "Master's Theorem (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "3-Masters Theorem.pdf",
+        "pdf": "pdf/3-Masters Theorem.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/3-Masters Theorem.pdf"
+      },
+      {
+        "id": "692468c31a0db84c65028405",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "TIME COMPLEXITY Questions.pdf",
+        "pdf": "pdf/TIME COMPLEXITY Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/TIME COMPLEXITY Questions.pdf"
+      },
+      {
+        "id": "692468c31a0db84c65028406",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "TIME COMPLEXITY Solutions.pdf",
+        "pdf": "pdf/TIME COMPLEXITY Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/TIME COMPLEXITY Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Backtracking",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c65028407",
+        "name": "Introduction",
+        "type": "ivideo",
+        "sourceId": "pjwf4d5md0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pjwf4d5md0.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028408",
+        "name": "Types of Backtracking",
+        "type": "ivideo",
+        "sourceId": "aak5txjusu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/aak5txjusu.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028409",
+        "name": "Backtracking on Arrays",
+        "type": "ivideo",
+        "sourceId": "ovfux4c2st",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ovfux4c2st.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840a",
+        "name": "Find Subsets",
+        "type": "ivideo",
+        "sourceId": "a729nxoj8i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a729nxoj8i.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840b",
+        "name": "Find Subsets Code",
+        "type": "ivideo",
+        "sourceId": "inv4m9aqcf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/inv4m9aqcf.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840c",
+        "name": "Find Permutations",
+        "type": "ivideo",
+        "sourceId": "70lxagjbcr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/70lxagjbcr.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840d",
+        "name": "Find Permutations Code",
+        "type": "ivideo",
+        "sourceId": "kkwb9euv6k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kkwb9euv6k.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840e",
+        "name": "N Queens - all ways",
+        "type": "ivideo",
+        "sourceId": "qk8t8l1or7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qk8t8l1or7.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502840f",
+        "name": "N Queens - Time Complexity",
+        "type": "ivideo",
+        "sourceId": "ot6m2bvjan",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ot6m2bvjan.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028410",
+        "name": "N Queens - count ways",
+        "type": "ivideo",
+        "sourceId": "zix7jyb5i3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zix7jyb5i3.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028411",
+        "name": "N Queens - print one solution",
+        "type": "ivideo",
+        "sourceId": "eojembh46o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eojembh46o.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028412",
+        "name": "Grid Ways",
+        "type": "ivideo",
+        "sourceId": "wmbipl3tgr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wmbipl3tgr.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028413",
+        "name": "Grid Ways Code",
+        "type": "ivideo",
+        "sourceId": "ozwtg9dnry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ozwtg9dnry.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028414",
+        "name": "Grid Ways Trick",
+        "type": "ivideo",
+        "sourceId": "l20wm6or0r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l20wm6or0r.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028415",
+        "name": "Sudoku",
+        "type": "ivideo",
+        "sourceId": "gxdzgpcci9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gxdzgpcci9.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028416",
+        "name": "Sudoku Code",
+        "type": "ivideo",
+        "sourceId": "y7bcc9gnas",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y7bcc9gnas.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028417",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "BACKTRACKING Questions.pdf",
+        "pdf": "pdf/BACKTRACKING Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/BACKTRACKING Questions.pdf"
+      },
+      {
+        "id": "692468c31a0db84c65028418",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "BACKTRACKING Solutions (2).pdf",
+        "pdf": "pdf/BACKTRACKING Solutions (2).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/BACKTRACKING Solutions (2).pdf"
+      }
+    ]
+  },
+  {
+    "category": "ArrayLists",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c65028419",
+        "name": "Introduction to ArrayList",
+        "type": "ivideo",
+        "sourceId": "29w5plqwow",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/29w5plqwow.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841a",
+        "name": "Operations on ArrayList",
+        "type": "ivideo",
+        "sourceId": "lxc4hq9lqc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lxc4hq9lqc.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841b",
+        "name": "Size of ArrayList",
+        "type": "ivideo",
+        "sourceId": "hiucehyz3u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hiucehyz3u.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841c",
+        "name": "Print Reverse",
+        "type": "ivideo",
+        "sourceId": "21dg331zn1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/21dg331zn1.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841d",
+        "name": "Find Maximum",
+        "type": "ivideo",
+        "sourceId": "yd8pzoijly",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yd8pzoijly.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841e",
+        "name": "Swap 2 Numbers",
+        "type": "ivideo",
+        "sourceId": "l08p8lymoh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l08p8lymoh.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502841f",
+        "name": "Sorting an ArrayList",
+        "type": "ivideo",
+        "sourceId": "5o8qgfhyct",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5o8qgfhyct.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028420",
+        "name": "ArrayList (Implementation in Java)",
+        "type": "ivideo",
+        "sourceId": "ol9l91bnua",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ol9l91bnua.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028421",
+        "name": "Multi-dimensional ArrayLists",
+        "type": "ivideo",
+        "sourceId": "w974u7hv0r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w974u7hv0r.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028422",
+        "name": "Container with Most Water (Brute Force)",
+        "type": "ivideo",
+        "sourceId": "2wx9gqnrbx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2wx9gqnrbx.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028423",
+        "name": "Container with Most Water (2 Pointer Approach)",
+        "type": "ivideo",
+        "sourceId": "bgtzwdw2mr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bgtzwdw2mr.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028424",
+        "name": "Container wMW v/s Trapping Rainwater",
+        "type": "ivideo",
+        "sourceId": "s2xfmkozf0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s2xfmkozf0.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028425",
+        "name": "Pair Sum - 1 (Brute Force)",
+        "type": "ivideo",
+        "sourceId": "ua0qoptt5d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ua0qoptt5d.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028426",
+        "name": "Pair Sum - 1 (2 Pointer Approach)",
+        "type": "ivideo",
+        "sourceId": "jr43iqw1ik",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jr43iqw1ik.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028427",
+        "name": "Pair Sum - 2 ",
+        "type": "ivideo",
+        "sourceId": "7jn34usetx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7jn34usetx.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028428",
+        "name": "Pair Sum - 2 (Code)",
+        "type": "ivideo",
+        "sourceId": "y20b27yo45",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y20b27yo45.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028429",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "ArrayList Questions (1).pdf",
+        "pdf": "pdf/ArrayList Questions (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/ArrayList Questions (1).pdf"
+      },
+      {
+        "id": "692468c31a0db84c6502842a",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "ArrayList Solutions (1).pdf",
+        "pdf": "pdf/ArrayList Solutions (1).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/ArrayList Solutions (1).pdf"
+      }
+    ]
+  },
+  {
+    "category": "Linked Lists (Part 1)",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c6502842b",
+        "name": "Introduction to Linked List",
+        "type": "ivideo",
+        "sourceId": "rdncq9xts2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rdncq9xts2.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502842c",
+        "name": "Head & Tail in LL",
+        "type": "ivideo",
+        "sourceId": "awbfpf5d19",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/awbfpf5d19.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502842d",
+        "name": "Add First in LL",
+        "type": "ivideo",
+        "sourceId": "350nsrcxsd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/350nsrcxsd.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502842e",
+        "name": "Add Last in LL",
+        "type": "ivideo",
+        "sourceId": "t4yzk9l1mw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t4yzk9l1mw.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502842f",
+        "name": "Print a LL",
+        "type": "ivideo",
+        "sourceId": "k6r0ubr03g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k6r0ubr03g.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028430",
+        "name": "Add in the Middle of LL",
+        "type": "ivideo",
+        "sourceId": "rn53jfc53u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rn53jfc53u.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028431",
+        "name": "Size of a LL",
+        "type": "ivideo",
+        "sourceId": "afutueot89",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/afutueot89.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028432",
+        "name": "Remove First in LL",
+        "type": "ivideo",
+        "sourceId": "fsrrerxnr3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fsrrerxnr3.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028433",
+        "name": "Remove Last in LL",
+        "type": "ivideo",
+        "sourceId": "bs3hdf4fb7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bs3hdf4fb7.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028434",
+        "name": "Iterative Search",
+        "type": "ivideo",
+        "sourceId": "7afdvnzbh0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7afdvnzbh0.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028435",
+        "name": "Recursive Search",
+        "type": "ivideo",
+        "sourceId": "0gyp784sjk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0gyp784sjk.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028436",
+        "name": "Reverse a Linked List",
+        "type": "ivideo",
+        "sourceId": "qih6bq7e8b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qih6bq7e8b.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028437",
+        "name": "Find and Remove Nth Node from End",
+        "type": "ivideo",
+        "sourceId": "h2jo4tmlwd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h2jo4tmlwd.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028438",
+        "name": "Check if LL is Palindrome",
+        "type": "ivideo",
+        "sourceId": "c73f8vowol",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c73f8vowol.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028439",
+        "name": "Check if LL is Palindrome (Code)",
+        "type": "ivideo",
+        "sourceId": "u9zllv83re",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u9zllv83re.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Linked Lists (Part 2)",
+    "learningPath": [
+      {
+        "id": "692468c31a0db84c6502843a",
+        "name": "Detecting Cycle in LL",
+        "type": "ivideo",
+        "sourceId": "rj84twx43t",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rj84twx43t.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502843b",
+        "name": "Detecting Cycle Code",
+        "type": "ivideo",
+        "sourceId": "2dk5rbjvct",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2dk5rbjvct.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502843c",
+        "name": "Removing Cycle in LL",
+        "type": "ivideo",
+        "sourceId": "w5jv799prc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w5jv799prc.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502843d",
+        "name": "Removing Cycle Code",
+        "type": "ivideo",
+        "sourceId": "e58z5dupr9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e58z5dupr9.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502843e",
+        "name": "Removing Cycle Explanation (Math)",
+        "type": "ivideo",
+        "sourceId": "nlaljf2iz5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nlaljf2iz5.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c6502843f",
+        "name": "Java Collections Framework",
+        "type": "ivideo",
+        "sourceId": "cmxf476rrl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cmxf476rrl.m3u8"
+      },
+      {
+        "id": "692468c31a0db84c65028440",
+        "name": "LL in Collections Framework",
+        "type": "ivideo",
+        "sourceId": "jui45sil6n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jui45sil6n.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028441",
+        "name": "Merge Sort on LL",
+        "type": "ivideo",
+        "sourceId": "7b69wqv3fk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7b69wqv3fk.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028442",
+        "name": "Merge Sort on LL (Code)",
+        "type": "ivideo",
+        "sourceId": "vzwijyf93o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vzwijyf93o.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028443",
+        "name": "Zig Zag Linked List ",
+        "type": "ivideo",
+        "sourceId": "ggxfifvjcg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ggxfifvjcg.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028444",
+        "name": "Zig Zag LL Code",
+        "type": "ivideo",
+        "sourceId": "tlfc2yfdhi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tlfc2yfdhi.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028445",
+        "name": "Doubly LL",
+        "type": "ivideo",
+        "sourceId": "1xv6su8usl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1xv6su8usl.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028446",
+        "name": "Reverse a Doubly LL",
+        "type": "ivideo",
+        "sourceId": "mtcmv9dlwo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mtcmv9dlwo.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028447",
+        "name": "Circular LL (Approach)",
+        "type": "ivideo",
+        "sourceId": "nlbkmwrck7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nlbkmwrck7.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028448",
+        "name": "Circular Linked List (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Circular LInked List.pdf",
+        "pdf": "pdf/Circular LInked List.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Circular LInked List.pdf"
+      },
+      {
+        "id": "692468c41a0db84c65028449",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Linked List Questions.pdf",
+        "pdf": "pdf/Linked List Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Linked List Questions.pdf"
+      },
+      {
+        "id": "692468c41a0db84c6502844a",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Linked List Solutions.pdf",
+        "pdf": "pdf/Linked List Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Linked List Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Stacks (Part 1)",
+    "learningPath": [
+      {
+        "id": "692468c41a0db84c6502844b",
+        "name": "Stack Introduction",
+        "type": "ivideo",
+        "sourceId": "yfq55v0y1v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yfq55v0y1v.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502844c",
+        "name": "Stack using ArrayList",
+        "type": "ivideo",
+        "sourceId": "zhtuacbv53",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zhtuacbv53.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502844d",
+        "name": "Stack using Linked List",
+        "type": "ivideo",
+        "sourceId": "f2lzy1969u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f2lzy1969u.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502844e",
+        "name": "Stack using Collections Framework",
+        "type": "ivideo",
+        "sourceId": "rw7md2qftf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rw7md2qftf.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502844f",
+        "name": "Push at Bottom of Stack",
+        "type": "ivideo",
+        "sourceId": "bfgoxt0aje",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bfgoxt0aje.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028450",
+        "name": "Reverse a String using a Stack",
+        "type": "ivideo",
+        "sourceId": "jhf22m553j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jhf22m553j.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028451",
+        "name": "Reverse a Stack",
+        "type": "ivideo",
+        "sourceId": "1q0vfqdter",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1q0vfqdter.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028452",
+        "name": "Stock Span Problem",
+        "type": "ivideo",
+        "sourceId": "iboytzsnwn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iboytzsnwn.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028453",
+        "name": "Next greater element",
+        "type": "ivideo",
+        "sourceId": "lqgk2uqn28",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lqgk2uqn28.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028454",
+        "name": "Next greater element Code",
+        "type": "ivideo",
+        "sourceId": "2uisc35qvh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2uisc35qvh.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Stacks (Part 2)",
+    "learningPath": [
+      {
+        "id": "692468c41a0db84c65028455",
+        "name": "Valid Parentheses",
+        "type": "ivideo",
+        "sourceId": "i9j2b8h5fj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i9j2b8h5fj.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028456",
+        "name": "Valid Parentheses Code",
+        "type": "ivideo",
+        "sourceId": "qqta0g48n6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qqta0g48n6.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028457",
+        "name": "Duplicate Parentheses",
+        "type": "ivideo",
+        "sourceId": "16nvseojdu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/16nvseojdu.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028458",
+        "name": "Duplicate Parentheses Code",
+        "type": "ivideo",
+        "sourceId": "qnhuvxxobq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qnhuvxxobq.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c65028459",
+        "name": "Maximum Rectangular Area in Histogram",
+        "type": "ivideo",
+        "sourceId": "vs0hhvxbmx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vs0hhvxbmx.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502845a",
+        "name": "Max Rectangular Area in Histogram (Code)",
+        "type": "ivideo",
+        "sourceId": "gldlgkah47",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gldlgkah47.m3u8"
+      },
+      {
+        "id": "692468c41a0db84c6502845b",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Stack Questions.pdf",
+        "pdf": "pdf/Stack Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Stack Questions.pdf"
+      },
+      {
+        "id": "692468c41a0db84c6502845c",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Stack Solutions.pdf",
+        "pdf": "pdf/Stack Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Stack Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Queues",
+    "learningPath": [
+      {
+        "id": "693980beb9fdd2b6ac054ba4",
+        "name": "Introduction to Queues",
+        "type": "ivideo",
+        "sourceId": "26negthcpo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/26negthcpo.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054ba5",
+        "name": "Queues using Arrays",
+        "type": "ivideo",
+        "sourceId": "ib7hm0e9ol",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ib7hm0e9ol.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054ba6",
+        "name": "Circular Queue using Arrays",
+        "type": "ivideo",
+        "sourceId": "ginh3t87yn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ginh3t87yn.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054ba7",
+        "name": "Queue using LL",
+        "type": "ivideo",
+        "sourceId": "a9ao7g5d2e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a9ao7g5d2e.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054ba8",
+        "name": "Queue using JCF",
+        "type": "ivideo",
+        "sourceId": "m56ba1257v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m56ba1257v.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054ba9",
+        "name": "Queue using Two Stacks",
+        "type": "ivideo",
+        "sourceId": "cscta15b3c",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cscta15b3c.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054baa",
+        "name": "Stack using 2 Queues",
+        "type": "ivideo",
+        "sourceId": "ppy6fpogfc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ppy6fpogfc.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bab",
+        "name": "First Non-Repeating Letter",
+        "type": "ivideo",
+        "sourceId": "bdmks4kyrm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bdmks4kyrm.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bac",
+        "name": "Interleave two halves of a Queue",
+        "type": "ivideo",
+        "sourceId": "50t9kuzqxo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/50t9kuzqxo.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bad",
+        "name": "Queue Reversal",
+        "type": "ivideo",
+        "sourceId": "au32f8jfjf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/au32f8jfjf.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bae",
+        "name": "Deque (Double Ended Queue)",
+        "type": "ivideo",
+        "sourceId": "qmz7c0ruxl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qmz7c0ruxl.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054baf",
+        "name": "Deque in JCF",
+        "type": "ivideo",
+        "sourceId": "uyu57xcmxv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uyu57xcmxv.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb0",
+        "name": "Implement Stack using Deque",
+        "type": "ivideo",
+        "sourceId": "gdaxj84jlc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gdaxj84jlc.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb1",
+        "name": "Implement Queue using Deque",
+        "type": "ivideo",
+        "sourceId": "g3lt0b6sy4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/g3lt0b6sy4.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb2",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Queue Questions.pdf",
+        "pdf": "pdf/Queue Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Queue Questions.pdf"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb3",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Queue Solutions.pdf",
+        "pdf": "pdf/Queue Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Queue Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Greedy Algorithms",
+    "learningPath": [
+      {
+        "id": "693980beb9fdd2b6ac054bb4",
+        "name": "Introduction to Greedy",
+        "type": "ivideo",
+        "sourceId": "pt0oxgntqv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pt0oxgntqv.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb5",
+        "name": "Activity Selection",
+        "type": "ivideo",
+        "sourceId": "uw7fir1wk8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uw7fir1wk8.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb6",
+        "name": "Activity Selection Code",
+        "type": "ivideo",
+        "sourceId": "41l3xrwoou",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/41l3xrwoou.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb7",
+        "name": "Activity Selection Explanation",
+        "type": "ivideo",
+        "sourceId": "t8dvbufhgs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t8dvbufhgs.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb8",
+        "name": "Fractional Knapsack",
+        "type": "ivideo",
+        "sourceId": "l63jl1th44",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l63jl1th44.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bb9",
+        "name": "Fractional Knapsack Code",
+        "type": "ivideo",
+        "sourceId": "i7g54c82kq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i7g54c82kq.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bba",
+        "name": "Minimum Sum absolute difference pairs",
+        "type": "ivideo",
+        "sourceId": "y6z7s9144n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y6z7s9144n.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bbb",
+        "name": "Maximum length chain of pairs",
+        "type": "ivideo",
+        "sourceId": "mnxaqfzj7l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mnxaqfzj7l.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bbc",
+        "name": "Indian Coins",
+        "type": "ivideo",
+        "sourceId": "v981fbjq5a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v981fbjq5a.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bbd",
+        "name": "Job Sequencing Problem",
+        "type": "ivideo",
+        "sourceId": "0sev4t0nz0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0sev4t0nz0.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bbe",
+        "name": "Chocola Problem",
+        "type": "ivideo",
+        "sourceId": "3799t9qkpt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3799t9qkpt.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bbf",
+        "name": "Chocola Problem Code",
+        "type": "ivideo",
+        "sourceId": "181ly46n1m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/181ly46n1m.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc0",
+        "name": "Comparators in Java (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Comparators in Java.pdf",
+        "pdf": "pdf/Comparators in Java.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Comparators in Java.pdf"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc1",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Greedy Questions.pdf",
+        "pdf": "pdf/Greedy Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Greedy Questions.pdf"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc2",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Greedy Solutions.pdf",
+        "pdf": "pdf/Greedy Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Greedy Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Binary Trees (Part1)",
+    "learningPath": [
+      {
+        "id": "693980beb9fdd2b6ac054bc3",
+        "name": "Introduction to Binary Trees",
+        "type": "ivideo",
+        "sourceId": "dokhwt7rrk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dokhwt7rrk.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc4",
+        "name": "Levels & Sub-trees in a Tree",
+        "type": "ivideo",
+        "sourceId": "vzthmlfo5z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vzthmlfo5z.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc5",
+        "name": "Pop Quiz",
+        "type": "ivideo",
+        "sourceId": "3hl53l4c8o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3hl53l4c8o.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc6",
+        "name": "Build Tree Preorder",
+        "type": "ivideo",
+        "sourceId": "qb2jhhoeo3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qb2jhhoeo3.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc7",
+        "name": "Build Tree Preorder Code",
+        "type": "ivideo",
+        "sourceId": "yfvhgpq12h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yfvhgpq12h.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc8",
+        "name": "Preorder Traversal",
+        "type": "ivideo",
+        "sourceId": "h8urmyqvbm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h8urmyqvbm.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bc9",
+        "name": "Inorder Traversal",
+        "type": "ivideo",
+        "sourceId": "ld6qc9exh4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ld6qc9exh4.m3u8"
+      },
+      {
+        "id": "693980beb9fdd2b6ac054bca",
+        "name": "Postorder Traversal",
+        "type": "ivideo",
+        "sourceId": "srvbd79jrz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/srvbd79jrz.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bcb",
+        "name": "Level order Traversal",
+        "type": "ivideo",
+        "sourceId": "nf9x1oaelx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nf9x1oaelx.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bcc",
+        "name": "Height of a Tree",
+        "type": "ivideo",
+        "sourceId": "lnvpc2gkwg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lnvpc2gkwg.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bcd",
+        "name": "Count of Nodes of a Tree",
+        "type": "ivideo",
+        "sourceId": "ap1p0gq2us",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ap1p0gq2us.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bce",
+        "name": "Sum of Nodes",
+        "type": "ivideo",
+        "sourceId": "dul55usmxw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dul55usmxw.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Binary Trees (Part2)",
+    "learningPath": [
+      {
+        "id": "693980bfb9fdd2b6ac054bcf",
+        "name": "Diameter of a Tree (Approach1)",
+        "type": "ivideo",
+        "sourceId": "fzla6k0wrd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fzla6k0wrd.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd0",
+        "name": "Diameter of a Tree (Approach2)",
+        "type": "ivideo",
+        "sourceId": "m3rllefwqo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m3rllefwqo.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd1",
+        "name": "Subtree of another tree",
+        "type": "ivideo",
+        "sourceId": "xzb9w1sfed",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xzb9w1sfed.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd2",
+        "name": "Subtree of another tree Code",
+        "type": "ivideo",
+        "sourceId": "vcyutq7pc2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vcyutq7pc2.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd3",
+        "name": "Top View of a Tree (Basics)",
+        "type": "ivideo",
+        "sourceId": "5eyo39jqjs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5eyo39jqjs.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd4",
+        "name": "Top View of a Tree (Approach)",
+        "type": "ivideo",
+        "sourceId": "lxiz2ezjjl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lxiz2ezjjl.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd5",
+        "name": "Top View of a Tree (Code)",
+        "type": "ivideo",
+        "sourceId": "eze7f9nyz1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/eze7f9nyz1.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Binary Trees (Part3)",
+    "learningPath": [
+      {
+        "id": "693980bfb9fdd2b6ac054bd6",
+        "name": "Kth Level",
+        "type": "ivideo",
+        "sourceId": "0w5jsc0pph",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0w5jsc0pph.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd7",
+        "name": "Lowest Common Ancestor (Approach1)",
+        "type": "ivideo",
+        "sourceId": "hztsctfgh2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hztsctfgh2.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd8",
+        "name": "Lowest Common Ancestor (Approach2)",
+        "type": "ivideo",
+        "sourceId": "9pwa3he6qj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9pwa3he6qj.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bd9",
+        "name": "Minimum Distance between 2 Nodes",
+        "type": "ivideo",
+        "sourceId": "qpma0zs8pv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qpma0zs8pv.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bda",
+        "name": "Kth ancestor of Node",
+        "type": "ivideo",
+        "sourceId": "rrk8lggjgz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rrk8lggjgz.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bdb",
+        "name": "Transform to Sum Tree",
+        "type": "ivideo",
+        "sourceId": "i8hlwy17s7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i8hlwy17s7.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bdc",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Binary Tree Questions.pdf",
+        "pdf": "pdf/Binary Tree Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Binary Tree Questions.pdf"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bdd",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Binary Tree Solutions.pdf",
+        "pdf": "pdf/Binary Tree Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Binary Tree Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Binary Search Trees(Part1)",
+    "learningPath": [
+      {
+        "id": "693980bfb9fdd2b6ac054bde",
+        "name": "Introduction",
+        "type": "ivideo",
+        "sourceId": "idwy0ia9ok",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/idwy0ia9ok.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bdf",
+        "name": "Concept of Search in BST",
+        "type": "ivideo",
+        "sourceId": "zx81fa7aoi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zx81fa7aoi.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be0",
+        "name": "Build a BST",
+        "type": "ivideo",
+        "sourceId": "clzknh56jr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/clzknh56jr.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be1",
+        "name": "Search in a BST",
+        "type": "ivideo",
+        "sourceId": "9g6pkw0z3g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9g6pkw0z3g.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be2",
+        "name": "Delete a Node",
+        "type": "ivideo",
+        "sourceId": "atu5d9msu6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/atu5d9msu6.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be3",
+        "name": "Print in Range",
+        "type": "ivideo",
+        "sourceId": "67kwn7eb69",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/67kwn7eb69.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be4",
+        "name": "Root to Leaf Path",
+        "type": "ivideo",
+        "sourceId": "rfzhskrzc7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rfzhskrzc7.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be5",
+        "name": "Validate BST",
+        "type": "ivideo",
+        "sourceId": "0q6qaa8hez",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0q6qaa8hez.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054be6",
+        "name": "Mirror a BST",
+        "type": "ivideo",
+        "sourceId": "zmt95f1qqm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zmt95f1qqm.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Binary Search Trees (Part2)",
+    "learningPath": [
+      {
+        "id": "693980bfb9fdd2b6ac054bf1",
+        "name": "Sorted Array to Balanced BST",
+        "type": "ivideo",
+        "sourceId": "pkb9t78ttj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pkb9t78ttj.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf2",
+        "name": "Convert BST to Balanced BST",
+        "type": "ivideo",
+        "sourceId": "lirapcun3q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lirapcun3q.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf3",
+        "name": "Size of Largest BST in BT",
+        "type": "ivideo",
+        "sourceId": "6eoyewks8z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6eoyewks8z.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf4",
+        "name": "Size of Largest BST in BT (Code)",
+        "type": "ivideo",
+        "sourceId": "6yrgwflxjp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6yrgwflxjp.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf5",
+        "name": "AVL Trees",
+        "type": "ivideo",
+        "sourceId": "iq3wah85lt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iq3wah85lt.m3u8"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf6",
+        "name": "AVL Trees (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "AVL Trees in Java.pdf",
+        "pdf": "pdf/AVL Trees in Java.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/AVL Trees in Java.pdf"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf7",
+        "name": "Red Black Trees (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Red Black Trees in Java.pdf",
+        "pdf": "pdf/Red Black Trees in Java.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Red Black Trees in Java.pdf"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf8",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "BST Questions (2).pdf",
+        "pdf": "pdf/BST Questions (2).pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/BST Questions (2).pdf"
+      },
+      {
+        "id": "693980bfb9fdd2b6ac054bf9",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "BST Solutions.pdf",
+        "pdf": "pdf/BST Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/BST Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Heaps",
+    "learningPath": [
+      {
+        "id": "69513a3a661516395c009814",
+        "name": "Introduction to Priority Queues",
+        "type": "ivideo",
+        "sourceId": "hvokiq7ddp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hvokiq7ddp.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009815",
+        "name": "PQ in JCF",
+        "type": "ivideo",
+        "sourceId": "jam6w88enm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jam6w88enm.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009816",
+        "name": "PQ for Objects",
+        "type": "ivideo",
+        "sourceId": "cetdd6hh54",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cetdd6hh54.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009817",
+        "name": "Introduction to Heaps",
+        "type": "ivideo",
+        "sourceId": "lghbi73o5x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lghbi73o5x.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009818",
+        "name": "Heap Implementation (using CBT)",
+        "type": "ivideo",
+        "sourceId": "fk9ywycw12",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fk9ywycw12.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009819",
+        "name": "Insert in Heap",
+        "type": "ivideo",
+        "sourceId": "y51ek315th",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y51ek315th.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981a",
+        "name": "Peek from Heap",
+        "type": "ivideo",
+        "sourceId": "shbas8dz1b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/shbas8dz1b.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981b",
+        "name": "Remove from Heap",
+        "type": "ivideo",
+        "sourceId": "vvfv4a20y6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vvfv4a20y6.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981c",
+        "name": "Heap Sort",
+        "type": "ivideo",
+        "sourceId": "4ed5sijikm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4ed5sijikm.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981d",
+        "name": "Nearby Cars",
+        "type": "ivideo",
+        "sourceId": "jemloczxb0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jemloczxb0.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981e",
+        "name": "Connect N Ropes with Minimum Cost",
+        "type": "ivideo",
+        "sourceId": "dhrgqjj6me",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dhrgqjj6me.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c00981f",
+        "name": "Weakest Soldier",
+        "type": "ivideo",
+        "sourceId": "436yyhexzk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/436yyhexzk.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009820",
+        "name": "Sliding Window Maximum",
+        "type": "ivideo",
+        "sourceId": "7qlg6wkthm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7qlg6wkthm.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009821",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Heap Questions.pdf",
+        "pdf": "pdf/Heap Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Heap Questions.pdf"
+      },
+      {
+        "id": "69513a3a661516395c009822",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Heap Solutions.pdf",
+        "pdf": "pdf/Heap Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Heap Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Hashing",
+    "learningPath": [
+      {
+        "id": "69513a3a661516395c009823",
+        "name": "Hashing Introduction",
+        "type": "ivideo",
+        "sourceId": "km934vqthc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/km934vqthc.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009824",
+        "name": "HashMap",
+        "type": "ivideo",
+        "sourceId": "5eyft8f2tl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5eyft8f2tl.m3u8"
+      },
+      {
+        "id": "69513a3a661516395c009825",
+        "name": "HashMap Operations",
+        "type": "ivideo",
+        "sourceId": "wrcow5booe",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wrcow5booe.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009826",
+        "name": "Iteration on HashMaps",
+        "type": "ivideo",
+        "sourceId": "idjhfi4ie5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/idjhfi4ie5.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009827",
+        "name": "HashMap Implementation",
+        "type": "ivideo",
+        "sourceId": "sqb43cpeiz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sqb43cpeiz.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009828",
+        "name": "Update in Code",
+        "type": "pdf",
+        "pdf_name": "Note.pdf",
+        "pdf": "pdf/Note.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Note.pdf"
+      },
+      {
+        "id": "69513a3b661516395c009829",
+        "name": "HashMap Implementation Code",
+        "type": "ivideo",
+        "sourceId": "jxr3e9ysfq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jxr3e9ysfq.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00982a",
+        "name": "Special Note",
+        "type": "ivideo",
+        "sourceId": "3kmr4rq3s5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3kmr4rq3s5.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00982b",
+        "name": "LinkedHashMap",
+        "type": "ivideo",
+        "sourceId": "xfka6asz9g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xfka6asz9g.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00982c",
+        "name": "TreeMap",
+        "type": "ivideo",
+        "sourceId": "7313gp3rpg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7313gp3rpg.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00982d",
+        "name": "Comparison Table",
+        "type": "pdf",
+        "pdf_name": "Table.pdf",
+        "pdf": "pdf/Table.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Table.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00982e",
+        "name": "Majority Element",
+        "type": "ivideo",
+        "sourceId": "4dyk0kovam",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4dyk0kovam.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00982f",
+        "name": "Valid Anagram",
+        "type": "ivideo",
+        "sourceId": "ibhwj9j9q7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ibhwj9j9q7.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009830",
+        "name": "HashSet",
+        "type": "ivideo",
+        "sourceId": "agzavr2t3k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/agzavr2t3k.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009831",
+        "name": "Iteration on HashSets",
+        "type": "ivideo",
+        "sourceId": "k2n7fwfy1u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k2n7fwfy1u.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009832",
+        "name": "LinkedHashSet",
+        "type": "ivideo",
+        "sourceId": "rhwdpxg0pp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rhwdpxg0pp.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009833",
+        "name": "TreeSet",
+        "type": "ivideo",
+        "sourceId": "btzyl7r3q7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/btzyl7r3q7.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009834",
+        "name": "Count Distinct Elements",
+        "type": "ivideo",
+        "sourceId": "c3u4qg9cc5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c3u4qg9cc5.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009835",
+        "name": "Union & Intersection",
+        "type": "ivideo",
+        "sourceId": "v1afv1b9te",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v1afv1b9te.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009836",
+        "name": "Find Itinerary for Tickets",
+        "type": "ivideo",
+        "sourceId": "s0oqgtjahq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s0oqgtjahq.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009837",
+        "name": "Largest Subarray with Sum 0",
+        "type": "ivideo",
+        "sourceId": "e8xn3u3oc4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e8xn3u3oc4.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009838",
+        "name": "Subarray Sum Equal to K",
+        "type": "ivideo",
+        "sourceId": "6razm3v932",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6razm3v932.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009839",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Hashing Questions.pdf",
+        "pdf": "pdf/Hashing Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Hashing Questions.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00983a",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Hashing Solutions.pdf",
+        "pdf": "pdf/Hashing Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Hashing Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Tries ",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c00983b",
+        "name": "Tries Introduction",
+        "type": "ivideo",
+        "sourceId": "aaj7y6swji",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/aaj7y6swji.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00983c",
+        "name": "What is a Trie?",
+        "type": "ivideo",
+        "sourceId": "8qvrfmbkrg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8qvrfmbkrg.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00983d",
+        "name": "Creating a Trie",
+        "type": "ivideo",
+        "sourceId": "3179w4y2oy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3179w4y2oy.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00983e",
+        "name": "Insertion",
+        "type": "ivideo",
+        "sourceId": "jg5guvwu7o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jg5guvwu7o.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00983f",
+        "name": "Searching",
+        "type": "ivideo",
+        "sourceId": "bk5hk11rhc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bk5hk11rhc.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009840",
+        "name": "Word Break Problem",
+        "type": "ivideo",
+        "sourceId": "qsnbn7enjz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qsnbn7enjz.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009841",
+        "name": "Prefix Problem",
+        "type": "ivideo",
+        "sourceId": "3yr5e9yypv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3yr5e9yypv.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009842",
+        "name": "startsWith Problem",
+        "type": "ivideo",
+        "sourceId": "h39ftl5vma",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h39ftl5vma.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009843",
+        "name": "Unique Substrings",
+        "type": "ivideo",
+        "sourceId": "2l8f7w22ro",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2l8f7w22ro.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009844",
+        "name": "Longest Word with all Prefixes",
+        "type": "ivideo",
+        "sourceId": "7304xbvm6i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7304xbvm6i.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009845",
+        "name": "Practice Questions",
+        "type": "pdf",
+        "pdf_name": "Tries Questions.pdf",
+        "pdf": "pdf/Tries Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Tries Questions.pdf"
+      },
+      {
+        "id": "69513a3b661516395c009846",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "Tries Solutions.pdf",
+        "pdf": "pdf/Tries Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Tries Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Graphs (Part1)",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c009847",
+        "name": "Introduction to Graphs",
+        "type": "ivideo",
+        "sourceId": "0w5bxp70k0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0w5bxp70k0.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009848",
+        "name": "Types of Graphs (Based on Edge)",
+        "type": "ivideo",
+        "sourceId": "27tfk99io1",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/27tfk99io1.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009849",
+        "name": "Graph Representations",
+        "type": "ivideo",
+        "sourceId": "ugu9a4b66z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ugu9a4b66z.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00984a",
+        "name": "Graph Applications",
+        "type": "ivideo",
+        "sourceId": "9d9jf067nf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9d9jf067nf.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00984b",
+        "name": "Creating a Graph (Adjacency List)",
+        "type": "ivideo",
+        "sourceId": "3rokddt4mj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3rokddt4mj.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00984c",
+        "name": "BFS (Breadth First Search)",
+        "type": "ivideo",
+        "sourceId": "2e3xcj3kp9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2e3xcj3kp9.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00984d",
+        "name": "DFS (Depth First Search)",
+        "type": "ivideo",
+        "sourceId": "8fn26j2b3a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8fn26j2b3a.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00984e",
+        "name": "Has Path? (using DFS)",
+        "type": "ivideo",
+        "sourceId": "f0aocbg7ks",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/f0aocbg7ks.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Graphs (Part2)",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c00984f",
+        "name": "Connected Components",
+        "type": "ivideo",
+        "sourceId": "t1xajlukye",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t1xajlukye.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009850",
+        "name": "Cycle in Graphs",
+        "type": "ivideo",
+        "sourceId": "l4msap2nzk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l4msap2nzk.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009851",
+        "name": "Cycle Detection (Undirected Graph) - DFS",
+        "type": "ivideo",
+        "sourceId": "pesiopsvzp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pesiopsvzp.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009852",
+        "name": "Bipartite Graph",
+        "type": "ivideo",
+        "sourceId": "50qwglnm1o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/50qwglnm1o.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009853",
+        "name": "Cycle Detection (Directed graph) - DFS",
+        "type": "ivideo",
+        "sourceId": "llmy4v5p2u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/llmy4v5p2u.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009854",
+        "name": "Extra Read",
+        "type": "ivideo",
+        "sourceId": "mjqsmv8ayw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mjqsmv8ayw.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009855",
+        "name": "Topological Sorting (using DFS)",
+        "type": "ivideo",
+        "sourceId": "94r4x7yfuq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/94r4x7yfuq.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Graphs (Part3)",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c009856",
+        "name": "Topological Sort using BFS (Kahn's Algorithm)",
+        "type": "ivideo",
+        "sourceId": "oapos514me",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oapos514me.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009857",
+        "name": "Topological Sort using BFS (Code)",
+        "type": "ivideo",
+        "sourceId": "a8elae1xoa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a8elae1xoa.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009858",
+        "name": "All Paths from Source to Target",
+        "type": "ivideo",
+        "sourceId": "0i17sos4e3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0i17sos4e3.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009859",
+        "name": "Dijkstra's Algorithm",
+        "type": "ivideo",
+        "sourceId": "v15vpx66ry",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v15vpx66ry.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00985a",
+        "name": "Dijkstra's Algorithm (Code)",
+        "type": "ivideo",
+        "sourceId": "fb012xro1i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fb012xro1i.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00985b",
+        "name": "Practice Qs (Set1)",
+        "type": "pdf",
+        "pdf_name": "Graph-1 Questions.pdf",
+        "pdf": "pdf/Graph-1 Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Graph-1 Questions.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00985c",
+        "name": "Solutions for Practice Qs (Set1)",
+        "type": "pdf",
+        "pdf_name": "Graph-1 Solutions.pdf",
+        "pdf": "pdf/Graph-1 Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Graph-1 Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Graphs (Part4)",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c00985d",
+        "name": "Bellman Ford Algorithm",
+        "type": "ivideo",
+        "sourceId": "be2awt0nr8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/be2awt0nr8.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00985e",
+        "name": "Bellman Ford (Code)",
+        "type": "ivideo",
+        "sourceId": "y2jn3tzpdm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y2jn3tzpdm.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00985f",
+        "name": "What is MST?",
+        "type": "ivideo",
+        "sourceId": "5e4psvxgjh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5e4psvxgjh.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009860",
+        "name": "Prim's Algorithm",
+        "type": "ivideo",
+        "sourceId": "gfkj1l7n98",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gfkj1l7n98.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009861",
+        "name": "Prim's Code",
+        "type": "ivideo",
+        "sourceId": "smdqlhxlc0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/smdqlhxlc0.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Graph (Part5)",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c009862",
+        "name": "Cheapest Flights within K Stops",
+        "type": "ivideo",
+        "sourceId": "qq9qjedwrh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qq9qjedwrh.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009863",
+        "name": "Cheapest Flights within K Stops (Code)",
+        "type": "ivideo",
+        "sourceId": "wbzp2thlcf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wbzp2thlcf.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009864",
+        "name": "Connecting Cities",
+        "type": "ivideo",
+        "sourceId": "3whf8xx7rj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3whf8xx7rj.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009865",
+        "name": "Connecting Cities (Code)",
+        "type": "ivideo",
+        "sourceId": "w185ag94gw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/w185ag94gw.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009866",
+        "name": "Disjoint Set Union",
+        "type": "ivideo",
+        "sourceId": "af4qltyjhs",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/af4qltyjhs.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009867",
+        "name": "Kruskal's Algorithm",
+        "type": "ivideo",
+        "sourceId": "82hq6izy7k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/82hq6izy7k.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009868",
+        "name": "Flood Fill Algorithm",
+        "type": "ivideo",
+        "sourceId": "dr1wngvmy9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dr1wngvmy9.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c009869",
+        "name": "Tarjan's Algorithm (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Articulation Point.pdf",
+        "pdf": "pdf/Articulation Point.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Articulation Point.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00986a",
+        "name": "Floyd Warshall Algorithm (Reading Material)",
+        "type": "pdf",
+        "pdf_name": "Floyd Warshall Algorithm.pdf",
+        "pdf": "pdf/Floyd Warshall Algorithm.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Floyd Warshall Algorithm.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00986b",
+        "name": "Practice Qs (Set2)",
+        "type": "pdf",
+        "pdf_name": "Graoh-02 Questions.pdf",
+        "pdf": "pdf/Graoh-02 Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Graoh-02 Questions.pdf"
+      },
+      {
+        "id": "69513a3b661516395c00986c",
+        "name": "Solutions for Practice Qs (Set2)",
+        "type": "pdf",
+        "pdf_name": "Graph-02 Solutions.pdf",
+        "pdf": "pdf/Graph-02 Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/Graph-02 Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Graphs - Supplemental",
+    "learningPath": [
+      {
+        "id": "69513a3b661516395c00986d",
+        "name": "Strongly Connected Components (Kosaraju's Algorithm)",
+        "type": "ivideo",
+        "sourceId": "r5bfstyapc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/r5bfstyapc.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00986e",
+        "name": "Bridge in Graph (Tarjan's Algorithm)",
+        "type": "ivideo",
+        "sourceId": "ifuzhed48f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ifuzhed48f.m3u8"
+      },
+      {
+        "id": "69513a3b661516395c00986f",
+        "name": "Articulation Point (Tarjan's Algorithm)",
+        "type": "ivideo",
+        "sourceId": "6kvobhb3un",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6kvobhb3un.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part1)",
+    "learningPath": [
+      {
+        "id": "696657c01ec173e1b1051434",
+        "name": "Introduction to DP",
+        "type": "ivideo",
+        "sourceId": "xpt75q48sv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xpt75q48sv.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051435",
+        "name": "What is DP? (Definition)",
+        "type": "ivideo",
+        "sourceId": "1tl5iylg1e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1tl5iylg1e.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051436",
+        "name": "Ways of DP",
+        "type": "ivideo",
+        "sourceId": "n1ulxrxe55",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/n1ulxrxe55.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051437",
+        "name": "7 Important Concepts",
+        "type": "ivideo",
+        "sourceId": "tcn9k6ajl5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tcn9k6ajl5.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051438",
+        "name": "Climbing Stairs (Recursion)",
+        "type": "ivideo",
+        "sourceId": "tjuwnu78d5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/tjuwnu78d5.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051439",
+        "name": "Climbing Stairs (Memoization DP)",
+        "type": "ivideo",
+        "sourceId": "bvz11nwwmf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bvz11nwwmf.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105143a",
+        "name": "Climbing Stairs Variation",
+        "type": "ivideo",
+        "sourceId": "xn0zelhi3h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xn0zelhi3h.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105143b",
+        "name": "Climbing Stairs (Tabulation DP)",
+        "type": "ivideo",
+        "sourceId": "6lm0xf0jih",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6lm0xf0jih.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part2)",
+    "learningPath": [
+      {
+        "id": "696657c01ec173e1b105143c",
+        "name": "Types of Knapsack problems",
+        "type": "ivideo",
+        "sourceId": "kdsd9a6tpc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kdsd9a6tpc.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105143d",
+        "name": "0-1 Knapsack (Recursion)",
+        "type": "ivideo",
+        "sourceId": "og5yj1lezj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/og5yj1lezj.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105143e",
+        "name": "0-1 Knapsack (Memoization)",
+        "type": "ivideo",
+        "sourceId": "jfec0ppp22",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jfec0ppp22.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105143f",
+        "name": "0-1 Knapsack (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "s7r55tbjak",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s7r55tbjak.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051440",
+        "name": "Target Sum Subset (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "85qjbrana3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/85qjbrana3.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051441",
+        "name": "Target Sum Subset (Code)",
+        "type": "ivideo",
+        "sourceId": "u5y71epzud",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u5y71epzud.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051442",
+        "name": "Unbounded Knapsack (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "1dqdf1syzr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1dqdf1syzr.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part3)",
+    "learningPath": [
+      {
+        "id": "696657c01ec173e1b1051443",
+        "name": "Coin Change (Live Class)",
+        "type": "ivideo",
+        "sourceId": "jd4dfqq4yy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jd4dfqq4yy.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051444",
+        "name": "Rod Cutting",
+        "type": "ivideo",
+        "sourceId": "knio8e51da",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/knio8e51da.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051445",
+        "name": "Longest Common Subsequence (Recursion)",
+        "type": "ivideo",
+        "sourceId": "kagrflifws",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kagrflifws.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051446",
+        "name": "LCS (Memoization)",
+        "type": "ivideo",
+        "sourceId": "apicp69489",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/apicp69489.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051447",
+        "name": "LCS (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "c5l744k7sh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c5l744k7sh.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part4)",
+    "learningPath": [
+      {
+        "id": "696657c01ec173e1b1051448",
+        "name": "Longest Common Substring",
+        "type": "ivideo",
+        "sourceId": "vd6tb862hi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vd6tb862hi.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b1051449",
+        "name": "Longest Increasing Subsequence",
+        "type": "ivideo",
+        "sourceId": "4m05o5rswb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4m05o5rswb.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105144a",
+        "name": "Edit Distance (Explanation)",
+        "type": "ivideo",
+        "sourceId": "3i2pjgcfhj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3i2pjgcfhj.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105144b",
+        "name": "Edit Distance (Code)",
+        "type": "ivideo",
+        "sourceId": "ql2ljpufb9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ql2ljpufb9.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105144c",
+        "name": "String Conversion",
+        "type": "ivideo",
+        "sourceId": "yc3utslssq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yc3utslssq.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part5)",
+    "learningPath": [
+      {
+        "id": "696657c01ec173e1b105144d",
+        "name": "Wildcard Matching - Hard (Explanation)",
+        "type": "ivideo",
+        "sourceId": "awo0j1eky7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/awo0j1eky7.m3u8"
+      },
+      {
+        "id": "696657c01ec173e1b105144e",
+        "name": "Wildcard Matching (Code)",
+        "type": "ivideo",
+        "sourceId": "b1z8pvbx8k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b1z8pvbx8k.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b105144f",
+        "name": "Catalan's Number (Recursion + Memoization)",
+        "type": "ivideo",
+        "sourceId": "oi6qgi5t9g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oi6qgi5t9g.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051450",
+        "name": "Catalan's Number (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "kyzl4cipo5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kyzl4cipo5.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051451",
+        "name": "Count BSTs",
+        "type": "ivideo",
+        "sourceId": "3vaaecrgds",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3vaaecrgds.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051452",
+        "name": "Mountain Ranges",
+        "type": "ivideo",
+        "sourceId": "qylroeauyq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qylroeauyq.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "DP (Part6)",
+    "learningPath": [
+      {
+        "id": "696657c11ec173e1b1051453",
+        "name": "Basics of Matrices (Math)",
+        "type": "ivideo",
+        "sourceId": "uqtpolcqc4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uqtpolcqc4.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051454",
+        "name": "Matrix Chain Multiplication (Recursion)",
+        "type": "ivideo",
+        "sourceId": "ubc04b1zwh",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ubc04b1zwh.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051455",
+        "name": "MCM (Memoization)",
+        "type": "ivideo",
+        "sourceId": "67wy651a4h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/67wy651a4h.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051456",
+        "name": "MCM (Tabulation)",
+        "type": "ivideo",
+        "sourceId": "2x0o6w5rsk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2x0o6w5rsk.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051457",
+        "name": "Minimum Partitioning",
+        "type": "ivideo",
+        "sourceId": "cvby9tifk5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cvby9tifk5.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051458",
+        "name": "Minimum Array Jumps (Explanation)",
+        "type": "ivideo",
+        "sourceId": "xmourfhmd9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xmourfhmd9.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051459",
+        "name": "Minimum Array Jumps (Code)",
+        "type": "ivideo",
+        "sourceId": "rifbeoqc3q",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rifbeoqc3q.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b105145a",
+        "name": "Practice Qs",
+        "type": "pdf",
+        "pdf_name": "DP Questions.pdf",
+        "pdf": "pdf/DP Questions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/DP Questions.pdf"
+      },
+      {
+        "id": "696657c11ec173e1b105145b",
+        "name": "Solutions for Practice Qs",
+        "type": "pdf",
+        "pdf_name": "DP Solutions.pdf",
+        "pdf": "pdf/DP Solutions.pdf",
+        "pdf_full": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&access_token=zL8iVlkf8rToONwXdnCPrmlYiDHMxYcf5rBmyfYk&file=pdf/DP Solutions.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Segment Trees",
+    "learningPath": [
+      {
+        "id": "696657c11ec173e1b105145c",
+        "name": "Segment Trees Introduction",
+        "type": "ivideo",
+        "sourceId": "7n7qztg1bz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7n7qztg1bz.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b105145d",
+        "name": "Count & Meaning of Nodes",
+        "type": "ivideo",
+        "sourceId": "djna0m4lpo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/djna0m4lpo.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b105145e",
+        "name": "Creation of ST",
+        "type": "ivideo",
+        "sourceId": "uuuu8jsx9x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uuuu8jsx9x.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b105145f",
+        "name": "Queries on ST",
+        "type": "ivideo",
+        "sourceId": "oj85oureth",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/oj85oureth.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051460",
+        "name": "Update on ST",
+        "type": "ivideo",
+        "sourceId": "pl6qva4v7m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pl6qva4v7m.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051461",
+        "name": "Max/Min Segment Tree (Creation)",
+        "type": "ivideo",
+        "sourceId": "2ivroeebje",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2ivroeebje.m3u8"
+      },
+      {
+        "id": "696657c11ec173e1b1051462",
+        "name": "Max/Min Segment Tree (Query/Update)",
+        "type": "ivideo",
+        "sourceId": "k6ou7mpesi",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k6ou7mpesi.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "Certificate of Completion",
+    "learningPath": [
+      {
+        "id": "696657c11ec173e1b1051464",
+        "name": "Certificate of Completion",
+        "type": "certificateCompletion_v2"
+      }
+    ]
+  }
+]
