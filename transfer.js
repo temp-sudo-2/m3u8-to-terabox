@@ -56,9 +56,9 @@ axios.interceptors.response.use(undefined, (error) => {
   return Promise.reject(error);
 });
 
-const INPUT_FILE = path.resolve("video-java.json");
-const OUTPUT_FILE = path.resolve("output-video-java.json");
-const PROGRESS_FILE = path.resolve("progress-video-java.json");
+const INPUT_FILE = path.resolve("video-cpp.json");
+const OUTPUT_FILE = path.resolve("output-video-cpp.json");
+const PROGRESS_FILE = path.resolve("progress-video-cpp.json");
 const TEMP_DIR = path.resolve("temp");
 
 const REMOTE_ROOT = "/CourseArchive";
