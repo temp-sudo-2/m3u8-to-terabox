@@ -1,0 +1,2892 @@
+[
+  {
+    "category": "Course Introduction",
+    "learningPath": [
+      {
+        "id": "68fa3b4187f7d968610ee9c4",
+        "name": "Message from the Teacher",
+        "type": "ivideo",
+        "sourceId": "abwboh36t8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/abwboh36t8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Message_from_the_Teacher_abwboh36t8_1080p.mp4",
+          "fs_id": "749931418854541",
+          "size": 99021080,
+          "shareUrl": "https://1024terabox.com/s/1cuk2xfoj_PGPf_jNl5Hotw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9c5",
+        "name": "Placements & Internships",
+        "type": "ivideo",
+        "sourceId": "3u4uh30u69",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3u4uh30u69.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Placements_&_Internships_3u4uh30u69_1080p.mp4",
+          "fs_id": "892351817480653",
+          "size": 25516109,
+          "shareUrl": "https://1024terabox.com/s/1ZCgD8F2znFPVVx_p6IMbKg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9c6",
+        "name": "About the Lectures",
+        "type": "ivideo",
+        "sourceId": "0gumrkdg8r",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0gumrkdg8r.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_About_the_Lectures_0gumrkdg8r_1080p.mp4",
+          "fs_id": "254527079889977",
+          "size": 8017671,
+          "shareUrl": "https://1024terabox.com/s/1WztvxGtdSUm_zBLGVh2peA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9c7",
+        "name": "Pre-requisites",
+        "type": "ivideo",
+        "sourceId": "zl1iu1r5ij",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zl1iu1r5ij.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_Pre-requisites_zl1iu1r5ij_1080p.mp4",
+          "fs_id": "521357415001762",
+          "size": 16848203,
+          "shareUrl": "https://1024terabox.com/s/18VjxfwulUw9XrKeyj_VDzQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9c8",
+        "name": "What to Install?",
+        "type": "ivideo",
+        "sourceId": "s3kifwrq6n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s3kifwrq6n.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Course_Introduction/Course_Introduction_What_to_Install__s3kifwrq6n_1080p.mp4",
+          "fs_id": "932046240489206",
+          "size": 27388962,
+          "shareUrl": "https://1024terabox.com/s/1Z_wJibLzcV-zeNOYWSKikw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Installation Resources",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9ca",
+        "name": "Using Replit",
+        "type": "ivideo",
+        "sourceId": "l3c8mn06g4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/l3c8mn06g4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation_Resources/Installation_Resources_Using_Replit_l3c8mn06g4_1080p.mp4",
+          "fs_id": "863029705325681",
+          "size": 14763816,
+          "shareUrl": "https://1024terabox.com/s/1I1_cFJTSK0aUxoNtBEtlxQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9cb",
+        "name": "For Mac Users - Setting up C++",
+        "type": "ivideo",
+        "sourceId": "p74o2pkiiz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/p74o2pkiiz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation_Resources/Installation_Resources_For_Mac_Users_-_Setting_up_C++_p74o2pkiiz_1080p.mp4",
+          "fs_id": "946338420034228",
+          "size": 16317116,
+          "shareUrl": "https://1024terabox.com/s/1-3EGIjZikwmk_LBK9ewvbw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9cc",
+        "name": "Using VS Code",
+        "type": "ivideo",
+        "sourceId": "s68r1rlwkd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s68r1rlwkd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Installation_Resources/Installation_Resources_Using_VS_Code_s68r1rlwkd_1080p.mp4",
+          "fs_id": "228622160539005",
+          "size": 31674437,
+          "shareUrl": "https://1024terabox.com/s/1xTee4RAQCykybnJBIuwv_Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Flowcharts & Pseudocode",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9cd",
+        "name": "What are Flowcharts?",
+        "type": "ivideo",
+        "sourceId": "kglw3l507d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kglw3l507d.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_What_are_Flowcharts__kglw3l507d_1080p.mp4",
+          "fs_id": "266487640994185",
+          "size": 54860051,
+          "shareUrl": "https://1024terabox.com/s/1QQ8cPm7hJPro2uDisdPbFA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ce",
+        "name": "Components of Flowchart",
+        "type": "ivideo",
+        "sourceId": "6tjylgikze",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6tjylgikze.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Components_of_Flowchart_6tjylgikze_1080p.mp4",
+          "fs_id": "923860488949416",
+          "size": 35136566,
+          "shareUrl": "https://1024terabox.com/s/19ury7mHvAj-F1k_8vOkjgg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9cf",
+        "name": "Sum of 2 Numbers",
+        "type": "ivideo",
+        "sourceId": "ntie0blcn5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ntie0blcn5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Sum_of_2_Numbers_ntie0blcn5_1080p.mp4",
+          "fs_id": "573230157130658",
+          "size": 31000880,
+          "shareUrl": "https://1024terabox.com/s/1HSV8jBnAy8Fg9I5i0ebvBQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d0",
+        "name": "Calculate Simple Interest",
+        "type": "ivideo",
+        "sourceId": "0tw39c6syj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0tw39c6syj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Calculate_Simple_Interest_0tw39c6syj_1080p.mp4",
+          "fs_id": "366741861794739",
+          "size": 17162257,
+          "shareUrl": "https://1024terabox.com/s/1Nn8M6KjfKXgZTW9SfM9-iw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d1",
+        "name": "Max of 2 Numbers",
+        "type": "ivideo",
+        "sourceId": "y925bbrtv4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y925bbrtv4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Max_of_2_Numbers_y925bbrtv4_1080p.mp4",
+          "fs_id": "552885465933659",
+          "size": 32987648,
+          "shareUrl": "https://1024terabox.com/s/1pGxgnziO4xMz-3NDyP7h0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d2",
+        "name": "Print N Natural Numbers",
+        "type": "ivideo",
+        "sourceId": "17eckvqdc4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/17eckvqdc4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Print_N_Natural_Numbers_17eckvqdc4_1080p.mp4",
+          "fs_id": "145595649408848",
+          "size": 51911966,
+          "shareUrl": "https://1024terabox.com/s/1m7lZM4BZXBjJ6p6SN8MjRA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d3",
+        "name": "Sum of N Natural Numbers",
+        "type": "ivideo",
+        "sourceId": "axobv7k4tp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/axobv7k4tp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Flowcharts_&_Pseudocode/Flowcharts_&_Pseudocode_Sum_of_N_Natural_Numbers_axobv7k4tp_1080p.mp4",
+          "fs_id": "568647347302143",
+          "size": 55869191,
+          "shareUrl": "https://1024terabox.com/s/1AspzOiTfTP3bBVd-LumXNA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Variables & Data Types",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9d6",
+        "name": "Boilerplate Code in C++",
+        "type": "ivideo",
+        "sourceId": "o7yffa0n56",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o7yffa0n56.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Boilerplate_Code_in_C++_o7yffa0n56_1080p.mp4",
+          "fs_id": "702335149532563",
+          "size": 41360686,
+          "shareUrl": "https://1024terabox.com/s/1yOkXYia8iQqJWJ2bjFJvQg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d7",
+        "name": "How does code run?",
+        "type": "ivideo",
+        "sourceId": "co5ipmy8n8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/co5ipmy8n8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_How_does_code_run__co5ipmy8n8_1080p.mp4",
+          "fs_id": "48545587861565",
+          "size": 31828288,
+          "shareUrl": "https://1024terabox.com/s/11dvtnPeSe4uAfmH8o-gtFA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d8",
+        "name": "Preprocessor Directive",
+        "type": "ivideo",
+        "sourceId": "1nxf4f8bfk",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1nxf4f8bfk.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Preprocessor_Directive_1nxf4f8bfk_1080p.mp4",
+          "fs_id": "763249180946785",
+          "size": 34644152,
+          "shareUrl": "https://1024terabox.com/s/1egnv6M5VLdd9rKnHAqR_Gg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9d9",
+        "name": "Main Function in C++",
+        "type": "ivideo",
+        "sourceId": "rk2yk97p13",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rk2yk97p13.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Main_Function_in_C++_rk2yk97p13_1080p.mp4",
+          "fs_id": "696385398738435",
+          "size": 11283286,
+          "shareUrl": "https://1024terabox.com/s/1zo2WDdLTLoWvf1RlRCDvPw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9da",
+        "name": "What is Namespace?",
+        "type": "ivideo",
+        "sourceId": "pr6x81ogih",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pr6x81ogih.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_What_is_Namespace__pr6x81ogih_1080p.mp4",
+          "fs_id": "319562454846325",
+          "size": 38551025,
+          "shareUrl": "https://1024terabox.com/s/1Hz7hZzlWVGMGPYdunLaDjg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9db",
+        "name": "Output in C++",
+        "type": "ivideo",
+        "sourceId": "7z96ct3frj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7z96ct3frj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Output_in_C++_7z96ct3frj_1080p.mp4",
+          "fs_id": "228550053715677",
+          "size": 48395657,
+          "shareUrl": "https://1024terabox.com/s/1dbXQcXXWXBk_8lsjOTwlEA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9dc",
+        "name": "Print the Pattern",
+        "type": "ivideo",
+        "sourceId": "lcy5h8ihm0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lcy5h8ihm0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Print_the_Pattern_lcy5h8ihm0_1080p.mp4",
+          "fs_id": "423014342944411",
+          "size": 11679647,
+          "shareUrl": "https://1024terabox.com/s/1SQg8PzLfEjfilC7UwNGiCw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9dd",
+        "name": "Variables in C++",
+        "type": "ivideo",
+        "sourceId": "yg2fhxw36g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yg2fhxw36g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Variables_in_C++_yg2fhxw36g_1080p.mp4",
+          "fs_id": "190539881968094",
+          "size": 70965676,
+          "shareUrl": "https://1024terabox.com/s/1sjM-Id5KwHmBvjzO7Nm5AA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9de",
+        "name": "Naming Conventions",
+        "type": "ivideo",
+        "sourceId": "0mvajqc5ez",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0mvajqc5ez.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Naming_Conventions_0mvajqc5ez_1080p.mp4",
+          "fs_id": "57740161538029",
+          "size": 23221691,
+          "shareUrl": "https://1024terabox.com/s/1QN53k88Dc-osesG6kZybag",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9df",
+        "name": "Identify Valid Names",
+        "type": "ivideo",
+        "sourceId": "go32zvrv09",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/go32zvrv09.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Identify_Valid_Names_go32zvrv09_1080p.mp4",
+          "fs_id": "1042189898907205",
+          "size": 9443056,
+          "shareUrl": "https://1024terabox.com/s/1MRcDjdNTDTFcBJEnJjMIzw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e0",
+        "name": "Data Types in C++",
+        "type": "ivideo",
+        "sourceId": "2cjjswloau",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2cjjswloau.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Data_Types_in_C++_2cjjswloau_1080p.mp4",
+          "fs_id": "819497719863778",
+          "size": 77802031,
+          "shareUrl": "https://1024terabox.com/s/1f8ToBj-rtNnZ5Q1gDNCLZA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e1",
+        "name": "Comments",
+        "type": "ivideo",
+        "sourceId": "joyeyl58nc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/joyeyl58nc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Comments_joyeyl58nc_1080p.mp4",
+          "fs_id": "1039672387148360",
+          "size": 15997048,
+          "shareUrl": "https://1024terabox.com/s/1wKVrrGjT1NmWd3GR93NKiw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e2",
+        "name": "Input in C++",
+        "type": "ivideo",
+        "sourceId": "ep8vtbtyy0",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ep8vtbtyy0.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Input_in_C++_ep8vtbtyy0_1080p.mp4",
+          "fs_id": "716412836273886",
+          "size": 33006942,
+          "shareUrl": "https://1024terabox.com/s/1_nVkW7YuKsBQV0hjsgUUeA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e3",
+        "name": "Print Average Marks",
+        "type": "ivideo",
+        "sourceId": "c12pq08h8k",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c12pq08h8k.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Variables_&_Data_Types/Variables_&_Data_Types_Print_Average_Marks_c12pq08h8k_1080p.mp4",
+          "fs_id": "949405091056500",
+          "size": 21529004,
+          "shareUrl": "https://1024terabox.com/s/1s13fghFlPXFWXzu9zmyP6g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Operators",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9e6",
+        "name": "Constants",
+        "type": "ivideo",
+        "sourceId": "fnsle0gugp",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fnsle0gugp.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Constants_fnsle0gugp_1080p.mp4",
+          "fs_id": "200142862879874",
+          "size": 47043793,
+          "shareUrl": "https://1024terabox.com/s/17IUwWCU7jujlkyMYgW9shw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e7",
+        "name": "Implicit Type Conversion",
+        "type": "ivideo",
+        "sourceId": "i3clnsrs91",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i3clnsrs91.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Implicit_Type_Conversion_i3clnsrs91_1080p.mp4",
+          "fs_id": "655016348477731",
+          "size": 41027517,
+          "shareUrl": "https://1024terabox.com/s/1k8vZ3DTF-h-G0REmyzbCFw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e8",
+        "name": "Explicit Typecasting",
+        "type": "ivideo",
+        "sourceId": "yw29g8hrj8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yw29g8hrj8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Explicit_Typecasting_yw29g8hrj8_1080p.mp4",
+          "fs_id": "339731710077488",
+          "size": 18251003,
+          "shareUrl": "https://1024terabox.com/s/1Al44IMh_dzndYgU4CkZ3bQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9e9",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "5vie3t6rt3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5vie3t6rt3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Practice_Qs_5vie3t6rt3_1080p.mp4",
+          "fs_id": "269949421393194",
+          "size": 18500258,
+          "shareUrl": "https://1024terabox.com/s/1QBxZ0GO0bX9e2IGJso8_rw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ea",
+        "name": "Arithmetic Operators",
+        "type": "ivideo",
+        "sourceId": "6x0o398nog",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6x0o398nog.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Arithmetic_Operators_6x0o398nog_1080p.mp4",
+          "fs_id": "192905766234928",
+          "size": 31455282,
+          "shareUrl": "https://1024terabox.com/s/1sEesTfwbm1gNWTxWvTbsfg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9eb",
+        "name": "Unary Arithmetic Operators",
+        "type": "ivideo",
+        "sourceId": "v6435th9xe",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v6435th9xe.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Unary_Arithmetic_Operators_v6435th9xe_1080p.mp4",
+          "fs_id": "529266298366089",
+          "size": 40230717,
+          "shareUrl": "https://1024terabox.com/s/1yPzLAZxNXeeNLD5kIXoAog",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ec",
+        "name": "Assignment Operators",
+        "type": "ivideo",
+        "sourceId": "vi4huscgde",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vi4huscgde.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Assignment_Operators_vi4huscgde_1080p.mp4",
+          "fs_id": "726968675515990",
+          "size": 20272474,
+          "shareUrl": "https://1024terabox.com/s/1qu7c0sPsefjL6T3CGmFIhQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ed",
+        "name": "Relational Operators",
+        "type": "ivideo",
+        "sourceId": "d8hpulpvqe",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d8hpulpvqe.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Relational_Operators_d8hpulpvqe_1080p.mp4",
+          "fs_id": "550957791629057",
+          "size": 23981311,
+          "shareUrl": "https://1024terabox.com/s/1X9OY8aYid0LqFNfgbC1loQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ee",
+        "name": "Logical Operators",
+        "type": "ivideo",
+        "sourceId": "m527vhrbwb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m527vhrbwb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Operators/Operators_Logical_Operators_m527vhrbwb_1080p.mp4",
+          "fs_id": "789380709408179",
+          "size": 34989585,
+          "shareUrl": "https://1024terabox.com/s/1cnmfR9glp4prRly3o-q32Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Conditional Statements",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9f1",
+        "name": "If else Statements",
+        "type": "ivideo",
+        "sourceId": "i12bcx9bzr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/i12bcx9bzr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_If_else_Statements_i12bcx9bzr_1080p.mp4",
+          "fs_id": "647473824450318",
+          "size": 61786334,
+          "shareUrl": "https://1024terabox.com/s/1fWSlOxy9qNFcAQIXTTSuOw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f2",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "y08tf3851v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/y08tf3851v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Practice_Qs_y08tf3851v_1080p.mp4",
+          "fs_id": "905263277385760",
+          "size": 33299654,
+          "shareUrl": "https://1024terabox.com/s/1n3BBK6g90nVpETIoFG69vg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f3",
+        "name": "Else if Statements",
+        "type": "ivideo",
+        "sourceId": "2ltcfyitwd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2ltcfyitwd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Else_if_Statements_2ltcfyitwd_1080p.mp4",
+          "fs_id": "108083014506690",
+          "size": 27032202,
+          "shareUrl": "https://1024terabox.com/s/1JM2cLPQYpQoIFEpvURdBBQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f4",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "6nbrmva1ep",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6nbrmva1ep.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Practice_Qs_6nbrmva1ep_1080p.mp4",
+          "fs_id": "303557110548418",
+          "size": 26196519,
+          "shareUrl": "https://1024terabox.com/s/18Uc8VKpc9l02Bpd31AiS3Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f5",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "kelazdmrbr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kelazdmrbr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Practice_Qs_kelazdmrbr_1080p.mp4",
+          "fs_id": "946809211642135",
+          "size": 14928537,
+          "shareUrl": "https://1024terabox.com/s/1HpWGwQdpeM5R9Q-cMhZW3A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f6",
+        "name": "Ternary Operator",
+        "type": "ivideo",
+        "sourceId": "8j0fop8m4o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8j0fop8m4o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Ternary_Operator_8j0fop8m4o_1080p.mp4",
+          "fs_id": "475103338119579",
+          "size": 30511542,
+          "shareUrl": "https://1024terabox.com/s/1dSeImI15N3EigJ9s7NHKew",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f7",
+        "name": "Switch Statement",
+        "type": "ivideo",
+        "sourceId": "hbfeaza7we",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hbfeaza7we.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Switch_Statement_hbfeaza7we_1080p.mp4",
+          "fs_id": "522780207432718",
+          "size": 40158037,
+          "shareUrl": "https://1024terabox.com/s/1amLIapXV4RUvOXB5iIU0zg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9f8",
+        "name": "Build a Calculator",
+        "type": "ivideo",
+        "sourceId": "4cl9qiolws",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4cl9qiolws.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Conditional_Statements/Conditional_Statements_Build_a_Calculator_4cl9qiolws_1080p.mp4",
+          "fs_id": "316559982420536",
+          "size": 49764667,
+          "shareUrl": "https://1024terabox.com/s/1l6PrlLAp8tltr-eRJ96dLQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Loops",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610ee9fb",
+        "name": "for Loop (in Detail)",
+        "type": "ivideo",
+        "sourceId": "6naqinwkcu",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6naqinwkcu.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_for_Loop_(in_Detail)_6naqinwkcu_1080p.mp4",
+          "fs_id": "481349937297344",
+          "size": 119637074,
+          "shareUrl": "https://1024terabox.com/s/1JHl0uANIf3uWt1ilVTd3Zg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9fc",
+        "name": "Print \"apna college\"",
+        "type": "ivideo",
+        "sourceId": "ndxbn9rt8n",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ndxbn9rt8n.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Print__apna_college__ndxbn9rt8n_1080p.mp4",
+          "fs_id": "173332080510598",
+          "size": 30984883,
+          "shareUrl": "https://1024terabox.com/s/1XRrYvm4CwBw6HZh_dtH6yg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9fd",
+        "name": "Print N Natural Numbers",
+        "type": "ivideo",
+        "sourceId": "rj8omz0g9v",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rj8omz0g9v.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Print_N_Natural_Numbers_rj8omz0g9v_1080p.mp4",
+          "fs_id": "27874569480768",
+          "size": 16427457,
+          "shareUrl": "https://1024terabox.com/s/1EbJ7XKnXN076OmkVXdWGRQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9fe",
+        "name": "Sum of N Natural Numbers",
+        "type": "ivideo",
+        "sourceId": "qoh20pg1cb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qoh20pg1cb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Sum_of_N_Natural_Numbers_qoh20pg1cb_1080p.mp4",
+          "fs_id": "367467341539151",
+          "size": 22300175,
+          "shareUrl": "https://1024terabox.com/s/1bnNKzpotg4_vaNy4WGJIiA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610ee9ff",
+        "name": "while Loop",
+        "type": "ivideo",
+        "sourceId": "o4ye8cda1a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/o4ye8cda1a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_while_Loop_o4ye8cda1a_1080p.mp4",
+          "fs_id": "412546896226237",
+          "size": 24014451,
+          "shareUrl": "https://1024terabox.com/s/1FXQUKL4756pTfdseiG4_4g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea00",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "hw8ekewtt4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hw8ekewtt4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Practice_Qs_hw8ekewtt4_1080p.mp4",
+          "fs_id": "372146780990086",
+          "size": 32369546,
+          "shareUrl": "https://1024terabox.com/s/1puQVwIl0UrnTMcyaGhzWtQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea01",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "sngzwl0m6m",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sngzwl0m6m.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Practice_Qs_sngzwl0m6m_1080p.mp4",
+          "fs_id": "809759920173358",
+          "size": 112005778,
+          "shareUrl": "https://1024terabox.com/s/1NqRo-WP1LpriutEta56e_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea02",
+        "name": "do while Loop",
+        "type": "ivideo",
+        "sourceId": "zkxnzz2cwx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zkxnzz2cwx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_do_while_Loop_zkxnzz2cwx_1080p.mp4",
+          "fs_id": "295141305929471",
+          "size": 25509050,
+          "shareUrl": "https://1024terabox.com/s/1Mt0Hh4Diqs4Z12xxmtOYRQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea03",
+        "name": "break Statement",
+        "type": "ivideo",
+        "sourceId": "1d8b9p9qwc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/1d8b9p9qwc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_break_Statement_1d8b9p9qwc_1080p.mp4",
+          "fs_id": "630977682302482",
+          "size": 10041570,
+          "shareUrl": "https://1024terabox.com/s/1f2HY5NS39SKF0aZjm8TMBQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea04",
+        "name": "Practice Qs (break)",
+        "type": "ivideo",
+        "sourceId": "mgxozg8w49",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mgxozg8w49.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Practice_Qs_(break)_mgxozg8w49_1080p.mp4",
+          "fs_id": "180088272602931",
+          "size": 19595110,
+          "shareUrl": "https://1024terabox.com/s/15fPk9KkMjIwFrUx11TrQUA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea05",
+        "name": "continue Statement",
+        "type": "ivideo",
+        "sourceId": "njitpjebk7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/njitpjebk7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_continue_Statement_njitpjebk7_1080p.mp4",
+          "fs_id": "367427457319109",
+          "size": 9114542,
+          "shareUrl": "https://1024terabox.com/s/1NjFfWgij91ruO_gtDb_sFQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea06",
+        "name": "Practice Qs (continue)",
+        "type": "ivideo",
+        "sourceId": "ikbt4kw8mx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ikbt4kw8mx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Practice_Qs_(continue)_ikbt4kw8mx_1080p.mp4",
+          "fs_id": "626873892837716",
+          "size": 7606459,
+          "shareUrl": "https://1024terabox.com/s/1_hgELNK6NW3M7JXa4mBkNg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea07",
+        "name": "Check for Prime",
+        "type": "ivideo",
+        "sourceId": "a4fwdyhj12",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/a4fwdyhj12.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Check_for_Prime_a4fwdyhj12_1080p.mp4",
+          "fs_id": "818275085489927",
+          "size": 81085290,
+          "shareUrl": "https://1024terabox.com/s/1gE9T1Ok_TT7jepVBHksyNg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea08",
+        "name": "Check for Prime (Optimized)",
+        "type": "ivideo",
+        "sourceId": "iee7qirc2f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iee7qirc2f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Loops/Loops_Check_for_Prime_(Optimized)_iee7qirc2f_1080p.mp4",
+          "fs_id": "147923812756569",
+          "size": 51572191,
+          "shareUrl": "https://1024terabox.com/s/1mBUHKdwvmAksktZlwfNlsA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Patterns",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610eea0b",
+        "name": "Nested Loops",
+        "type": "ivideo",
+        "sourceId": "lmrxwzta0w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lmrxwzta0w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Nested_Loops_lmrxwzta0w_1080p.mp4",
+          "fs_id": "729165377922171",
+          "size": 85312557,
+          "shareUrl": "https://1024terabox.com/s/1QPcpXDyK3Njys_4yjfKSbQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea0c",
+        "name": "Nested Loops (Dry Run)",
+        "type": "ivideo",
+        "sourceId": "fmfzrygdwx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fmfzrygdwx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Nested_Loops_(Dry_Run)_fmfzrygdwx_1080p.mp4",
+          "fs_id": "952427170802580",
+          "size": 66948492,
+          "shareUrl": "https://1024terabox.com/s/1D23dMpMlR6UaGaimwQ8GtQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea0d",
+        "name": "Star Pattern",
+        "type": "ivideo",
+        "sourceId": "m93vbtqyz2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/m93vbtqyz2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Star_Pattern_m93vbtqyz2_1080p.mp4",
+          "fs_id": "378454574830097",
+          "size": 48434505,
+          "shareUrl": "https://1024terabox.com/s/15dLYFE21eNHz10IhBFobuQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea0e",
+        "name": "Inverted Star Pattern",
+        "type": "ivideo",
+        "sourceId": "d6ku7qd92s",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d6ku7qd92s.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Inverted_Star_Pattern_d6ku7qd92s_1080p.mp4",
+          "fs_id": "425403798124126",
+          "size": 67788764,
+          "shareUrl": "https://1024terabox.com/s/1dD5LkzuRqnXwjvtBt4qbFg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea0f",
+        "name": "Half Pyramid Pattern",
+        "type": "ivideo",
+        "sourceId": "cl7s9pluc8",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cl7s9pluc8.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Half_Pyramid_Pattern_cl7s9pluc8_1080p.mp4",
+          "fs_id": "496514981951554",
+          "size": 33416811,
+          "shareUrl": "https://1024terabox.com/s/17G5l8XQzvZ5eJlBWCZ89dw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea10",
+        "name": "Character Pyramid Pattern",
+        "type": "ivideo",
+        "sourceId": "3mj0ln557x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3mj0ln557x.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Character_Pyramid_Pattern_3mj0ln557x_1080p.mp4",
+          "fs_id": "62384459646930",
+          "size": 33049030,
+          "shareUrl": "https://1024terabox.com/s/1gFLrleJRocT8lSDJOtQR4Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea11",
+        "name": "Hollow Rectangle Pattern",
+        "type": "ivideo",
+        "sourceId": "rxbkbgvy8g",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rxbkbgvy8g.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Hollow_Rectangle_Pattern_rxbkbgvy8g_1080p.mp4",
+          "fs_id": "760043687325636",
+          "size": 51433995,
+          "shareUrl": "https://1024terabox.com/s/1i2PwH0PMNtJEXfZHpUOiAQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea12",
+        "name": "Inverted & Rotated Half-Pyramid Pattern",
+        "type": "ivideo",
+        "sourceId": "gizq32pnhc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gizq32pnhc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Inverted_&_Rotated_Half-Pyramid_Pattern_gizq32pnhc_1080p.mp4",
+          "fs_id": "963082913372511",
+          "size": 51480122,
+          "shareUrl": "https://1024terabox.com/s/1s-XAj7KflyVELvV5UE1zrw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea13",
+        "name": "Floyd's Triangle Pattern",
+        "type": "ivideo",
+        "sourceId": "hnb8dtdu14",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hnb8dtdu14.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Floyd's_Triangle_Pattern_hnb8dtdu14_1080p.mp4",
+          "fs_id": "802661102833313",
+          "size": 20070527,
+          "shareUrl": "https://1024terabox.com/s/11wBOoqKFjHxE03SLpgiA6A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea14",
+        "name": "Diamond Pattern",
+        "type": "ivideo",
+        "sourceId": "0ss5aizwp9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0ss5aizwp9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Diamond_Pattern_0ss5aizwp9_1080p.mp4",
+          "fs_id": "178442043379805",
+          "size": 85836965,
+          "shareUrl": "https://1024terabox.com/s/1oZrAc87Qkrezb4jQLZG6iA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea15",
+        "name": "Butterfly Pattern",
+        "type": "ivideo",
+        "sourceId": "jp7db5y851",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jp7db5y851.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Patterns/Patterns_Butterfly_Pattern_jp7db5y851_1080p.mp4",
+          "fs_id": "687910605012542",
+          "size": 103463714,
+          "shareUrl": "https://1024terabox.com/s/1vnpQ73KlQjhsZ-etLxwZ_w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Functions",
+    "learningPath": [
+      {
+        "id": "68fa3b4287f7d968610eea19",
+        "name": "What are Functions?",
+        "type": "ivideo",
+        "sourceId": "0rye5z55q4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0rye5z55q4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_What_are_Functions__0rye5z55q4_1080p.mp4",
+          "fs_id": "303471884721735",
+          "size": 67219064,
+          "shareUrl": "https://1024terabox.com/s/1BVTiAkWPb-2HhX7K9cI3yQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1a",
+        "name": "Forward Declaration",
+        "type": "ivideo",
+        "sourceId": "onchwats9j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/onchwats9j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Forward_Declaration_onchwats9j_1080p.mp4",
+          "fs_id": "441541229350542",
+          "size": 20583913,
+          "shareUrl": "https://1024terabox.com/s/1u30vvFmZw5enExLP2-tZXg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1b",
+        "name": "Syntax with Parameters",
+        "type": "ivideo",
+        "sourceId": "14jkc994ad",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/14jkc994ad.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Syntax_with_Parameters_14jkc994ad_1080p.mp4",
+          "fs_id": "867014705168058",
+          "size": 43085087,
+          "shareUrl": "https://1024terabox.com/s/17PTDEFVB5dfmt39ZR4-Zig",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1c",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "z7uq7deazc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/z7uq7deazc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Practice_Qs_z7uq7deazc_1080p.mp4",
+          "fs_id": "1099858339625214",
+          "size": 16993518,
+          "shareUrl": "https://1024terabox.com/s/1auAwG0rnLlWw7aTsDv5H6w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1d",
+        "name": "Practice Qs (Factorial)",
+        "type": "ivideo",
+        "sourceId": "c6xvyo8nyb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/c6xvyo8nyb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Practice_Qs_(Factorial)_c6xvyo8nyb_1080p.mp4",
+          "fs_id": "232896748885057",
+          "size": 28285143,
+          "shareUrl": "https://1024terabox.com/s/1lq2q3zaLifyEVb_VPLvsUg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1e",
+        "name": "Function call in Memory",
+        "type": "ivideo",
+        "sourceId": "4dvugjwzif",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4dvugjwzif.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Function_call_in_Memory_4dvugjwzif_1080p.mp4",
+          "fs_id": "320706845114426",
+          "size": 37738567,
+          "shareUrl": "https://1024terabox.com/s/1LNNjttMXqWVAUPNUJJKPJA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea1f",
+        "name": "Scope (Local & Global)",
+        "type": "ivideo",
+        "sourceId": "9al12onk6w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9al12onk6w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Scope_(Local_&_Global)_9al12onk6w_1080p.mp4",
+          "fs_id": "391335582326381",
+          "size": 31784581,
+          "shareUrl": "https://1024terabox.com/s/1qcFNFgqBx5GI_6zzDBP_EQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea20",
+        "name": "Practice Qs (Prime Number)",
+        "type": "ivideo",
+        "sourceId": "pwjmhy6ztl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pwjmhy6ztl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Practice_Qs_(Prime_Number)_pwjmhy6ztl_1080p.mp4",
+          "fs_id": "1084997394846462",
+          "size": 33514026,
+          "shareUrl": "https://1024terabox.com/s/1Meji0naLadLmtlPg2JwVBg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea21",
+        "name": "Practice Qs (Binomial Coefficient)",
+        "type": "ivideo",
+        "sourceId": "hdvaeuzk5d",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hdvaeuzk5d.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Practice_Qs_(Binomial_Coefficient)_hdvaeuzk5d_1080p.mp4",
+          "fs_id": "956334773171565",
+          "size": 29090558,
+          "shareUrl": "https://1024terabox.com/s/1y9nJ0YpPAuehdprMolRRBg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea22",
+        "name": "Function Overloading",
+        "type": "ivideo",
+        "sourceId": "xvjyj7z27b",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xvjyj7z27b.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Function_Overloading_xvjyj7z27b_1080p.mp4",
+          "fs_id": "183558901507315",
+          "size": 31943920,
+          "shareUrl": "https://1024terabox.com/s/1s1GyvL2UAmxC54a_pn2qBg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "68fa3b4287f7d968610eea23",
+        "name": "Practice Qs (Primes in Range)",
+        "type": "ivideo",
+        "sourceId": "7ymovmf8gz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ymovmf8gz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Functions/Functions_Practice_Qs_(Primes_in_Range)_7ymovmf8gz_1080p.mp4",
+          "fs_id": "526039691871975",
+          "size": 33520125,
+          "shareUrl": "https://1024terabox.com/s/11cGKuKrZV-Br_QbSYjxBYA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Binary Number System",
+    "learningPath": [
+      {
+        "id": "690a0cf2feae03277107f0a4",
+        "name": "What is Binary Number System?",
+        "type": "ivideo",
+        "sourceId": "kjermet4gr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kjermet4gr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_What_is_Binary_Number_System__kjermet4gr_1080p.mp4",
+          "fs_id": "502043782540341",
+          "size": 38033305,
+          "shareUrl": "https://1024terabox.com/s/1Xy3X09aNPg_Yy7zE18yH3Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0a5",
+        "name": "Convert Binary to Decimal",
+        "type": "ivideo",
+        "sourceId": "jmc97t9m5z",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jmc97t9m5z.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Convert_Binary_to_Decimal_jmc97t9m5z_1080p.mp4",
+          "fs_id": "382147181111008",
+          "size": 14983995,
+          "shareUrl": "https://1024terabox.com/s/1KM4jtsMvqbcOfq5ik38WJw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0a6",
+        "name": "Convert Decimal to Binary",
+        "type": "ivideo",
+        "sourceId": "rtli2vnr0y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rtli2vnr0y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Convert_Decimal_to_Binary_rtli2vnr0y_1080p.mp4",
+          "fs_id": "542117021881813",
+          "size": 9812258,
+          "shareUrl": "https://1024terabox.com/s/1iQaxbeVCIkP9br_SoB0tMg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0a7",
+        "name": "Question (Decimal to Binary)",
+        "type": "ivideo",
+        "sourceId": "50f1p6qenx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/50f1p6qenx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Question_(Decimal_to_Binary)_50f1p6qenx_1080p.mp4",
+          "fs_id": "675606032427730",
+          "size": 32312511,
+          "shareUrl": "https://1024terabox.com/s/1m9XViEHw806HKE6UwY-zcg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0a8",
+        "name": "Common Numbers in Binary",
+        "type": "ivideo",
+        "sourceId": "nfmcnhdok2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nfmcnhdok2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Common_Numbers_in_Binary_nfmcnhdok2_1080p.mp4",
+          "fs_id": "59439511950249",
+          "size": 31076855,
+          "shareUrl": "https://1024terabox.com/s/1FS2y3rOX7pHLG1E6V2BTcQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0a9",
+        "name": "Data Type Modifiers",
+        "type": "ivideo",
+        "sourceId": "8x5bg625zy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8x5bg625zy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Data_Type_Modifiers_8x5bg625zy_1080p.mp4",
+          "fs_id": "242979649941308",
+          "size": 74740400,
+          "shareUrl": "https://1024terabox.com/s/1v-EzGbMjHhh3__ljc0PFrw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0aa",
+        "name": "Binary to Decimal (Code)",
+        "type": "ivideo",
+        "sourceId": "h1xud0hqx4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/h1xud0hqx4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Binary_to_Decimal_(Code)_h1xud0hqx4_1080p.mp4",
+          "fs_id": "898748002732262",
+          "size": 24980373,
+          "shareUrl": "https://1024terabox.com/s/1xRIeHR5OaKOuCEKO_u4Hqw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0ab",
+        "name": "Decimal to Binary (Code)",
+        "type": "ivideo",
+        "sourceId": "wgk8whf0kj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/wgk8whf0kj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Binary_Number_System/Binary_Number_System_Decimal_to_Binary_(Code)_wgk8whf0kj_1080p.mp4",
+          "fs_id": "1043558300776149",
+          "size": 52174300,
+          "shareUrl": "https://1024terabox.com/s/1JiHFbNV6aRBQ4cGn5rYQ5g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Introduction to Pointers",
+    "learningPath": [
+      {
+        "id": "690a0cf2feae03277107f0ae",
+        "name": "Basic Concepts of Memory",
+        "type": "ivideo",
+        "sourceId": "joenqb8da7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/joenqb8da7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Basic_Concepts_of_Memory_joenqb8da7_1080p.mp4",
+          "fs_id": "210548501592817",
+          "size": 43680032,
+          "shareUrl": "https://1024terabox.com/s/1mp1js_9KulpSD0-RtSqUBw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0af",
+        "name": "AddressOf (&) Operator",
+        "type": "ivideo",
+        "sourceId": "j1wqc9fzcd",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j1wqc9fzcd.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_AddressOf_(&)_Operator_j1wqc9fzcd_1080p.mp4",
+          "fs_id": "51146868179268",
+          "size": 23977293,
+          "shareUrl": "https://1024terabox.com/s/1ipt7tdaKokGyufNmDyTx4g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b0",
+        "name": "What are Pointers?",
+        "type": "ivideo",
+        "sourceId": "kto7p7ooxn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kto7p7ooxn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_What_are_Pointers__kto7p7ooxn_1080p.mp4",
+          "fs_id": "901703878143178",
+          "size": 73571743,
+          "shareUrl": "https://1024terabox.com/s/12HxxnZXbdtV6_6YG24FB9Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b1",
+        "name": "Dereference Operator",
+        "type": "ivideo",
+        "sourceId": "9e1qs7n1ym",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/9e1qs7n1ym.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Dereference_Operator_9e1qs7n1ym_1080p.mp4",
+          "fs_id": "279621025762244",
+          "size": 41281776,
+          "shareUrl": "https://1024terabox.com/s/1WO4r9uGzDCzUrYQ8svUprg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b2",
+        "name": "Null Pointers",
+        "type": "ivideo",
+        "sourceId": "50fjqafcjz",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/50fjqafcjz.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Null_Pointers_50fjqafcjz_1080p.mp4",
+          "fs_id": "88574095850516",
+          "size": 22912962,
+          "shareUrl": "https://1024terabox.com/s/1ZByZyll_-6yBozi9Jqd6cg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b3",
+        "name": "Passing Arguments (Value vs Reference)",
+        "type": "ivideo",
+        "sourceId": "u8s313xxtl",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/u8s313xxtl.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Passing_Arguments_(Value_vs_Reference)_u8s313xxtl_1080p.mp4",
+          "fs_id": "1004831039814088",
+          "size": 66662889,
+          "shareUrl": "https://1024terabox.com/s/1jbaezDDwo62okohA9kFoUw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b4",
+        "name": "Reference Variables",
+        "type": "ivideo",
+        "sourceId": "enfuyba8dc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/enfuyba8dc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Reference_Variables_enfuyba8dc_1080p.mp4",
+          "fs_id": "981592437643319",
+          "size": 53394383,
+          "shareUrl": "https://1024terabox.com/s/1FuzKmYMLD40THPoY0JnU0A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b5",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "lieqs6a7lr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/lieqs6a7lr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Practice_Qs_lieqs6a7lr_1080p.mp4",
+          "fs_id": "647908706188283",
+          "size": 28148589,
+          "shareUrl": "https://1024terabox.com/s/1kkIp4p_8E45_i0J2YUJjVg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0b6",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "0e7w3ugsgn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/0e7w3ugsgn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Introduction_to_Pointers/Introduction_to_Pointers_Practice_Qs_0e7w3ugsgn_1080p.mp4",
+          "fs_id": "846198512313525",
+          "size": 20946817,
+          "shareUrl": "https://1024terabox.com/s/1Al7UEgK3pMCvXcE36F8DfQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Arrays (Part I)",
+    "learningPath": [
+      {
+        "id": "690a0cf2feae03277107f0b9",
+        "name": "Basics of Array",
+        "type": "ivideo",
+        "sourceId": "k7sbxtjcwa",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/k7sbxtjcwa.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Basics_of_Array_k7sbxtjcwa_1080p.mp4",
+          "fs_id": "1023564443640370",
+          "size": 80987012,
+          "shareUrl": "https://1024terabox.com/s/1HG3UaBtA8CfREXRxSIdEcg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0ba",
+        "name": "Creating an Array",
+        "type": "ivideo",
+        "sourceId": "b3k8ug8q58",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b3k8ug8q58.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Creating_an_Array_b3k8ug8q58_1080p.mp4",
+          "fs_id": "222059556553310",
+          "size": 89828004,
+          "shareUrl": "https://1024terabox.com/s/1rMhjHzNQwXiBerN5osUyPQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0bb",
+        "name": "Output & Input Array",
+        "type": "ivideo",
+        "sourceId": "bnpgw5eooj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bnpgw5eooj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Output_&_Input_Array_bnpgw5eooj_1080p.mp4",
+          "fs_id": "523626754681181",
+          "size": 80431434,
+          "shareUrl": "https://1024terabox.com/s/1C6IFEkXwVocRlKqBXfR-Gg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0bc",
+        "name": "Find Largest in Array",
+        "type": "ivideo",
+        "sourceId": "b98d1pinsx",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/b98d1pinsx.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Find_Largest_in_Array_b98d1pinsx_1080p.mp4",
+          "fs_id": "20055365183304",
+          "size": 47996285,
+          "shareUrl": "https://1024terabox.com/s/1u42C4aDIDv0JswtOgg1UlA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0bd",
+        "name": "Arrays are passed by Reference",
+        "type": "ivideo",
+        "sourceId": "nakxxc0ggy",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nakxxc0ggy.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Arrays_are_passed_by_Reference_nakxxc0ggy_1080p.mp4",
+          "fs_id": "142093119306834",
+          "size": 95471842,
+          "shareUrl": "https://1024terabox.com/s/1Edc8o6wNvMUCRJGgotPN5w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0bf",
+        "name": "Linear Search",
+        "type": "ivideo",
+        "sourceId": "qb42vji6sj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/qb42vji6sj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Linear_Search_qb42vji6sj_1080p.mp4",
+          "fs_id": "107087044702914",
+          "size": 114361964,
+          "shareUrl": "https://1024terabox.com/s/1bTxF1Nk4Bdtp6Cj-76mNcw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c0",
+        "name": "Reverse an Array",
+        "type": "ivideo",
+        "sourceId": "zdjzh6da5y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/zdjzh6da5y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Reverse_an_Array_zdjzh6da5y_1080p.mp4",
+          "fs_id": "695792391507661",
+          "size": 200314271,
+          "shareUrl": "https://1024terabox.com/s/1xNz3s6vFd5gWgWnz4DxuhA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c1",
+        "name": "Binary Search",
+        "type": "ivideo",
+        "sourceId": "whr04yw01x",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/whr04yw01x.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Binary_Search_whr04yw01x_1080p.mp4",
+          "fs_id": "912518339903443",
+          "size": 144515880,
+          "shareUrl": "https://1024terabox.com/s/1wmeXzPLGSJmotQlH-T3cww",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c2",
+        "name": "Binary Search Code",
+        "type": "ivideo",
+        "sourceId": "xcb0m2i4uv",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/xcb0m2i4uv.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Binary_Search_Code_xcb0m2i4uv_1080p.mp4",
+          "fs_id": "541723025871985",
+          "size": 18666288,
+          "shareUrl": "https://1024terabox.com/s/12HMGQpHdCsvu1Ijwyg8asQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c3",
+        "name": "Binary Search (Time Complexity)",
+        "type": "ivideo",
+        "sourceId": "v5ui6nmpbr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/v5ui6nmpbr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Binary_Search_(Time_Complexity)_v5ui6nmpbr_1080p.mp4",
+          "fs_id": "953954991285598",
+          "size": 99545775,
+          "shareUrl": "https://1024terabox.com/s/1X8wlf9qh4_wzuD8RUN6cfQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c4",
+        "name": "Array Pointer",
+        "type": "ivideo",
+        "sourceId": "s2uri1i9u7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/s2uri1i9u7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Array_Pointer_s2uri1i9u7_1080p.mp4",
+          "fs_id": "150186289548850",
+          "size": 11945371,
+          "shareUrl": "https://1024terabox.com/s/1YPjwR_ACkjox-QJ7HhwGLQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c5",
+        "name": "Pointer Arithmetic 1",
+        "type": "ivideo",
+        "sourceId": "iqyh2hu66e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/iqyh2hu66e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Pointer_Arithmetic_1_iqyh2hu66e_1080p.mp4",
+          "fs_id": "51217691777273",
+          "size": 57836955,
+          "shareUrl": "https://1024terabox.com/s/1PA7vBTioKeq8PgTtLjanZg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c6",
+        "name": "Pointer Arithmetic 2",
+        "type": "ivideo",
+        "sourceId": "t1pqrcjq4a",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/t1pqrcjq4a.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Pointer_Arithmetic_2_t1pqrcjq4a_1080p.mp4",
+          "fs_id": "193836182470951",
+          "size": 66513035,
+          "shareUrl": "https://1024terabox.com/s/16A2pfDTQ0bwX9H14sd5pDA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c7",
+        "name": "Pointer Arithmetic 3",
+        "type": "ivideo",
+        "sourceId": "j622132ljm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/j622132ljm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Pointer_Arithmetic_3_j622132ljm_1080p.mp4",
+          "fs_id": "641194795368861",
+          "size": 40539601,
+          "shareUrl": "https://1024terabox.com/s/1_e4KkIcUvCb2_tF6r7Ysgw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0c8",
+        "name": "Pointer Arithmetic 4",
+        "type": "ivideo",
+        "sourceId": "yfuva5x231",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yfuva5x231.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_I)/Arrays_(Part_I)_Pointer_Arithmetic_4_yfuva5x231_1080p.mp4",
+          "fs_id": "1035416917543790",
+          "size": 8741460,
+          "shareUrl": "https://1024terabox.com/s/1HHKtAssZQJLR_YgbieCJSg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Arrays (Part II)",
+    "learningPath": [
+      {
+        "id": "690a0cf2feae03277107f0c9",
+        "name": "Print Subarrays",
+        "type": "ivideo",
+        "sourceId": "3ju79ye8vf",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3ju79ye8vf.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Print_Subarrays_3ju79ye8vf_1080p.mp4",
+          "fs_id": "375965373744828",
+          "size": 170155550,
+          "shareUrl": "https://1024terabox.com/s/1sxy8FLYe8iT61TyVsPVT5g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0ca",
+        "name": "Max Sum Subarray (Brute Force)",
+        "type": "ivideo",
+        "sourceId": "ms69df4ra9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ms69df4ra9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Max_Sum_Subarray_(Brute_Force)_ms69df4ra9_1080p.mp4",
+          "fs_id": "547920110726707",
+          "size": 132284972,
+          "shareUrl": "https://1024terabox.com/s/1AMys80mlmx4HMFucHHZqmA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0cb",
+        "name": "Max Sum Subarray (Slightly Optimized)",
+        "type": "ivideo",
+        "sourceId": "kg7grnpz7w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/kg7grnpz7w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Max_Sum_Subarray_(Slightly_Optimized)_kg7grnpz7w_1080p.mp4",
+          "fs_id": "1041240105875288",
+          "size": 71720395,
+          "shareUrl": "https://1024terabox.com/s/1-zuIFIfKUwnf6suTtXM2sA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0cc",
+        "name": "Kadane's Algorithm for Max Sum Subarray",
+        "type": "ivideo",
+        "sourceId": "jbfry5icdm",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jbfry5icdm.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Kadane's_Algorithm_for_Max_Sum_Subarray_jbfry5icdm_1080p.mp4",
+          "fs_id": "640799625051043",
+          "size": 82011258,
+          "shareUrl": "https://1024terabox.com/s/1qH5IbQkPSioU6ElO8-Hd_A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0cd",
+        "name": "Buy & Sell Stocks",
+        "type": "ivideo",
+        "sourceId": "dy58k6mzlj",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dy58k6mzlj.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Buy_&_Sell_Stocks_dy58k6mzlj_1080p.mp4",
+          "fs_id": "110975413522904",
+          "size": 140871310,
+          "shareUrl": "https://1024terabox.com/s/1LjsyAzDfU_67hsYb10YPLQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0ce",
+        "name": "Buy & Sell Stocks (Code)",
+        "type": "ivideo",
+        "sourceId": "shqheowc9o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/shqheowc9o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Buy_&_Sell_Stocks_(Code)_shqheowc9o_1080p.mp4",
+          "fs_id": "122690905619835",
+          "size": 68576197,
+          "shareUrl": "https://1024terabox.com/s/1P9WyhRhe1lG9x_Zz1AvQEQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0cf",
+        "name": "Trapping Rainwater",
+        "type": "ivideo",
+        "sourceId": "jeamqalc80",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/jeamqalc80.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Trapping_Rainwater_jeamqalc80_1080p.mp4",
+          "fs_id": "608146098958018",
+          "size": 216238988,
+          "shareUrl": "https://1024terabox.com/s/1hN11nzPSd9pgU5H-yCgR8A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d0",
+        "name": "Trapping Rainwater (Code)",
+        "type": "ivideo",
+        "sourceId": "nkg91k3ioc",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/nkg91k3ioc.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Arrays_(Part_II)/Arrays_(Part_II)_Trapping_Rainwater_(Code)_nkg91k3ioc_1080p.mp4",
+          "fs_id": "759015039475750",
+          "size": 153219155,
+          "shareUrl": "https://1024terabox.com/s/1PX6pHU9NB0LqBwpFzMsO7w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Basic Sorting Algorithms",
+    "learningPath": [
+      {
+        "id": "690a0cf2feae03277107f0d3",
+        "name": "Bubble Sort",
+        "type": "ivideo",
+        "sourceId": "yig3u4p150",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yig3u4p150.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Bubble_Sort_yig3u4p150_1080p.mp4",
+          "fs_id": "559919787596805",
+          "size": 140221418,
+          "shareUrl": "https://1024terabox.com/s/1tXA7-eobp6V53DWQe2j_Eg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d4",
+        "name": "Bubble Sort (Code)",
+        "type": "ivideo",
+        "sourceId": "yg7cd27gic",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yg7cd27gic.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Bubble_Sort_(Code)_yg7cd27gic_1080p.mp4",
+          "fs_id": "605101938260911",
+          "size": 58428067,
+          "shareUrl": "https://1024terabox.com/s/1kNRlD45O4vCGZSw4ATDzlQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d5",
+        "name": "Selection Sort",
+        "type": "ivideo",
+        "sourceId": "81zyslgu0o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/81zyslgu0o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Selection_Sort_81zyslgu0o_1080p.mp4",
+          "fs_id": "1069244265203609",
+          "size": 71951280,
+          "shareUrl": "https://1024terabox.com/s/1DFdguV0z0OCIAmjxFC99pg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d6",
+        "name": "Selection Sort (Code)",
+        "type": "ivideo",
+        "sourceId": "3rdbxak31p",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3rdbxak31p.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Selection_Sort_(Code)_3rdbxak31p_1080p.mp4",
+          "fs_id": "158493684235044",
+          "size": 25724651,
+          "shareUrl": "https://1024terabox.com/s/1dNKB2_cXr-tb_RsmBhEJMg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d7",
+        "name": "Insertion Sort",
+        "type": "ivideo",
+        "sourceId": "ktpb278zx7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ktpb278zx7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Insertion_Sort_ktpb278zx7_1080p.mp4",
+          "fs_id": "204223159358969",
+          "size": 132670510,
+          "shareUrl": "https://1024terabox.com/s/1fi0Y6i6KSTshoxYXj90xqQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d8",
+        "name": "Insertion Sort (Code)",
+        "type": "ivideo",
+        "sourceId": "cky300wb20",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/cky300wb20.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Insertion_Sort_(Code)_cky300wb20_1080p.mp4",
+          "fs_id": "643634435882218",
+          "size": 12279887,
+          "shareUrl": "https://1024terabox.com/s/1Vw77KPvysZ3m36rGU4Tj0Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0d9",
+        "name": "Counting Sort",
+        "type": "ivideo",
+        "sourceId": "7jqgsxe79j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7jqgsxe79j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Counting_Sort_7jqgsxe79j_1080p.mp4",
+          "fs_id": "540149628406535",
+          "size": 126770246,
+          "shareUrl": "https://1024terabox.com/s/15EElVxxsdHuZ_vkcMiNOSA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0da",
+        "name": "Counting Sort (Code)",
+        "type": "ivideo",
+        "sourceId": "vl4uyghrcr",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vl4uyghrcr.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Counting_Sort_(Code)_vl4uyghrcr_1080p.mp4",
+          "fs_id": "882164330974476",
+          "size": 24279989,
+          "shareUrl": "https://1024terabox.com/s/1JmhjjSk5z6E7hfmDkOcntQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0db",
+        "name": "In-built Sort in C++",
+        "type": "ivideo",
+        "sourceId": "fvl0eik4ko",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fvl0eik4ko.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_In-built_Sort_in_C++_fvl0eik4ko_1080p.mp4",
+          "fs_id": "157872705429531",
+          "size": 38611727,
+          "shareUrl": "https://1024terabox.com/s/16dhCUL5Mx-0HHDsRIwlWGg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf2feae03277107f0dc",
+        "name": "Practice Qs",
+        "type": "ivideo",
+        "sourceId": "e14epc61pt",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e14epc61pt.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Basic_Sorting_Algorithms/Basic_Sorting_Algorithms_Practice_Qs_e14epc61pt_1080p.mp4",
+          "fs_id": "337717727448541",
+          "size": 27725471,
+          "shareUrl": "https://1024terabox.com/s/1B5YOqClEK4cID9t_SN4log",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "2D Arrays",
+    "learningPath": [
+      {
+        "id": "690a0cf3feae03277107f0de",
+        "name": "Introduction to 2D Arrays",
+        "type": "ivideo",
+        "sourceId": "8lxttidbue",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8lxttidbue.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Introduction_to_2D_Arrays_8lxttidbue_1080p.mp4",
+          "fs_id": "442900538927385",
+          "size": 110576101,
+          "shareUrl": "https://1024terabox.com/s/1j1NWFKzwpAjo76-2_HvBFQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0df",
+        "name": "Input & Output a 2D Array",
+        "type": "ivideo",
+        "sourceId": "sob4yiph5w",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/sob4yiph5w.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Input_&_Output_a_2D_Array_sob4yiph5w_1080p.mp4",
+          "fs_id": "948581730155831",
+          "size": 45269302,
+          "shareUrl": "https://1024terabox.com/s/1kMhfhYHvgSPv_s8avc-lIQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e0",
+        "name": "2D Arrays in Memory",
+        "type": "ivideo",
+        "sourceId": "ewi91tu4r9",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ewi91tu4r9.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_2D_Arrays_in_Memory_ewi91tu4r9_1080p.mp4",
+          "fs_id": "865716965930772",
+          "size": 44790872,
+          "shareUrl": "https://1024terabox.com/s/1ptHG-PTnDkiZhDx4-6N6Gw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e1",
+        "name": "Spiral Matrix",
+        "type": "ivideo",
+        "sourceId": "fsdar0wrlo",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/fsdar0wrlo.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Spiral_Matrix_fsdar0wrlo_1080p.mp4",
+          "fs_id": "160516480458076",
+          "size": 140402181,
+          "shareUrl": "https://1024terabox.com/s/1tZzu1Xam1FIv7ghcwqGUtA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e2",
+        "name": "Spiral Matrix (Code)",
+        "type": "ivideo",
+        "sourceId": "e3ty50s55e",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/e3ty50s55e.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Spiral_Matrix_(Code)_e3ty50s55e_1080p.mp4",
+          "fs_id": "962290446934494",
+          "size": 150372363,
+          "shareUrl": "https://1024terabox.com/s/1e_h1mD6DO4dWfwlYBRqhOA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e3",
+        "name": "Diagonal Sum",
+        "type": "ivideo",
+        "sourceId": "8b2ejb51ap",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/8b2ejb51ap.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Diagonal_Sum_8b2ejb51ap_1080p.mp4",
+          "fs_id": "863842684189061",
+          "size": 79251095,
+          "shareUrl": "https://1024terabox.com/s/19w_k-NNiCRo3EbAhHxJeGA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e4",
+        "name": "Diagonal Sum (Code)",
+        "type": "ivideo",
+        "sourceId": "yqzwinte3f",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/yqzwinte3f.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Diagonal_Sum_(Code)_yqzwinte3f_1080p.mp4",
+          "fs_id": "303628599231287",
+          "size": 36738086,
+          "shareUrl": "https://1024terabox.com/s/1ynUyN7I4fy0ZVjj19xJuRw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e5",
+        "name": "Search in Sorted Matrix",
+        "type": "ivideo",
+        "sourceId": "598ud3w4lg",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/598ud3w4lg.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Search_in_Sorted_Matrix_598ud3w4lg_1080p.mp4",
+          "fs_id": "104752434185755",
+          "size": 203579170,
+          "shareUrl": "https://1024terabox.com/s/14Eb8IE_38QCfwNfTVRpAdQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e6",
+        "name": "Search in Sorted Matrix (Code)",
+        "type": "ivideo",
+        "sourceId": "ipesu27f0i",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ipesu27f0i.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Search_in_Sorted_Matrix_(Code)_ipesu27f0i_1080p.mp4",
+          "fs_id": "712923375724472",
+          "size": 56877555,
+          "shareUrl": "https://1024terabox.com/s/15H8jVn1hDVFS1cxk60jF3A",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e7",
+        "name": "Matrix Pointers",
+        "type": "ivideo",
+        "sourceId": "3g43axc6bb",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3g43axc6bb.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Matrix_Pointers_3g43axc6bb_1080p.mp4",
+          "fs_id": "366578273732862",
+          "size": 66250958,
+          "shareUrl": "https://1024terabox.com/s/1tsztvSljCyB4Am5lgyn5Lg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "690a0cf3feae03277107f0e8",
+        "name": "Matrix Pointers in Functions",
+        "type": "ivideo",
+        "sourceId": "gnzlpb8izq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/gnzlpb8izq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/2D_Arrays/2D_Arrays_Matrix_Pointers_in_Functions_gnzlpb8izq_1080p.mp4",
+          "fs_id": "741150262901783",
+          "size": 95524982,
+          "shareUrl": "https://1024terabox.com/s/1h0zP9n4FRBoHJ4CRePeTfA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Char Arrays & Strings",
+    "learningPath": [
+      {
+        "id": "6919dfff160eed8be30942a5",
+        "name": "Revisit Char Data Type",
+        "type": "ivideo",
+        "sourceId": "vyaovk1a7l",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/vyaovk1a7l.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Revisit_Char_Data_Type_vyaovk1a7l_1080p.mp4",
+          "fs_id": "680373191748779",
+          "size": 66797853,
+          "shareUrl": "https://1024terabox.com/s/1h1-l78I5FXTXu2znzO9AXw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942a6",
+        "name": "Character Array",
+        "type": "ivideo",
+        "sourceId": "uc1ce971q6",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/uc1ce971q6.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Character_Array_uc1ce971q6_1080p.mp4",
+          "fs_id": "626467127681504",
+          "size": 99759946,
+          "shareUrl": "https://1024terabox.com/s/1Vohli7b_3HvSU50BXJBaVg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942a7",
+        "name": "Input Char Array",
+        "type": "ivideo",
+        "sourceId": "hdf6scqvb4",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/hdf6scqvb4.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Input_Char_Array_hdf6scqvb4_1080p.mp4",
+          "fs_id": "400049903624782",
+          "size": 30003335,
+          "shareUrl": "https://1024terabox.com/s/1GzTp3Y3NKvwuu2sAebLPww",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942a8",
+        "name": "Convert to UpperCase",
+        "type": "ivideo",
+        "sourceId": "d698vk8x9y",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/d698vk8x9y.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Convert_to_UpperCase_d698vk8x9y_1080p.mp4",
+          "fs_id": "3120719086577",
+          "size": 67241789,
+          "shareUrl": "https://1024terabox.com/s/13eZ5xCtbyR64X6Bj5GtKPQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942a9",
+        "name": "Reverse a Char Array",
+        "type": "ivideo",
+        "sourceId": "7ojr5kbzw7",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/7ojr5kbzw7.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Reverse_a_Char_Array_7ojr5kbzw7_1080p.mp4",
+          "fs_id": "44429609877405",
+          "size": 53012213,
+          "shareUrl": "https://1024terabox.com/s/1-JVyyBFe7oqt6T7J4hF21Q",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942aa",
+        "name": "Valid Palindrome",
+        "type": "ivideo",
+        "sourceId": "3v2vnk0a3h",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/3v2vnk0a3h.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Valid_Palindrome_3v2vnk0a3h_1080p.mp4",
+          "fs_id": "375556983629657",
+          "size": 75856775,
+          "shareUrl": "https://1024terabox.com/s/1KLUiOslyC0SnmYieuAcpiw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942ab",
+        "name": "cstring Functions",
+        "type": "ivideo",
+        "sourceId": "2j1l42qbz5",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/2j1l42qbz5.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_cstring_Functions_2j1l42qbz5_1080p.mp4",
+          "fs_id": "338566392806003",
+          "size": 54919933,
+          "shareUrl": "https://1024terabox.com/s/1zP8tKr-sWHe-SoWoqcdZxw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942ac",
+        "name": "OOPs Intro (for Strings)",
+        "type": "ivideo",
+        "sourceId": "bis31ebi24",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/bis31ebi24.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_OOPs_Intro_(for_Strings)_bis31ebi24_1080p.mp4",
+          "fs_id": "446200101646468",
+          "size": 83595946,
+          "shareUrl": "https://1024terabox.com/s/1nOyDaHObaZWEvOJigDHB6g",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942ad",
+        "name": "C++ Strings",
+        "type": "ivideo",
+        "sourceId": "dptfghcwj2",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/dptfghcwj2.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_C++_Strings_dptfghcwj2_1080p.mp4",
+          "fs_id": "748268865121273",
+          "size": 62315215,
+          "shareUrl": "https://1024terabox.com/s/1JpFMtIj7o6IZ0TbYeaM34w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942ae",
+        "name": "for each Loop",
+        "type": "ivideo",
+        "sourceId": "5jaqmcv186",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/5jaqmcv186.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_for_each_Loop_5jaqmcv186_1080p.mp4",
+          "fs_id": "529933067148453",
+          "size": 22697102,
+          "shareUrl": "https://1024terabox.com/s/1gWB_NwcHKCP-VPJKb7qSDg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942af",
+        "name": "String Member Functions",
+        "type": "ivideo",
+        "sourceId": "678m9f5nky",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/678m9f5nky.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_String_Member_Functions_678m9f5nky_1080p.mp4",
+          "fs_id": "993415185345220",
+          "size": 54259974,
+          "shareUrl": "https://1024terabox.com/s/1pxSoqGry1clopUN9goDxmw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b0",
+        "name": "Valid Anagram",
+        "type": "ivideo",
+        "sourceId": "rgjysres24",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/rgjysres24.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Valid_Anagram_rgjysres24_1080p.mp4",
+          "fs_id": "623970899171657",
+          "size": 123766309,
+          "shareUrl": "https://1024terabox.com/s/15tRktuVDg2DyQtoeSOV7Vw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b1",
+        "name": "Valid Anagram (Code)",
+        "type": "ivideo",
+        "sourceId": "mva9b9zu5o",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mva9b9zu5o.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Char_Arrays_&_Strings/Char_Arrays_&_Strings_Valid_Anagram_(Code)_mva9b9zu5o_1080p.mp4",
+          "fs_id": "391699447775928",
+          "size": 58809373,
+          "shareUrl": "https://1024terabox.com/s/1lnqMq9dXGRBWHs8JswPMTw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  },
+  {
+    "category": "Vectors",
+    "learningPath": [
+      {
+        "id": "6919dfff160eed8be30942b4",
+        "name": "Creating a Dynamic Array",
+        "type": "ivideo",
+        "sourceId": "350vyvie0u",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/350vyvie0u.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Creating_a_Dynamic_Array_350vyvie0u_1080p.mp4",
+          "fs_id": "365056350332280",
+          "size": 33459783,
+          "shareUrl": "https://1024terabox.com/s/17ryjY84rD1cUlqq2bjPrWg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b5",
+        "name": "Dynamic Memory Allocation",
+        "type": "ivideo",
+        "sourceId": "79jirbmgiw",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/79jirbmgiw.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Dynamic_Memory_Allocation_79jirbmgiw_1080p.mp4",
+          "fs_id": "356798112419296",
+          "size": 114328139,
+          "shareUrl": "https://1024terabox.com/s/1ulBvmt5yXpNm2ed1Az6YXg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b6",
+        "name": "Static v/s Dynamic Allocation",
+        "type": "ivideo",
+        "sourceId": "ew77esgeyn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/ew77esgeyn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Static_v_s_Dynamic_Allocation_ew77esgeyn_1080p.mp4",
+          "fs_id": "545270238692253",
+          "size": 13202940,
+          "shareUrl": "https://1024terabox.com/s/1vTn2G_2IjFVrxMnZq_SQgg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b7",
+        "name": "Memory Leak",
+        "type": "ivideo",
+        "sourceId": "pxd7wtty2j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/pxd7wtty2j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Memory_Leak_pxd7wtty2j_1080p.mp4",
+          "fs_id": "147944062833462",
+          "size": 66286259,
+          "shareUrl": "https://1024terabox.com/s/1CXWoQjmVf0tPE-qYQ1GWDQ",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b8",
+        "name": "2D Dynamic Arrays",
+        "type": "ivideo",
+        "sourceId": "irle63sfic",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/irle63sfic.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_2D_Dynamic_Arrays_irle63sfic_1080p.mp4",
+          "fs_id": "1065136559763351",
+          "size": 147737721,
+          "shareUrl": "https://1024terabox.com/s/1tIG0RdSOEt-DaZAr3rGF0w",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942b9",
+        "name": "What is STL?",
+        "type": "ivideo",
+        "sourceId": "4rhxnsshn3",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/4rhxnsshn3.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_What_is_STL__4rhxnsshn3_1080p.mp4",
+          "fs_id": "1014017217060323",
+          "size": 61727513,
+          "shareUrl": "https://1024terabox.com/s/1ljukkMDRfcjZJJWmZu1wqg",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942ba",
+        "name": "Vector Introduction",
+        "type": "ivideo",
+        "sourceId": "6a1zufzeyq",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/6a1zufzeyq.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Vector_Introduction_6a1zufzeyq_1080p.mp4",
+          "fs_id": "930888344421248",
+          "size": 57036651,
+          "shareUrl": "https://1024terabox.com/s/1Ry0Z79shFIXWp9rGhKdQPw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942bb",
+        "name": "Vector Implementation in Memory",
+        "type": "ivideo",
+        "sourceId": "si75ddov8j",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/si75ddov8j.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Vector_Implementation_in_Memory_si75ddov8j_1080p.mp4",
+          "fs_id": "824502110324253",
+          "size": 86259914,
+          "shareUrl": "https://1024terabox.com/s/1wgK9M3ahPxmWA_B3SK-CrA",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      },
+      {
+        "id": "6919dfff160eed8be30942bc",
+        "name": "Pair Sum",
+        "type": "ivideo",
+        "sourceId": "mjxmcrlbcn",
+        "m3u8_url": "https://fast.wistia.com/embed/medias/mjxmcrlbcn.m3u8",
+        "storage": {
+          "provider": "terabox",
+          "uploaded": true,
+          "remotePath": "/CourseArchive/Vectors/Vectors_Pair_Sum_mjxmcrlbcn_1080p.mp4",
+          "fs_id": "104059306497467",
+          "size": 132644084,
+          "shareUrl": "https://1024terabox.com/s/1kAXrAEQz1kKNYN3pUMXbuw",
+          "embedUrl": null,
+          "shareLinkError": null
+        }
+      }
+    ]
+  }
+]
